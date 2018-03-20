@@ -1,23 +1,24 @@
 {
-  "name": "ssg",
+  "name": "kaycebasques",
   "version": "1.0.0",
-  "description": "static site generator",
+  "description": "personal website of kayce basques",
   "private": "true",
   "scripts": {
-    "build": "tools/build.sh",
-    "install": "npm run build",
-    "debug": "export DEBUG=true; npm run build"
+    "build": "tools/build.sh;",
+    "install": "npm run build;",
+    "debug": "export DEBUG=true; npm run build;",
+    "serve": "cd build; python -m SimpleHTTPServer 4040;"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kaycebasques/ssg.git"
+    "url": "git+https://github.com/kaycebasques/kaycebasques.git"
   },
   "author": "Kayce Basques",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kaycebasques/ssg/issues"
+    "url": "https://github.com/kaycebasques/kaycebasques/issues"
   },
-  "homepage": "https://github.com/kaycebasques/ssg#readme",
+  "homepage": "https://kayce.basqu.es",
   "devDependencies": {
     "clean-css": "^4.1.9",
     "handlebars": "^4.0.11",
