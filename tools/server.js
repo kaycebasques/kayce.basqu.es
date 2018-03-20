@@ -1,8 +1,9 @@
 const express = require('express'),
-    app = express();
+    app = express(),
+    PORT = 4040;
 
-app.use(express.static('../build'));
+app.use(express.static(`${__dirname}/../build`));
 
-app.listen(4040, () => {
-  console.log('App started on port 4040.');
+app.listen(PORT, () => {
+  console.log(`App started on port ${PORT}.`);
 });
