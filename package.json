@@ -1,13 +1,13 @@
 {
   "name": "kaycebasques",
   "version": "1.0.0",
-  "description": "personal website of the artist formerly known as kayce basques",
+  "description": "personal website of the artist formerly known as kayce",
   "private": "true",
   "scripts": {
     "build": "tools/build.sh;",
     "install": "npm run build;",
     "debug": "export DEBUG=true; npm run build;",
-    "serve": "npm run build; nodemon tools/server.js;",
+    "serve": "node tools/server.js;"
   },
   "repository": {
     "type": "git",
@@ -24,7 +24,6 @@
     "express": "^4.16.3",
     "handlebars": "^4.0.11",
     "html-minifier": "^3.5.10",
-    "nodemon": "^1.17.2",
     "showdown": "^1.8.6",
     "uglify-js": "^3.3.12"
   },
