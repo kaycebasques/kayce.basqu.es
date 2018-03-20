@@ -1,7 +1,9 @@
 const showdown = require('showdown'),
     converter = new showdown.Converter(),
     fs = require('fs'),
-    path = 'posts',
+    buildDirectory = 'build',
+    blogSource = 'posts',
+    blogDestination = `${buildDirectory}/on`,
     handlebars = require('handlebars'),
     source = fs.readFileSync('templates/template.html', 'utf8'),
     template = handlebars.compile(source),
@@ -25,9 +27,9 @@ function getTitle(content) {
   return content.substring(start, end);
 }
 
-fs.readdir(path, (error, files) => {
+fs.readdir(blogSource, (error, files) => {
   files.forEach(file => {
-    fs.readFile(`${path}/${file}`, 'utf8', (error, markdownContent) => {
+    fs.readFile(`${blogSource}/${file}`, 'utf8', (error, markdownContent) => {
       const htmlContent = converter.makeHtml(markdownContent);
       const data = {
         body: htmlContent,
@@ -39,7 +41,7 @@ fs.readdir(path, (error, files) => {
       const minifiedHtml = html.minify(unminifiedHtml, {
         collapseWhitespace: true
       });
-      fs.writeFile(`build/blog/${file}`, minifiedHtml, (error) => {
+      fs.writeFile(`${blogDestination}/${file}`, minifiedHtml, (error) => {
         if (error) { throw error; }
       });
     });
