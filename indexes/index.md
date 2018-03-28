@@ -15,4 +15,5 @@ Stalk me across the web:
 * [GitHub](https://github.com/kaycebasques)
 * [Twitter](https://twitter.com/kaycebasques)
 * [Goodreads](https://www.goodreads.com/user/show/1090375-kayce-basques)
-* `kayce@google.com` (for Google stuff) or `kayce@basqu.es` (for everything else)
+
+Email me at `kayce@google.com` (for Google stuff) or `kayce@basqu.es` (for everything else).
