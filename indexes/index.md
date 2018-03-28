@@ -16,4 +16,5 @@ Stalk me across the web:
 * [Twitter](https://twitter.com/kaycebasques)
 * [Goodreads](https://www.goodreads.com/user/show/1090375-kayce-basques)
 
-Email me at `kayce@google.com` (for Google stuff) or `kayce@basqu.es` (for everything else).
+Email me at <a href="mailto:kayce@google.com">kayce@google.com</a> for Google stuff,
+or <a href="mailto:kayce@basqu.es">kayce@basqu.es</a> for everything elsex.
