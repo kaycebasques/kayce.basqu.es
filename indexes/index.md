@@ -2,17 +2,16 @@
 
 Hi. I'm Kayce. Welcome to my little home on the good ol' World Wide Web.
 
-I'm a technical writer on the Google Web DevRel team. I write the docs for [Chrome DevTools][CDT]
-and [Lighthouse][LH]. You can find me on the usual channels:
+Google pays me to write the docs for [Chrome DevTools][CDT] and [Lighthouse][LH].
 
 [CDT]: https://developers.google.com/web/tools/chrome-devtools
 [LH]: https://developers.google.com/web/tools/lighthouse
 
+I write about lots of stuff on [my blog](/on).
+
+Stalk me across the web:
+
 * [Stack Overflow](https://stackoverflow.com/users/1669860/kayce-basques)
 * [GitHub](https://github.com/kaycebasques)
 * [Twitter](https://twitter.com/kaycebasques)
-
-I write about lots of topics on [my blog](/on).
-
-For Google-related stuff you can email me at <code>kayce@google.com</code>. For everything
-else, use <code>kayce@basqu.es</code>.
+* `kayce@google.com` (for Google stuff) or `kayce@basqu.es` (for everything else)
