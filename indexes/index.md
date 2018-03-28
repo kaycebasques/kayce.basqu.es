@@ -1,38 +1,18 @@
-<h1>Kayce Basques</h1>
+<h1>Welcome</h1>
 
-<script>
-  function random(maxExclusive) {
-    return Math.floor(Math.random() * maxExclusive);
-  }
-  function updateTitle(current, target) {
-    function next(current, target, index) {
-      const first = current.substring(0, index),
-          middle = target.charAt(index),
-          last = current.substring(index + 1, current.length);
-      return first + middle + last;
-    }
-    if (current === target) return;
-    if (current.length > target.length) {
-      target += ' '.repeat(current.length - target.length);
-    } else if (target.length > current.length) {
-      current += ' '.repeat(target.length - current.length);
-    }
-    let n = random(target.length);
-    while (current.charAt(n) === target.charAt(n)) {
-      n = random(current.length + 1);
-    }
-    setTimeout(() => {
-      const s = next(current, target, n);
-      document.querySelector('h1').textContent = s;
-      updateTitle(s, target);
-    }, 250);
-  }
-  const greetings = [
-    'Why hello there',
-    'Greetings',
-    'Welcome'
-  ];
-  setTimeout(() => {
-    updateTitle(document.querySelector('h1').textContent, greetings[random(greetings.length)]);
-  }, 2000);
-</script>
+Hi. I'm Kayce. Welcome to my little home on the good ol' World Wide Web.
+
+I'm a technical writer on the Google Web DevRel team. I write the docs for [Chrome DevTools][CDT]
+and [Lighthouse][LH]. You can find me on the usual channels:
+
+[CDT]: https://developers.google.com/web/tools/chrome-devtools
+[LH]: https://developers.google.com/web/tools/lighthouse
+
+* [Stack Overflow](https://stackoverflow.com/users/1669860/kayce-basques)
+* [GitHub](https://github.com/kaycebasques)
+* [Twitter](https://twitter.com/kaycebasques)
+
+I write about lots of topics on [my blog](/on).
+
+For Google-related stuff you can email me at <code>kayce@google.com</code>. For everything
+else, use <code>kayce@basqu.es</code>.
