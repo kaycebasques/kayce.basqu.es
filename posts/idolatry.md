@@ -1,5 +1,7 @@
 # Idolatry
 
+<time datetime="2018-03-28">2018 March 28</time>
+
 I'm reading a fascinating critique on capitalism by the psychologist Erich
 Fromm. I first discovered Fromm via his other book, *The Art Of Love*. It's
 an enlightening perspective on what it means exactly to "love", and I highly

@@ -1,5 +1,7 @@
 # Humanism
 
+<time datetime="2018-03-21">2018 March 21</time>
+
 I'm currently on a flight back from my first trip to Paris. I was there for about 2 weeks.
 I thought a lot about society, and read 2 books:
 
