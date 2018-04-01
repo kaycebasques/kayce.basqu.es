@@ -1,3 +1,32 @@
-h1 {
-  font-weight: bold;
+* {
+  font-size: 20px;
+}
+
+body {
+  display: grid;
+  grid-template-columns: 200px auto 200px;
+  grid-template-areas:
+    ". header ."
+    ". main ."
+    ". footer .";
+}
+
+header {
+  grid-area: header;
+  text-align: right;
+}
+
+main {
+  grid-area: main;
+}
+
+footer {
+  grid-area: footer;
+  border-top: 1px solid black;
+}
+
+@media (min-width: 1400px) {
+  body {
+    grid-template-columns: 300px auto 300px;
+  }
 }
