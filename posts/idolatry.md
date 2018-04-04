@@ -2,6 +2,12 @@
 
 <time datetime="2018-03-28">2018 March 28</time>
 
+<p id="summary">
+  Summary: Idolatry is alive and well in modern society. We created our
+  economies and our governments, but now we worship them as forces greater
+  than humanity.
+</p>
+
 I'm reading a fascinating critique on capitalism by the psychologist Erich
 Fromm. I first discovered Fromm via his other book, *The Art Of Love*. It's
 an enlightening perspective on what it means exactly to "love", and I highly
@@ -17,16 +23,5 @@ only narrowly apply the concept to religious matters.
 
 But Fromm argues that idolatry permeates modern society. Humanity built
 capitalism, yet now we worship capitalism as a force greater than humanity.
-The path forward is to reclaim our power and responsibility over society.
-We are not cogs in the great machine of society. We are the masters of
-society.
-
-Fromm goes on to define a purpose for society (which includes government)
-that I quite like. He says that its purpose is to help each and every one of
-us live out fulfilling lives. I like this a lot because it gives me a
-framework to determine society's priorities. Society should be structured
-around giving us the freedom to live out a fulfilling life, however we see it.
-
-The key is to apply this principle universally. I can live out a fulfilling
-life however I see fit, as long as it doesn't impede your ability to live out
-a fulfilling life however you see fit.
+If we're ever going to effect change, destroying the culture of idolatry,
+of treating society as a force out of our control, is a good place to start.
