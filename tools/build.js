@@ -32,11 +32,27 @@ function getTitle(content) {
   return content.substring(start, end);
 }
 
+function getDate(html) {
+  const end = html.indexOf('</time>');
+  const start = html.substring(0, end).lastIndexOf('>') + 1;
+  return html.substring(start, end);
+}
+
+// TODO not working
+function getSummary(html) {
+  const search = '<p id="summary">';
+  const start = html.indexOf(search) + search.length;
+  const end = html.substring(start, html.length).indexOf('>');
+  return html.substring(start, end);
+}
+
 function compile(path, filename, destination) {
   const markdownContent = fs.readFileSync(`${path}/${filename}`, 'utf8');
   const htmlContent = converter.makeHtml(markdownContent);
   const title = getTitle(htmlContent),
+  date = getDate(htmlContent),
   name = getName(filename),
+  summary = getSummary(htmlContent),
   data = {
     body: htmlContent,
     title: title,
@@ -47,6 +63,8 @@ function compile(path, filename, destination) {
     postIndexData[name] = {};
     postIndexData[name].url = `/on/${name}.html`;
     postIndexData[name].title = title;
+    postIndexData[name].date = date;
+    //postIndexData[name].summary = summary;
   }
   const unminifiedHtml = template(data);
   const minifiedHtml = html.minify(unminifiedHtml, {
@@ -68,17 +86,24 @@ const posts = fs.readdirSync(blogSource);
 
 posts.forEach(file => compile('posts/', file, `build/on/${getName(file)}.html`));
 
-let postIndexContent = '';
+let postIndexContent = '<h1>Posts</h1><ul class="list">';
 
 for (const key in postIndexData) {
   const post = postIndexData[key];
-  const item = `<li><a href="${post.url}">${post.title}</a></li>`;
+  const item =
+    `<li>
+       <a class="title" href="${post.url}">${post.title}</a>
+       <time class="date">${post.date}</time>
+       <!--<p>${post.summary}</p>-->
+     </li>`;
   postIndexContent += item;
 }
 
+postIndexContent += '</ul>';
+
 const unminifiedPostIndex = template({
   body: postIndexContent,
-  title: "Kayce on...",
+  title: "Posts",
   script: getScript(),
   stylesheet: getStylesheet()
 });

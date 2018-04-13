@@ -4,7 +4,7 @@
 
 body {
   display: grid;
-  grid-template-columns: 200px auto 200px;
+  grid-template-columns: 0px auto 0px;
   grid-template-areas:
     ". header ."
     ". main ."
@@ -25,7 +25,28 @@ footer {
   border-top: 1px solid black;
 }
 
-@media (min-width: 1400px) {
+.title {
+  font-size: 24px;
+}
+
+.date {
+  font-style: italic;
+  font-size: 16px;
+}
+
+@media (min-width: 800px) {
+  body {
+    grid-template-columns: 100px auto 100px;
+  }
+}
+
+@media (min-width: 1050px) {
+  body {
+    grid-template-columns: 200px auto 200px;
+  }
+}
+
+@media (min-width: 1300px) {
   body {
     grid-template-columns: 300px auto 300px;
   }
