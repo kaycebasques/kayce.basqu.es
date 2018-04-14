@@ -25,8 +25,9 @@ footer {
   border-top: 1px solid black;
 }
 
-.title {
-  font-size: 24px;
+li {
+  margin-top: 16px;
+  margin-bottom: 16px;
 }
 
 .date {

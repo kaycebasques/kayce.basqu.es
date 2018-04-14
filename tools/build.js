@@ -91,7 +91,7 @@ let postIndexContent = '<h1>Posts</h1><ul class="list">';
 for (const key in postIndexData) {
   const post = postIndexData[key];
   const item =
-    `<li>
+    `<li class="post">
        <a class="title" href="${post.url}">${post.title}</a>
        <time class="date">${post.date}</time>
        <!--<p>${post.summary}</p>-->
