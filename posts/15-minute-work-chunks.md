@@ -3,7 +3,7 @@
 <time datetime="2018-04-04">2018 April 4</time>
 
 <p id="summary">
-  An experiment in working on projects for 15 minutes each. No more, no less.
+  If you're feeling overwhelmed, try hacking away at each task for 15 minutes. No more, no less.
 </p>
 
 Today I was briefly overwhelmed with option paralysis. I have a lot of

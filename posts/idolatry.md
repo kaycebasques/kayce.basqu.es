@@ -5,7 +5,8 @@
 <p id="summary">
   Summary: Idolatry is alive and well in modern society. We created our
   economies and our governments, but now we worship them as forces greater
-  than humanity.
+  than humanity. If we want to change society, we can begin by challenging
+  any thoughts that treat it as a force greater than us.
 </p>
 
 I'm reading a fascinating critique on capitalism by the psychologist Erich
@@ -17,7 +18,7 @@ because of that book.
 In *The Sane Society*, Fromm argues that idolatry is alive and well. Yes,
 we're talking about biblical idolatry. You probably know the story about the
 Israelites who created the golden calf during Moses's absence, and started
-worshipping it. I never paid much mind to that story up until now. I'd just
+worshipping it. I never paid much mind to that story, up until now. I'd just
 say to myself "silly Israelites" and shrug it off. I also had a tendency to
 only narrowly apply the concept to religious matters.
 
