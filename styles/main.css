@@ -1,3 +1,12 @@
+:root {
+  --indian-red: #C95053;
+  --brown: #5B2220;
+  --thistle: #DACCBF;
+  --dim-gray: #635E48;
+  --dark-slate-gray: #1E2525;
+  --border-width: 5px;
+}
+
 * {
   font-size: 20px;
 }
@@ -22,7 +31,7 @@ main {
 
 footer {
   grid-area: footer;
-  border-top: 1px solid black;
+  border-top: var(--border-width) solid var(--brown);
 }
 
 li {
@@ -30,9 +39,20 @@ li {
   margin-bottom: 16px;
 }
 
-.date {
+time {
   font-style: italic;
-  font-size: 16px;
+}
+
+#summary::before {
+  content: "Summary";
+  display: block;
+  margin-bottom: 0.5em;
+  font-weight: bold;
+}
+
+#summary {
+  padding: 1em;
+  border: var(--border-width) solid var(--indian-red);
 }
 
 @media (min-width: 800px) {

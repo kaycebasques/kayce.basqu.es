@@ -93,7 +93,7 @@ for (const key in postIndexData) {
   const item =
     `<li class="post">
        <a class="title" href="${post.url}">${post.title}</a>
-       <time class="date">${post.date}</time>
+       <time>${post.date}</time>
        <!--<p>${post.summary}</p>-->
      </li>`;
   postIndexContent += item;
