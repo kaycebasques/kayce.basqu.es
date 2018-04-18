@@ -9,12 +9,12 @@ Google pays me to write the docs for [Chrome DevTools][CDT] and [Lighthouse][LH]
 
 I write about lots of stuff on [my blog](/on).
 
-Stalk me across the web:
+You can find me at all the typical watering holes around the web:
 
 * [Stack Overflow](https://stackoverflow.com/users/1669860/kayce-basques)
 * [GitHub](https://github.com/kaycebasques)
 * [Twitter](https://twitter.com/kaycebasques)
-* [Goodreads](https://www.goodreads.com/user/show/1090375-kayce-basques)
+* [Goodreads](https://www.goodreads.com/kaycebasques)
 
 Email me at <a href="mailto:kayce@google.com">kayce@google.com</a> for Google stuff,
 or <a href="mailto:kayce@basqu.es">kayce@basqu.es</a> for everything else.
