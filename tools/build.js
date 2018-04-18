@@ -10,7 +10,7 @@ const showdown = require('showdown'),
     js = require('uglify-js'),
     css = require('clean-css'),
     html = require('html-minifier'),
-    postIndexData = {};
+    postIndexData = [];
 
 function getName(filename) {
   return filename.substring(0, filename.indexOf('.'));
@@ -60,11 +60,11 @@ function compile(path, filename, destination) {
     stylesheet: getStylesheet()
   };
   if (destination.includes('/on/') && !filename.includes('index')) {
-    postIndexData[name] = {};
-    postIndexData[name].url = `/on/${name}.html`;
-    postIndexData[name].title = title;
-    postIndexData[name].date = date;
-    //postIndexData[name].summary = summary;
+    post = {};
+    post.url = `/on/${name}.html`;
+    post.title = title;
+    post.date = date;
+    postIndexData.push(post);
   }
   const unminifiedHtml = template(data);
   const minifiedHtml = html.minify(unminifiedHtml, {
@@ -86,18 +86,25 @@ const posts = fs.readdirSync(blogSource);
 
 posts.forEach(file => compile('posts/', file, `build/on/${getName(file)}.html`));
 
-let postIndexContent = '<h1>Posts</h1><ul class="list">';
+let postIndexItems = [];
 
-for (const key in postIndexData) {
-  const post = postIndexData[key];
-  const item =
+postIndexData.forEach(post => {
+  post.html =
     `<li class="post">
        <a class="title" href="${post.url}">${post.title}</a>
        <time>${post.date}</time>
-       <!--<p>${post.summary}</p>-->
      </li>`;
-  postIndexContent += item;
-}
+});
+
+sortedPostIndexData = postIndexData.sort((a, b) => {
+  return new Date(b.date).getTime() - new Date(a.date).getTime();
+});
+
+let postIndexContent = '<h1>Posts</h1><ul class="list">';
+
+postIndexData.forEach(post => {
+  postIndexContent += post.html;
+});
 
 postIndexContent += '</ul>';
 
