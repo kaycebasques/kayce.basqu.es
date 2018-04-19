@@ -7,8 +7,3 @@
 </p>
 
 Content
-
-<ul class="tags">
-  <li><a href="/on/technical-writing">Technical Writing</a></li>
-  <li><a href="/on/economics">Economics</a></li>
-</ul>
