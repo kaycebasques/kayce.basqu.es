@@ -7,9 +7,9 @@ Google pays me to write the docs for [Chrome DevTools][CDT] and [Lighthouse][LH]
 [CDT]: https://developers.google.com/web/tools/chrome-devtools
 [LH]: https://developers.google.com/web/tools/lighthouse
 
-I write about lots of stuff on [my blog](/on).
+I've just started up [my blog](/on) again. I plan to write about lots of topics.
 
-You can find me at all the typical watering holes around the web:
+You can find me around the web at these fine establishments:
 
 * [Stack Overflow](https://stackoverflow.com/users/1669860/kayce-basques)
 * [GitHub](https://github.com/kaycebasques)
