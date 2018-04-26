@@ -22,8 +22,9 @@ function getStylesheet() {
 }
 
 function getScript() {
-  const src = fs.readFileSync('scripts/main.js', 'utf8');
-  return js.minify(src).code;
+  return fs.readFileSync('scripts/main.js', 'utf8');
+  // TODO minification not working
+  //return js.minify(src).code;
 }
 
 function getTitle(content) {
@@ -52,7 +53,7 @@ function compile(path, filename, destination) {
   const title = getTitle(htmlContent),
   date = getDate(htmlContent),
   name = getName(filename),
-  summary = getSummary(htmlContent),
+  summary = getSummary(htmlContent);
   data = {
     body: htmlContent,
     title: title,
