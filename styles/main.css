@@ -20,6 +20,10 @@ body {
     ". footer .";
 }
 
+button {
+  -webkit-appearance: none;
+}
+
 header {
   grid-area: header;
   text-align: right;

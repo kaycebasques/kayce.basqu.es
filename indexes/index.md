@@ -18,6 +18,3 @@ You can find me around the web at these fine establishments:
 
 Email me at `kayce@google.com` for Google stuff,
 or `kayce@basqu.es` for everything else.
-
-P.S. I built this site myself. I even hacked together a little custom static site generator.
-Here's the [source code](https://github.com/kaycebasques/kaycebasques).
