@@ -5,6 +5,7 @@
   --dim-gray: #635E48;
   --dark-slate-gray: #1E2525;
   --border-width: 5px;
+  --margin: 16px;
 }
 
 * {
@@ -20,8 +21,8 @@ body {
     ". footer .";
 }
 
-button {
-  -webkit-appearance: none;
+code {
+  font-size: 0.9em;
 }
 
 header {
@@ -38,13 +39,50 @@ footer {
   border-top: var(--border-width) solid var(--dark-slate-gray);
 }
 
+input {
+  -webkit-appearance: none;
+}
+
 li {
-  margin-top: 16px;
-  margin-bottom: 16px;
+  margin-top: var(--margin);
+  margin-bottom: var(--margin);
 }
 
 time {
   font-style: italic;
+}
+
+.button, button {
+  -webkit-appearance: none;
+}
+
+.subscribe--email {
+  display: flex;
+  flex-grow: 1;
+}
+
+.subscribe--container {
+  margin-bottom: var(--margin);
+  border-top: var(--border-width) solid var(--thistle);
+}
+
+.subscribe--input {
+  flex-grow: 1;
+  margin-left: var(--margin);
+  margin-right: var(--margin);
+}
+
+.subscribe--input-container {
+  display: flex;
+}
+
+.subscribe--note {
+  font-size: 0.9em;
+  font-style: italic;
+}
+
+.subscribe--submit {
+  display: inline;
 }
 
 .youtube--container {
@@ -60,6 +98,10 @@ time {
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+#mc-embedded-subscribe {
+  display: inline;
 }
 
 #summary::before {

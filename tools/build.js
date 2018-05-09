@@ -7,6 +7,7 @@ const showdown = require('showdown'),
     handlebars = require('handlebars'),
     source = fs.readFileSync('templates/base.html', 'utf8'),
     template = handlebars.compile(source),
+    subscription = fs.readFileSync('partials/subscription.html', 'utf8'),
     js = require('uglify-js'),
     css = require('clean-css'),
     html = require('html-minifier'),
@@ -60,6 +61,7 @@ function compile(path, filename, destination) {
     script: getScript(),
     stylesheet: getStylesheet()
   };
+  if (title.includes("Technical Writing") || title.includes("Technical Writer")) data.subscription = subscription;
   if (destination.includes('/on/') && !filename.includes('index')) {
     post = {};
     post.url = `/on/${name}.html`;
