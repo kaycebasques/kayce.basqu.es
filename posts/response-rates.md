@@ -1,9 +1,9 @@
-# Technical Writer Metrics: Improving Response Rates (Write The Docs 2018 Lightning Talk)
+# Technical Writer Metrics: Improving Response Rates
 
 <time datetime="2018-05-08">2018 May 8</time>
 
 <p id="summary">
-  My lightning talk from the Write The Docs 2018 conference in Portland. Using the
+  This is my lightning talk from the Write The Docs 2018 conference in Portland. Using the
   scientific method appears to be helping me improve response rates in "was this page
   helpful?" feedback widgets. If you want to join me in building a little community
   dedicated to figuring out how to apply metrics to technical writing, then email me at
@@ -29,9 +29,3 @@ Summary of key ideas from the talk:
 </div>
 
 Here's the [slides](https://docs.google.com/presentation/d/1xh6UbX7yJGrxRblywBXekLLGylzSygMJZg0lZuHy9Tc).
-
-Related:
-
-* [Technical Writer Metrics: The Purpose of Metrics](/on/metrics)
-
-TODO if the title includes "Technical Writer Metrics" then insert all other TWM posts
