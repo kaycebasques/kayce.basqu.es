@@ -4,7 +4,7 @@
   --thistle: #DACCBF;
   --dim-gray: #635E48;
   --dark-slate-gray: #1E2525;
-  --border-width: 5px;
+  --border-width: 4px;
   --margin: 16px;
 }
 
@@ -36,7 +36,7 @@ main {
 
 footer {
   grid-area: footer;
-  border-top: var(--border-width) solid var(--dark-slate-gray);
+  border-top: var(--border-width) solid black;
 }
 
 input {
@@ -63,7 +63,7 @@ time {
 
 .subscribe--container {
   margin-bottom: var(--margin);
-  border-top: var(--border-width) solid var(--thistle);
+  border-top: var(--border-width) solid black;
 }
 
 .subscribe--input {
