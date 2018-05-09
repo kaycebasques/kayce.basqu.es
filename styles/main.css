@@ -47,6 +47,21 @@ time {
   font-style: italic;
 }
 
+.youtube--container {
+  height: 0;
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%;
+}
+
+.youtube--video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 #summary::before {
   content: "Summary";
   display: block;
