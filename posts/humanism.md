@@ -1,4 +1,4 @@
-# Humanism
+# Politics: Humanism
 
 <time datetime="2018-03-21">2018 March 21</time>
 

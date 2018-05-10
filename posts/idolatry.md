@@ -1,4 +1,4 @@
-# Idolatry
+# Politics: Idolatry
 
 <time datetime="2018-03-28">2018 March 28</time>
 

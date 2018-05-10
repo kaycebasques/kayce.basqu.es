@@ -11,7 +11,8 @@ const showdown = require('showdown'),
     js = require('uglify-js'),
     css = require('clean-css'),
     html = require('html-minifier'),
-    postIndexData = [];
+    postIndexData = [],
+    categories = {};
 
 function getName(filename) {
   return filename.substring(0, filename.indexOf('.'));
@@ -61,6 +62,13 @@ function compile(path, filename, destination) {
     script: getScript(),
     stylesheet: getStylesheet()
   };
+  if (title.includes(':')) {
+    const category = title.substring(0, title.indexOf(':'));
+    if (!categories[category]) categories[category] = {};
+    categories[category][title]= {
+      url: `/on/${name}`
+    };
+  }
   if (title.includes("Technical Writing") || title.includes("Technical Writer")) data.subscription = subscription;
   if (destination.includes('/on/') && !filename.includes('index')) {
     post = {};
@@ -123,3 +131,5 @@ minifiedPostIndex = html.minify(unminifiedPostIndex, {
 });
 
 fs.writeFileSync('build/on/index.html', minifiedPostIndex);
+
+console.log(categories);
