@@ -1,4 +1,4 @@
-# Technical Writing Metrics: Regression Tests for Docs
+# Technical Writer Metrics: Regression Tests for Docs
 
 <time datetime="2018-05-17">2018 May 17</time>
 
