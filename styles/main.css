@@ -39,6 +39,10 @@ footer {
   border-top: var(--border-width) solid black;
 }
 
+img {
+  max-width: 100%;
+}
+
 input {
   -webkit-appearance: none;
 }
