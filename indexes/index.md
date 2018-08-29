@@ -2,12 +2,13 @@
 
 Hi. I'm Kayce. Welcome to my little home on the good ol' World Wide Web.
 
-Google pays me to write the docs for [Chrome DevTools][CDT] and [Lighthouse][LH].
+I work for Google as a technical writer. I write all the docs for [Chrome DevTools][CDT]
+and [Lighthouse][LH].
 
 [CDT]: https://developers.google.com/web/tools/chrome-devtools
 [LH]: https://developers.google.com/web/tools/lighthouse
 
-I've just started up [my blog](/on) again. I plan to write about lots of topics.
+I write here and there on [my blog](/on) about whatever topics strike my fancy.
 
 You can find me around the web at these fine establishments:
 
@@ -16,5 +17,4 @@ You can find me around the web at these fine establishments:
 * [Twitter](https://twitter.com/kaycebasques)
 * [Goodreads](https://www.goodreads.com/kaycebasques)
 
-Email me at `kayce@google.com` for Google stuff,
-or `kayce@basqu.es` for everything else.
+Email me at `kayce@google.com` for Google stuff, or `kayce@basqu.es` for everything else.
