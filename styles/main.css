@@ -17,26 +17,12 @@ body {
   display: grid;
   grid-template-columns: 0px auto 0px;
   grid-template-areas:
-    ". header ."
     ". main ."
     ". footer .";
 }
 
 code {
   font-size: 0.9em;
-}
-
-h1 {
-  max-width: 68%;
-}
-
-header {
-  grid-area: header;
-  text-align: right;
-  position: absolute;
-  margin: var(--margin);
-  right: 0;
-  top: 0;
 }
 
 main {
@@ -136,25 +122,16 @@ time {
   body {
     grid-template-columns: 100px auto 100px;
   }
-  header {
-    right: 100px;
-  }
 }
 
 @media (min-width: 1050px) {
   body {
     grid-template-columns: 200px auto 200px;
   }
-  header {
-    right: 200px;
-  }
 }
 
 @media (min-width: 1300px) {
   body {
     grid-template-columns: 300px auto 300px;
-  }
-  header {
-    right: 300px;
   }
 }
