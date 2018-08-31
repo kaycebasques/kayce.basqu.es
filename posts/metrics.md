@@ -1,4 +1,4 @@
-# Technical Writer Metrics: The Purpose of Metrics
+# Technical Writing: The Purpose of Metrics
 
 <time datetime="2018-04-26">2018 April 26</time>
 

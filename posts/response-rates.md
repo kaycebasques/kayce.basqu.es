@@ -1,4 +1,4 @@
-# Technical Writer Metrics: Improving Response Rates
+# Technical Writing: Improving Response Rates
 
 <time datetime="2018-05-08">2018 May 8</time>
 
