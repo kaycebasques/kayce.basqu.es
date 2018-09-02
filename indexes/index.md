@@ -17,4 +17,4 @@ You can find me around the web at these fine establishments:
 * [Twitter](https://twitter.com/kaycebasques)
 * [Goodreads](https://www.goodreads.com/kaycebasques)
 
-Email me at `kayce@google.com` for Google stuff, or `kayce@basqu.es` for everything else.
+Email me at kayce@google.com or kayce@basqu.es.
