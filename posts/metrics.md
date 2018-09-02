@@ -28,8 +28,3 @@ writing boil down to 3 questions:
 
 These will be my 3 fields of inquiry. If you think my approach is wildly off, you can
 potentially save me a lot of time and pain by emailing me (`kayce@basqu.es`) your thoughts.
-
-And now, a question for you. Did you find this post useful?
-
-<button class="feedback" data-group="helpful" data-value="1">Yes</button>
-<button class="feedback" data-group="helpful" data-value="0">No</button>

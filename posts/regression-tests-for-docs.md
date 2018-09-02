@@ -54,11 +54,6 @@ I can imagine 2 main uses for this tool:
   It may be worthwhile to find out what's causing the increase, and focus
   more efforts on that channel in the future.
 
-Do you think that this tool would generate actionable data for you?
-
-<button class="feedback" data-group="helpful" data-value="1">Yes</button>
-<button class="feedback" data-group="helpful" data-value="0">No</button>
-
 If you've got any ideas on how to make this useful, or if you think it's
 flawed and I shouldn't pursue it, please email me at `kayce@basqu.es`.
 
