@@ -1,12 +1,61 @@
-<div id="mc_embed_signup" class="subscribe--container">
+<aside id="mc_embed_signup" class="subscribe--container">
+  <style>
+    @font-face {
+      /* https://www.1001fonts.com/carter-one-font.html */
+      font-family: "Carter One";
+      src: url("/fonts/CarterOne.ttf") format("truetype");
+    }
+    #mc-embedded-subscribe {
+      display: inline;
+    }
+    .subscribe--email {
+      display: box;
+    }
+    .subscribe--container {
+      width: 100%;
+    }
+    .subscribe--input {
+      display: block;
+      padding: calc(var(--spacing) / 2);
+    }
+    .subscribe--input-container {
+      display: block;
+    }
+    .subscribe--label {
+      display: block;
+    }
+    .subscribe--salespitch {
+      font-family: "Carter One";
+      font-size: 0.9em;
+      margin-top: 0;
+    }
+    .subscribe--submit {
+      display: block;
+      margin-bottom: var(--spacing);
+    }
+    .subscribe--title {
+      margin-bottom: var(--spacing);
+    }
+  </style>
   <form action="https://basqu.us18.list-manage.com/subscribe/post?u=7e84c31a3938a7a68469b10a9&amp;id=98399979da"
         method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-      <h2>Subscribe to my technical writing posts</h2>
+      <h2 class="subscribe--title">Subscribe to my technical writing posts</h2>
+      <p class="subscribe--salespitch">
+        SULTRY TALES OF INTRIGUE! MURDER! PASSION! <sup>1</sup>
+        STRAIGHT TO YOUR ELECTRONIC MAILBOX EVERY THURSDAY! <sup>2</sup>
+      </p>
+      <p style="font-size:0.60em">
+        <sup>1</sup> By "sultry tales of intrigue, murder, and passion" I mean dry, informative articles that
+        attempt to advance the art or science of technical writing, written for the practicing technical writer.
+      </p>
+      <p style="font-size:0.60em">
+        <sup>2</sup> By "every Thursday" I mean whenever I get enough inspiration to write an article.
+      </p>
       <div class="subscribe--input-container">
         <div class="mc-field-group subscribe--email">
           <label for="mce-EMAIL" class="subscribe--label">Email Address</label>
-          <input type="email" value="" name="EMAIL" class="required email subscribe--input" id="mce-EMAIL">
+          <input type="email" value="" name="EMAIL" class="required email subscribe--input" id="mce-EMAIL" size="40">
         </div>
         <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
         <div style="position: absolute; left: -5000px;" aria-hidden="true">
@@ -18,4 +67,4 @@
       </div>
     </div>
   </form>
-</div>
+</aside>
