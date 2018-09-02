@@ -36,6 +36,7 @@ function getTitle(content) {
 }
 
 function getDate(html) {
+  // TODO use the datetime attribute instead
   const end = html.indexOf('</time>');
   const start = html.substring(0, end).lastIndexOf('>') + 1;
   return html.substring(start, end);
