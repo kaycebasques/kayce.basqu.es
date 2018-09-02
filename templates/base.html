@@ -5,25 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>{{{stylesheet}}}</style>
     <link rel="icon" href="/media/eye.png">
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-118305251-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'UA-118305251-1');
-    </script>
+    <link href="https://fonts.googleapis.com/css?family=Rasa" rel="stylesheet">
   </head>
   <body>
+    <header>
+      <p class="name">KAYCE BASQUES</p>
+      <nav>
+        <a href="/">Home</a>
+        <a href="/on">Blog</a>
+      </nav>
+    </header>
     <main>
       {{{body}}}
       {{{subscription}}}
     </main>
-    <footer>
-      <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/on">Blog</a></li>
-      </ul>
-    </footer>
+    <footer></footer>
     <script>{{{script}}}</script>
   </body>
 </html>
