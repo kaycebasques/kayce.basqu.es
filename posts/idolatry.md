@@ -10,17 +10,21 @@
 </p>
 
 I'm reading a fascinating critique on capitalism by the psychologist Erich
-Fromm. I first discovered Fromm via his other book, *The Art Of Love*. It's
+Fromm. I first discovered Fromm via his other book, [The Art Of Loving][love]. It's
 an enlightening perspective on what it means exactly to "love", and I highly
 recommend it. I feel much more capable of creating fulfilling relationships
 because of that book.
 
-In *The Sane Society*, Fromm argues that idolatry is alive and well. Yes,
+[love]: https://amzn.to/2Pt5ph3
+
+In [The Sane Society][society], Fromm argues that idolatry is alive and well. Yes,
 we're talking about biblical idolatry. You probably know the story about the
 Israelites who created the golden calf during Moses's absence, and started
 worshipping it. I never paid much mind to that story, up until now. I'd just
 say to myself "silly Israelites" and shrug it off. I also had a tendency to
 only narrowly apply the concept to religious matters.
+
+[society]: https://amzn.to/2NEFym3
 
 But Fromm argues that idolatry permeates modern society. Humanity built
 capitalism, yet now we worship capitalism as a force greater than humanity.
