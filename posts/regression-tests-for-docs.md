@@ -26,7 +26,13 @@ takes care of the rest.
 
 [GAM]: https://developers.google.com/analytics/devguides/reporting/core/dimsmets
 
-![My Google Sheets Add-On, populating a spreadsheet with data](/media/gab.gif)
+<figure>
+  <img alt="Populating a spreadsheet."
+       src="/media/gab.gif"/>
+  <figcaption>
+    <b>Figure 1</b>. Populating a spreadsheet
+  </figcaption>
+</figure>
 
 Here's how I'm imagining the regression tests would work:
 
@@ -34,7 +40,13 @@ Here's how I'm imagining the regression tests would work:
   sheet, containing that week's data. For example, in the screenshot below,
   the `20180501-20180506` contains the data for May 1st to 6th, 2018.
 
-    ![An example of the proposed regression system](/media/canary.png)
+    <figure>
+      <img alt="The proposed regression detector."
+           src="/media/canary.png"/>
+      <figcaption>
+        <b>Figure 2</b>. The proposed regression detector
+      </figcaption>
+    </figure>
 
 * The Add-On then compares this week's data to last week's, or last month's,
   or whatever. If there's any big changes, the Add-On sends you an email,
@@ -55,7 +67,7 @@ I can imagine 2 main uses for this tool:
   more efforts on that channel in the future.
 
 If you've got any ideas on how to make this useful, or if you think it's
-flawed and I shouldn't pursue it, please email me at `kayce@basqu.es`.
+flawed and I shouldn't pursue it, please email me at kayce@basqu.es.
 
 If I do pursue it, I'm planning on publishing it as a free Add-On. If you use
 Google Analytics, then it'll work for you. I'll post updates on this blog if

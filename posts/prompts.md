@@ -17,19 +17,37 @@ I conducted an A/B test in [What's New in DevTools (Chrome 67)][WNDT].
 Half of the viewers got a feedback prompt with the following generic text:
 "Was this page helpful?"
 
-![The generic feedback prompt](/media/generic-prompt.png)
+<figure>
+  <img src="/media/generic-prompt.png"
+       alt="The generic feedback prompt."/>
+  <figcaption>
+    <b>Figure 1</b>. The generic feedback prompt
+  </figcaption>
+</figure>
 
 The other half got a prompt with the following more specific and personal text:
 "How are we doing with these release notes? Did you find this post helpful?"
 
-![The more personal and specific feedback prompt](/media/specific-prompt.png)
+<figure>
+  <img src="/media/specific-prompt.png"
+       alt="The more personal feedback prompt."/>
+  <figcaption>
+    <b>Figure 2</b>. The more personal feedback prompt
+  </figcaption>
+</figure>
 
 ## Results
 
 The results reject the hypothesis. The more specific text did not
 get more responses than the generic text.
 
-![Results of the generic/specific experiment](/media/generic-specific-results.png)
+<figure>
+  <img src="/media/generic-specific-results.png"
+       alt="The results of the experiment."/>
+  <figcaption>
+    <b>Figure 3</b>. The results of the experiment
+  </figcaption>
+</figure>
 
 The **Total Events** column represents the number of responses. In order to confirm
 my hypothesis, the specific prompt would have had to generate significantly more

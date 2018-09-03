@@ -6,6 +6,7 @@
 
 :root {
   --spacing: 10px;
+  --spacing-half: calc(var(--spacing) / 2);
   --secondary: #b10743;
   --border: calc(var(--spacing) / 2) dashed var(--secondary);
 }
@@ -30,7 +31,7 @@ body {
   -webkit-appearance: none;
   font-family: "Rasa";
   font-size: 1em;
-  padding: calc(var(--spacing) / 2);
+  padding: var(--spacing-half) var(--spacing) var(--spacing-half) var(--spacing);
   margin-top: var(--spacing);
 }
 
