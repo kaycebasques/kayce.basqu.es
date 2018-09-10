@@ -132,5 +132,3 @@ minifiedPostIndex = html.minify(unminifiedPostIndex, {
 });
 
 fs.writeFileSync('build/on/index.html', minifiedPostIndex);
-
-console.log(categories);
