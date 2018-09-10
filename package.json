@@ -7,7 +7,8 @@
     "start": "node tools/server.js;",
     "build": "tools/build.sh;",
     "install": "npm run build;",
-    "debug": "export DEBUG=true; npm run build;"
+    "debug": "export DEBUG=true; npm run build;",
+    "test": "npm run build;"
   },
   "repository": {
     "type": "git",
