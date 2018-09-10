@@ -79,6 +79,10 @@ nav {
   grid-gap: var(--spacing);
 }
 
+.post {
+  margin-bottom: var(--spacing);
+}
+
 #summary::before {
   content: "SUMMARY";
   display: block;
