@@ -1,8 +1,16 @@
 language: node_js
 node_js:
   - "lts/*"
-before_deploy: "npm run build"
-deploy:
-  provider: firebase
-  token:
-    secure: qrnHd9slTvZdEiQZp+0x/YYxhXqdfnQjVx4bqt0Q7BvkJaQHMhEFqT7JPmerq+WUIGSMTxMQLbAtqYlq/zOP/S017sQm+w2ncNvodrwPCzap9qaWta1scvzbHWr5E/Jg26zRCCu51/6oiEUXD5++BVNKH6UsDb6rXHeGEoRkFQBmtxmpcLCKi1Pw1U5KiqPNsxKN9gaXvfooKPSdTqqf8lOsB4rZfUolRa7dw+3JjD7+1kdYYcYnpYBaGRYt/6bWd6tKMOkhi1boZB+Lo2fgPhLvXePOheiA8a1ksw5Gu/HGCas38BtfsM2Jw3gYDRZ5jhWF4B5zT8yggRa9F+ZfBRU1B3sBT5fH9/M0wmGZkfow8qm53XWGY1xVK2Xk7rhmT9sH+LOxsXS6mqs7RHyRXeKFpBL2fRhMCLoiA4nU+6moFu9Hd0dD80Yz9n9OQeEn7zaTLP8MjVsMQ7DxIvPHj/RBcIqleE5pIE1/W4WzNrg9/kAgJ9LGmkwWeBVSOsQOZigU4Vv3pn/F3kA1lxEvUW2v8Ot10bUazvqNusppgnEPHYdBXrXiXxHTBkYYUeRr5O63RVwFB23tyOAcnEG+Ugku+wUUc0PB0TY2E/Rpr6tWTqb45BxPgsAA6hMaW8sk8bXX8mWBiFPMRZwppw8TiLsbmYV6cG9V8d5kFSNle/w=
+branches:
+  only:
+    - master
+before_script:
+  - npm i -g firebase-tools
+  - npm i
+script:
+  - npm run build
+after_success:
+  - firebase deploy --token $FIREBASE_TOKEN --non-interactive
+notifications:
+  email:
+    - on_failure: change
