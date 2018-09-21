@@ -56,8 +56,8 @@ The color of the buttons was the only difference between the 2 versions of the d
 
 
 If red buttons did not have an effect on users, then we would expect the red buttons to generate the
-same amount of responses as the blue buttons. The red buttons generated ~28% more responses than the blue buttons.
-6709 / 5315 ≈ 1.28 ≈ 28%.
+same amount of responses as the blue buttons. The red buttons generated ~26% more responses than the blue buttons.
+6709 / 5315 ≈ 1.26 ≈ 26%.
 
 ## Interpretation
 
