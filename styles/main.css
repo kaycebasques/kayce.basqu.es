@@ -82,10 +82,6 @@ main {
   padding: var(--spacing);
 }
 
-.name {
-  font-size: 1.5em;
-}
-
 nav {
   display: grid;
   grid-gap: var(--spacing);
