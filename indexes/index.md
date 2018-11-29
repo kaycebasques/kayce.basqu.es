@@ -2,13 +2,13 @@
 
 Hi. I'm Kayce. Welcome to my little home on the good ol' World Wide Web.
 
-I work for Google as a technical writer. I write all the docs for [Chrome DevTools][CDT]
-and [Lighthouse][LH].
+I work for Google as a technical writer. I write all the docs for
+<a href="https://developers.google.com/web/tools/chrome-devtools"
+   target="_blank" rel="noopener">Chrome DevTools</a> and
+<a href="https://developers.google.com/web/tools/lighthouse"
+   target="blank" rel="noopener">Lighthouse</a>.
 
-[CDT]: https://developers.google.com/web/tools/chrome-devtools
-[LH]: https://developers.google.com/web/tools/lighthouse
-
-I write here and there on [my blog](/on) about whatever topics strike my fancy.
+I write here and there on [my blog](/blog/) about whatever topics strike my fancy.
 
 You can find me around the web at these fine establishments:
 

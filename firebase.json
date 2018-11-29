@@ -6,6 +6,13 @@
       "**/.*",
       "**/node_modules/**"
     ],
-    "cleanUrls": true
+    "cleanUrls": true,
+    "redirects": [
+      {
+        "source" : "/on/:post",
+        "destination" : "/blog/:post",
+        "type" : 301
+      }
+    ]
   }
 }

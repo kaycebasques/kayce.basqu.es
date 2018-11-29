@@ -3,7 +3,7 @@ const showdown = require('showdown'),
     fs = require('fs'),
     buildDirectory = 'build',
     blogSource = 'posts',
-    blogDestination = `${buildDirectory}/on`,
+    blogDestination = `${buildDirectory}/blog`,
     handlebars = require('handlebars'),
     source = fs.readFileSync('templates/base.html', 'utf8'),
     template = handlebars.compile(source),
@@ -67,13 +67,13 @@ function compile(path, filename, destination) {
     const category = title.substring(0, title.indexOf(':'));
     if (!categories[category]) categories[category] = {};
     categories[category][title]= {
-      url: `/on/${name}`
+      url: `/blog/${name}`
     };
   }
   if (title.includes("Technical Writing") || title.includes("Technical Writer")) data.subscription = subscription;
-  if (destination.includes('/on/') && !filename.includes('index')) {
+  if (destination.includes('/blog/') && !filename.includes('index')) {
     post = {};
-    post.url = `/on/${name}.html`;
+    post.url = `/blog/${name}.html`;
     post.title = title;
     post.date = date;
     postIndexData.push(post);
@@ -87,7 +87,7 @@ function compile(path, filename, destination) {
 
 const indexes = {
   home: { source: 'index.md', destination: 'build/index.html' },
-  blog: { source: 'posts/index.md', destination: 'build/on/index.html' }
+  blog: { source: 'posts/index.md', destination: 'build/blog/index.html' }
 };
 
 for (let key in indexes) {
@@ -96,7 +96,7 @@ for (let key in indexes) {
 
 const posts = fs.readdirSync(blogSource);
 
-posts.forEach(file => compile('posts/', file, `build/on/${getName(file)}.html`));
+posts.forEach(file => compile('posts/', file, `build/blog/${getName(file)}.html`));
 
 let postIndexItems = [];
 
@@ -131,4 +131,4 @@ minifiedPostIndex = html.minify(unminifiedPostIndex, {
   collapseWhitespace: true
 });
 
-fs.writeFileSync('build/on/index.html', minifiedPostIndex);
+fs.writeFileSync('build/blog/index.html', minifiedPostIndex);

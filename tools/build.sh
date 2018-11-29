@@ -2,7 +2,7 @@
 SCRIPT="tools/build.js";
 if [ -d 'build' ]; then rm -rf build; fi;
 mkdir build;
-mkdir build/on;
+mkdir build/blog;
 mkdir build/media;
 mkdir build/fonts;
 cp media/* build/media/;
