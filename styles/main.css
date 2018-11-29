@@ -54,12 +54,16 @@ footer {
 }
 
 h1 {
-  font-size: 1.5em;
+  font-size: 2em;
   margin-top: 0;
 }
 
 h2 {
-  font-size: 1.25em;
+  font-size: 1.4em;
+}
+
+h3 {
+  font-size: 0.85em;
 }
 
 header {
@@ -89,6 +93,11 @@ nav {
 
 .post {
   margin-bottom: var(--spacing);
+}
+
+#summary {
+  border: var(--border);
+  padding: var(--spacing);
 }
 
 #summary::before {
