@@ -1,6 +1,12 @@
-# Politics: Idolatry
+<h1 id="title">Idolatry</h1>
 
-<time datetime="2018-03-28">2018 March 28</time>
+<p id="time">
+  <time datetime="2018-03-28">2018 March 28</time>
+</p>
+
+<p id="category">
+  Politics
+</p>
 
 <p id="summary">
   Idolatry is alive and well in modern society. We created our

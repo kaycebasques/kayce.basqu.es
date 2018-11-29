@@ -1,6 +1,12 @@
-# Technical Writing: Use Red Buttons to Get More Feedback on Your Docs
+<h1 id="title">Use Red Buttons To Get More Feedback On Your Docs</h1>
 
-<time datetime="2018-09-21">2018 September 21</time>
+<p id="time">
+  <time datetime="2018-09-21">2018 September 21</time>
+</p>
+
+<p id="category">
+  Technical Writing
+</p>
 
 <p id="summary">
   Asking users whether or not they found a doc helpful is an easy way to measure the quality

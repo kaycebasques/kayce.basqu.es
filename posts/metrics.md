@@ -1,6 +1,12 @@
-# Technical Writing: The Purpose of Metrics
+<h1 id="title">The Purpose Of Metrics</h1>
 
-<time datetime="2018-04-26">2018 April 26</time>
+<p id="time">
+  <time datetime="2018-04-26">2018 April 26</time>
+</p>
+
+<p id="category">
+  Technical Writing
+</p>
 
 <p id="summary">
   The purpose of metrics is to discover insights about how we can help users

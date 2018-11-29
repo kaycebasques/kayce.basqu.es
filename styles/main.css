@@ -35,6 +35,14 @@ body {
   margin-top: var(--spacing);
 }
 
+#category {
+  margin-top: 0;
+}
+
+#category::before {
+  content: "Category: ";
+}
+
 @font-face {
   font-family: "Rasa";
   src: url("/fonts/Rasa-Regular.ttf") format("truetype");
@@ -84,10 +92,19 @@ nav {
 }
 
 #summary::before {
-  content: "SUMMARY";
+  content: "Summary";
   display: block;
   margin-bottom: 0.5em;
   font-weight: bold;
+  font-size: 1.25em;
+}
+
+#time {
+  margin: 0;
+}
+
+#time::before {
+  content: "Date: ";
 }
 
 .youtube--container {
