@@ -87,7 +87,8 @@ function compile(path, filename, destination) {
 
 const indexes = {
   home: { source: 'index.md', destination: 'build/index.html' },
-  blog: { source: 'posts/index.md', destination: 'build/blog/index.html' }
+  blog: { source: 'posts/index.md', destination: 'build/blog/index.html' },
+  portfolio: { source: 'portfolio/index.md', destination: 'build/portfolio/index.html' }
 };
 
 for (let key in indexes) {
