@@ -9,6 +9,16 @@
     "cleanUrls": true,
     "redirects": [
       {
+        "source" : "/on",
+        "destination" : "/blog/",
+        "type" : 301
+      },
+      {
+        "source" : "/on/",
+        "destination" : "/blog/",
+        "type" : 301
+      },
+      {
         "source" : "/on/:post",
         "destination" : "/blog/:post",
         "type" : 301
