@@ -7,9 +7,7 @@
   <time datetime="2018-12-03">2018 December 3</time>
 </p>
 
-<p id="category">
-  Technical Writing
-</p>
+<p id="category">Technical Writing</p>
 
 <p id="summary">
   Recently I discovered that a supposed documentation "best practice" may not

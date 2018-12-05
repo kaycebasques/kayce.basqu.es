@@ -4,9 +4,7 @@
   <time datetime="2018-05-08">2018 May 8</time>
 </p>
 
-<p id="category">
-  Technical Writing
-</p>
+<p id="category">Technical Writing</p>
 
 <p id="summary">
   This is my lightning talk from the Write The Docs 2018 conference in Portland. I talk about

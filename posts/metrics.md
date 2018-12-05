@@ -4,9 +4,7 @@
   <time datetime="2018-04-26">2018 April 26</time>
 </p>
 
-<p id="category">
-  Technical Writing
-</p>
+<p id="category">Technical Writing</p>
 
 <p id="summary">
   The purpose of metrics is to discover insights about how we can help users

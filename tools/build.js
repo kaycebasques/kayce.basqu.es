@@ -35,6 +35,14 @@ function getTitle(content) {
   return content.substring(start, end);
 }
 
+function isTechnicalWritingPost(content) {
+  const query = '<p id="category">';
+  const startIndex = content.indexOf(query) + query.length;
+  const shiftedContent = content.substring(startIndex);
+  const endIndex = shiftedContent.indexOf('</p>');
+  return shiftedContent.substring(0, endIndex) === 'Technical Writing';
+}
+
 function getDate(html) {
   // TODO use the datetime attribute instead
   const end = html.indexOf('</time>');
@@ -63,14 +71,7 @@ function compile(path, filename, destination) {
     script: getScript(),
     stylesheet: getStylesheet()
   };
-  if (title.includes(':')) {
-    const category = title.substring(0, title.indexOf(':'));
-    if (!categories[category]) categories[category] = {};
-    categories[category][title]= {
-      url: `/blog/${name}`
-    };
-  }
-  if (title.includes("Technical Writing") || title.includes("Technical Writer")) data.subscription = subscription;
+  if (isTechnicalWritingPost(htmlContent)) data.subscription = subscription;
   if (destination.includes('/blog/') && !filename.includes('index')) {
     post = {};
     post.url = `/blog/${name}.html`;

@@ -4,9 +4,7 @@
   <time datetime="2018-07-27">2018 July 27</time>
 </p>
 
-<p id="category">
-  Technical Writing
-</p>
+<p id="category">Technical Writing</p>
 
 <p id="summary">
   I conducted a scientific experiment to find out if specific, more personal requests for feedback

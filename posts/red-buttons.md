@@ -4,9 +4,7 @@
   <time datetime="2018-09-21">2018 September 21</time>
 </p>
 
-<p id="category">
-  Technical Writing
-</p>
+<p id="category">Technical Writing</p>
 
 <p id="summary">
   Asking users whether or not they found a doc helpful is an easy way to measure the quality

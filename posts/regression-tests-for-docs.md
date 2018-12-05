@@ -4,9 +4,7 @@
   <time datetime="2018-05-17">2018 May 17</time>
 </p>
 
-<p id="category">
-  Technical Writing
-</p>
+<p id="category">Technical Writing</p>
 
 <p id="summary">
   A proposal for an automated way to identify big changes in docs.
