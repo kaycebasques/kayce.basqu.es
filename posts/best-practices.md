@@ -175,7 +175,7 @@ As another example, yesterday I added a lot of content to our [Optimize Images][
 <style>
   .comparison--image {
     display: inline;
-    max-width: 45%;
+    max-width: 40%;
     vertical-align: top;
   }
 </style>
