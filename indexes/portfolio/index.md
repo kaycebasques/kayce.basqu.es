@@ -1,6 +1,10 @@
 # Portfolio
 
+This is a work in progress.
+
 ## Arrayent
+
+Work from my first full-time position as a technical writer.
 
 ### Embedded Developer Docs
 
