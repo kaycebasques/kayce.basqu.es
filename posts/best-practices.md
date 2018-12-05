@@ -95,7 +95,7 @@ Or maybe "shorter is better" holds true for most docs, and this is just a quirk 
 We simply don't know yet. That's my whole point!
 
 Does any of this matter? Well, let me answer this question with some questions. Does your company
-screen out applicants whose writings sample doesn't look like a page from Strunk and White?
+screen out applicants whose writing samples don't look like pages from Strunk and White?
 Is "conciseness and brevity" one of the factors of promotion? Do you structure your writing
 teams around these notions of quality? I.e. do you spend time editing docs to be shorter?
 How would you feel about those practices if we found out that there's no meaningful connection
