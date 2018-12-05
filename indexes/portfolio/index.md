@@ -2,6 +2,8 @@
 
 This is a work in progress.
 
+![Under Construction](/media/under-construction.gif)
+
 ## Arrayent
 
 Work from my first full-time position as a technical writer.
