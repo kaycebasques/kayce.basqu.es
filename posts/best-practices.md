@@ -97,7 +97,7 @@ We simply don't know yet. That's my whole point!
 Does any of this matter? Well, let me answer this question with some questions. Does your company
 screen out applicants whose writing samples don't look like pages from Strunk and White?
 Is "conciseness and brevity" one of the factors of promotion? Do you structure your writing
-teams around these notions of quality? I.e. do you spend time editing docs to be shorter?
+teams around these notions of "quality"? I.e. do you spend time editing docs to be shorter?
 How would you feel about those practices if we found out that there's no meaningful connection
 between conciseness and how helpful *our actual users* perceive a doc to be?
 
@@ -170,21 +170,9 @@ the status quo. Our approach will get more sophisticated and rigorous over time.
 
 [optimize]: https://developers.google.com/web/tools/lighthouse/audits/optimize-images
 
-As another example, yesterday I added a lot of content to our [Optimize Images][optimize] guide:
-
-<style>
-  .comparison--image {
-    display: inline;
-    max-width: 40%;
-    vertical-align: top;
-  }
-</style>
-
-<div>
-  <img class="comparison--image" src="/media/optimize-images-before.png"/>
-  <img class="comparison--image" src="/media/optimize-images-after.png"/>
-</div>
-
+As another example, yesterday I added a lot of content to our [Optimize Images][optimize] guide.
+Here's [before](/media/optimize-images-before.png) and [after](/media/optimize-images/after-png)
+if you're curious.
 The implicit "best practice" here is "more detail is good". I've set a reminder to check back
 on the doc in 2 months to see if more detail did in fact improve the helpfulness rating of
 the page.
@@ -203,7 +191,7 @@ definitely on my radar.
 I think that the methodology for figuring out whether the length of a doc correlates to perceived
 helpfulness looks something like this:
 
-* Collect the top 10 or 100 pages across many docs sites. And the bottom 10 or 100.
+* Collect the top 10 pages across many docs sites. And the bottom 10.
 * Count the number of words in each article.
 * Do some fancy statistics to find out if there's a correlation between doc length and helpfulness.
 
