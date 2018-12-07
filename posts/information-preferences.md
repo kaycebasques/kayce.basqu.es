@@ -43,27 +43,57 @@ Try it out for yourself at
   Parametric Press
 </a>.
 
-For the sake of brevity, I'll just refer to 2 hypothetical versions of a document
-throughout this post: *condensed mode* and *full mode*. Condensed mode showing the
-critical information only, full mode showing everything.
+Or, try it out on this blog post! Full Mode shows everything.
+Condensed Mode shows just the critical information.
 
-<h2>The most important reason to try it</h2>
+<button class="controls--everything">
+  Show Full Mode
+</button>
 
-Some readers might find it helpful. For those that don't, it's not really getting
-in their way. Win-win?
+<button class="controls--essentials">
+  Show Condensed Mode
+</button>
 
-<h2>The more interesting reason to try it</h2>
+<h2 class="info--everything">Web development is a useful skill for technical writers</h2>
 
-These types of interactions are very easy to track anonymously
+<p class="info--everything">
+  Building websites is really fun. It also enables you to experiment with your
+  documentation site, like I did with this post. If you're in an industry that mainly
+  publishes its documentation to the web, consider web development as a means towards
+  possibly advancing your technical writing career.
+</p>
+
+<p class="info--everything">
+   It was really helpful for me to be able to have a working prototype in mind as I
+   wrote down my thoughts about this feature. It enabled me to get a glimpse at its
+   opportunities and drawbacks. Of course, this is nothing new to us technical writers.
+   To understand something, you have to use it yourself.
+</p>
+
+<h2>What's in it for readers</h2>
+
+[IFT]: https://en.wikipedia.org/wiki/Information_foraging
+
+Personally, I think I could find this feature helpful. Often, I need to quickly assess
+whether an article will suit my needs. [Information Foraging Theory][IFT] calls
+this the *information scent*.
+
+For those readers that don't want to use it, it's not really in their way.
+
+<h2>What's in it for writers</h2>
+
+These types of interactions are easy to track anonymously
 with <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/events"
 target="_blank" rel="noopener">Google Analytics Event Tracking</a>.
+
+
 
 <h2 id="accessibility">Accessibility</h2>
 
 <p>
-  If you do this in your real documentation, for accessibility reasons
-  I'm 90% sure that you must present the full page by default, and make the condensed version
-  the opt-in choice. I could be wrong. I'll check with my colleague,
+  If you do implement this feature in your real documentation, for accessibility reasons
+  I'm 90% sure that it would be way safer to present the full page by default. The condensed version
+  should be the opt-in choice. I could be wrong. I'll check with my colleague,
   <a href="https://twitter.com/rob_dodson" target="_blank" rel="noopener">Rob
   Dodson</a>, who knows a lot about web accessibility, and get back to you.
 </p>
@@ -78,18 +108,6 @@ target="_blank" rel="noopener">Google Analytics Event Tracking</a>.
   idea within the last couple of years, though, so I figured I'd resurface it. Also, it
   was just fun plain old fun to create this proof of concept ;)
 </p>
-
-<h2>Conclusion... or is it?</h2>
-
-But wait, there's more! This post is itself a demo of this idea!
-
-<button class="controls--everything">
-  Show Full Mode
-</button>
-
-<button class="controls--essentials">
-  Show Condensed Mode
-</button>
 
 <p class="info--everything">
   Aww yeaaah, look at you, being all curious and adventurous. I see you. I dig it.
@@ -174,15 +192,4 @@ But wait, there's more! This post is itself a demo of this idea!
    a static site generator, like Hugo or Jekyll.
 </p>
 
-<h2 class="info--everything">Web development is a useful skill for technical writers</h2>
 
-<p class="info--everything">
-  Building websites is really fun. It also enables you to experiment with your
-  documentation site, like I did with this post. If you're in an industry that mainly
-  publishes its documentation to the web, consider web development as a means towards
-  possibly advancing your technical writing career.
-</p>
-
-<p class="info--everything">
-   Also, it gives you the freedom to <a href="TODO">do silly stuff like this</a>.
-</p>
