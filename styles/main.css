@@ -27,6 +27,10 @@ body {
   font-size: 24px;
 }
 
+code {
+  font-size: 0.65em;
+}
+
 .button {
   -webkit-appearance: none;
   font-family: "Rasa";
