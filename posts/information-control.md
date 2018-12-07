@@ -31,6 +31,9 @@
   educated decisions around whether it's worth our time to write a lot of content.
 </p>
 
+TODO: this post is an analysis of a neat UI I saw that lets you control the
+amount of information that you see on a page, and whether we might apply this UI to documentation
+
 Yesterday, in our team chat, my colleague [Houssein Djirdeh](https://twitter.com/hdjirdeh)
 posted a [GIF of a UI that enables readers to control
 how much information they see](/media/parametric.mp4).
