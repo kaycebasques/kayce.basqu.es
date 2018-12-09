@@ -3,12 +3,25 @@
   "version": "1.0.0",
   "description": "personal website of the artist formerly known as kayce",
   "private": "true",
+  "watch": {
+    "build": {
+      "patterns": [
+        "**/*"
+      ],
+      "extensions": "html,css,md,png,gif,mp4,ttf,json,sh",
+      "ignore": [
+        "build/**/*",
+        "node_modules/**/*"
+      ]
+    }
+  },
   "scripts": {
     "start": "node tools/server.js;",
     "build": "tools/build.sh;",
     "install": "npm run build;",
     "debug": "export DEBUG=true; npm run build;",
-    "test": "npm run build;"
+    "test": "npm run build;",
+    "watch": "npm-watch"
   },
   "repository": {
     "type": "git",
@@ -25,6 +38,7 @@
     "express": "^4.16.3",
     "handlebars": "^4.0.11",
     "html-minifier": "^3.5.10",
+    "npm-watch": "^0.5.0",
     "showdown": "^1.8.6",
     "uglify-js": "^3.3.12"
   },
