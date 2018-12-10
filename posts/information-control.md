@@ -53,11 +53,11 @@ Essentials Mode.
 
 You are now in <b><span class="info--state">Everything</span> Mode</b>.
 
-<button class="controls--everything">
+<button class="button controls--everything">
   Show Everything Mode
 </button>
 
-<button class="controls--essentials">
+<button class="button controls--essentials">
   Show Essentials Mode
 </button>
 
@@ -104,7 +104,9 @@ target="_blank" rel="noopener">Google Analytics Event Tracking</a> it's possible
 to track how much aggregate time is spent in Everything Mode or Essentials Mode.
 
 I'm doing it on this page, in fact. Click **Get Stats** to get the real analytics for
-this blog post, from the day that I published up until yesterday.
+this blog post, from the day that I published up until yesterday. Note that I'm
+effectively using Google Apps Script as my REST API server, so if the data doesn't load, I
+probably hit my quota.
 
 <noscript>
   Note: It looks like JavaScript is disabled in your browser, so this feature won't
@@ -120,7 +122,7 @@ this blog post, from the day that I published up until yesterday.
   }
 </style>
 
-<button class="stats--button">Get Stats</button>
+<button class="button stats--button">Get Stats</button>
 
 <ul class="stats">
   <li>Pageviews: <span class="stats--value stats--pageviews"></span></li>
@@ -135,6 +137,7 @@ this blog post, from the day that I published up until yesterday.
   const statsContainer = document.querySelector('.stats');
   let loaderHandle = undefined;
   statsButton.addEventListener('click', () => {
+    statsButton.disabled = true;
     statsContainer.classList.add('stats__visible');
     loaderHandle = setInterval(() => {
       document.querySelectorAll('.stats--value').forEach(value => {
@@ -199,9 +202,14 @@ strong indicator that I've provided a lot of content that no one actually cares 
 [LexRank]: https://jair.org/index.php/jair/article/view/10396
 [npm]: https://www.npmjs.com/package/lexrank
 
-* u/krilnon on r/technicalwriting pointed me to an HCI thesis. See [krilnon's comment][krilnon]
-  and [my response][krilnon2]. The thesis author created a browser extension that would bold
+* u/krilnon on r/technicalwriting pointed me to Chen-Hsiang Yu's HCI thesis. See [krilnon's comment][krilnon]
+  and [my response][krilnon2]. Yu created a browser extension that would bold
   the most important sentences using [LexRank][LexRank] ([npm][npm]), and make less important sentences opaque.
+* [Joe Coleman's personal site](http://getcoleman.com/). See also
+  [HN discussion](https://news.ycombinator.com/item?id=14013996).
+* [On Variable Level-Of-Detail Documents](http://symbolflux.com/lodessay/) by Weston Beecroft.
+* [StretchText](https://en.wikipedia.org/wiki/StretchText) by Ted Nelson.
+* [Expounder](https://skorokithakis.github.io/expounder/) by Stavros Korokithakis.
 
 <h2>Does the ROI justify the effort?</h2>
 
@@ -209,6 +217,13 @@ strong indicator that I've provided a lot of content that no one actually cares 
   It depends on how strongly users respond to the feature, because it'll create a
   noticeable amount of work for writers.
 </p>
+
+<h2 class="info--everything">Discussions</h2>
+
+<ul class="info--everything">
+  <li><a href="https://news.ycombinator.com/item?id=18643166">Hacker News</a></li>
+  <li><a href="https://www.reddit.com/r/technicalwriting/comments/a4oav1/a_ui_that_lets_readers_control_how_much/">r/technicalwriting</a></li>
+</ul>
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130636903-1"></script>
 <script>
