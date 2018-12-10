@@ -192,6 +192,17 @@ strong indicator that I've provided a lot of content that no one actually cares 
   section.
 </p>
 
+<h3>Updates</h3>
+
+[krilnon]: https://www.reddit.com/r/technicalwriting/comments/a4oav1/a_ui_that_lets_readers_control_how_much/ebh3oh1/
+[krilnon2]: https://www.reddit.com/r/technicalwriting/comments/a4oav1/a_ui_that_lets_readers_control_how_much/ebi81qm/
+[LexRank]: https://jair.org/index.php/jair/article/view/10396
+[npm]: https://www.npmjs.com/package/lexrank
+
+* u/krilnon on r/technicalwriting pointed me to an HCI thesis. See [krilnon's comment][krilnon]
+  and [my response][krilnon2]. The thesis author created a browser extension that would bold
+  the most important sentences using [LexRank][LexRank] ([npm][npm]), and make less important sentences opaque.
+
 <h2>Does the ROI justify the effort?</h2>
 
 <p>
