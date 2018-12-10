@@ -212,6 +212,7 @@ strong indicator that I've provided a lot of content that no one actually cares 
 * [Expounder](https://skorokithakis.github.io/expounder/) by Stavros Korokithakis.
 * On the [Axios](https://www.axios.com/) homepage, you see a summary of each news article,
   followed by a "go deeper" button.
+* [Mercury Reader](https://mercury.postlight.com/reader/).
 
 <h2>Does the ROI justify the effort?</h2>
 
