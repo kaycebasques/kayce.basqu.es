@@ -210,6 +210,8 @@ strong indicator that I've provided a lot of content that no one actually cares 
 * [On Variable Level-Of-Detail Documents](http://symbolflux.com/lodessay/) by Weston Beecroft.
 * [StretchText](https://en.wikipedia.org/wiki/StretchText) by Ted Nelson.
 * [Expounder](https://skorokithakis.github.io/expounder/) by Stavros Korokithakis.
+* On the [Axios](https://www.axios.com/) homepage, you see a summary of each news article,
+  followed by a "go deeper" button.
 
 <h2>Does the ROI justify the effort?</h2>
 
