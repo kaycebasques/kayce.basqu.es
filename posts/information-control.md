@@ -213,6 +213,7 @@ strong indicator that I've provided a lot of content that no one actually cares 
 * On the [Axios](https://www.axios.com/) homepage, you see a summary of each news article,
   followed by a "go deeper" button.
 * [Mercury Reader](https://mercury.postlight.com/reader/).
+* [Telescopic Text](http://www.telescopictext.com/).
 
 <h2>Does the ROI justify the effort?</h2>
 
