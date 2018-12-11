@@ -6,6 +6,6 @@ mkdir build/blog;
 mkdir build/portfolio;
 mkdir build/media;
 mkdir build/fonts;
-cp media/* build/media/;
-cp -r fonts/* build/fonts/;
+cp src/static/media/* build/media/;
+cp -r src/static/fonts/* build/fonts/;
 if [ "$DEBUG" = true ]; then node --inspect-brk $SCRIPT; else node $SCRIPT; fi;

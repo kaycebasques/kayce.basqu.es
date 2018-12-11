@@ -2,12 +2,12 @@ const showdown = require('showdown'),
     converter = new showdown.Converter(),
     fs = require('fs'),
     buildDirectory = 'build',
-    blogSource = 'posts',
+    blogSource = 'src/posts',
     blogDestination = `${buildDirectory}/blog`,
     handlebars = require('handlebars'),
-    source = fs.readFileSync('templates/base.html', 'utf8'),
+    source = fs.readFileSync('src/templates/base.html', 'utf8'),
     template = handlebars.compile(source),
-    subscription = fs.readFileSync('partials/subscription.html', 'utf8'),
+    subscription = fs.readFileSync('src/partials/subscription.html', 'utf8'),
     js = require('uglify-js'),
     css = require('clean-css'),
     html = require('html-minifier'),
@@ -19,12 +19,12 @@ function getName(filename) {
 }
 
 function getStylesheet() {
-  const src = fs.readFileSync('styles/main.css', 'utf8');
+  const src = fs.readFileSync('src/static/styles/main.css', 'utf8');
   return new css().minify(src).styles;
 }
 
 function getScript() {
-  return fs.readFileSync('scripts/main.js', 'utf8');
+  return fs.readFileSync('src/static/scripts/main.js', 'utf8');
   // TODO minification not working
   //return js.minify(src).code;
 }
@@ -93,12 +93,12 @@ const indexes = {
 };
 
 for (let key in indexes) {
-  compile('indexes/', indexes[key].source, indexes[key].destination);
+  compile('src/indexes/', indexes[key].source, indexes[key].destination);
 }
 
 const posts = fs.readdirSync(blogSource);
 
-posts.forEach(file => compile('posts/', file, `build/blog/${getName(file)}.html`));
+posts.forEach(file => compile('src/posts/', file, `build/blog/${getName(file)}.html`));
 
 let postIndexItems = [];
 
