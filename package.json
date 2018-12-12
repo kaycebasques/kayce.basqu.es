@@ -16,8 +16,8 @@
     }
   },
   "scripts": {
-    "start": "node tools/server.js;",
-    "build": "tools/build.sh;",
+    "start": "node build/server.js;",
+    "build": "build/main.sh;",
     "install": "npm run build;",
     "debug": "export DEBUG=true; npm run build;",
     "test": "npm run build;",

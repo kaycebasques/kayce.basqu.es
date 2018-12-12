@@ -1,7 +1,7 @@
 const showdown = require('showdown'),
     converter = new showdown.Converter(),
     fs = require('fs'),
-    buildDirectory = 'build',
+    buildDirectory = 'out',
     blogSource = 'src/posts',
     blogDestination = `${buildDirectory}/blog`,
     handlebars = require('handlebars'),
@@ -87,9 +87,9 @@ function compile(path, filename, destination) {
 }
 
 const indexes = {
-  home: { source: 'index.md', destination: 'build/index.html' },
-  blog: { source: 'posts/index.md', destination: 'build/blog/index.html' },
-  portfolio: { source: 'portfolio/index.md', destination: 'build/portfolio/index.html' }
+  home: { source: 'index.md', destination: 'out/index.html' },
+  blog: { source: 'posts/index.md', destination: 'out/blog/index.html' },
+  portfolio: { source: 'portfolio/index.md', destination: 'out/portfolio/index.html' }
 };
 
 for (let key in indexes) {
@@ -98,7 +98,7 @@ for (let key in indexes) {
 
 const posts = fs.readdirSync(blogSource);
 
-posts.forEach(file => compile('src/posts/', file, `build/blog/${getName(file)}.html`));
+posts.forEach(file => compile('src/posts/', file, `out/blog/${getName(file)}.html`));
 
 let postIndexItems = [];
 
@@ -133,4 +133,4 @@ minifiedPostIndex = html.minify(unminifiedPostIndex, {
   collapseWhitespace: true
 });
 
-fs.writeFileSync('build/blog/index.html', minifiedPostIndex);
+fs.writeFileSync('out/blog/index.html', minifiedPostIndex);
