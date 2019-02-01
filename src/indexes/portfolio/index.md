@@ -4,6 +4,31 @@ This is a work in progress.
 
 ![Under Construction](/media/under-construction.gif)
 
+## Google
+
+### Chrome DevTools
+
+* [Simulate Mobile Devices](https://developers.google.com/web/tools/chrome-devtools/device-mode/)
+  ([PDF](https://drive.google.com/open?id=12gx6hn5S1-ehJ2oBKI5PbjUbe9XOUdrX))
+* [Remote Debug Android Devices](https://developers.google.com/web/tools/chrome-devtools/javascript/reference)
+  ([PDF](https://drive.google.com/open?id=1ABashLW83ePbaMJY4ZM23iZlc3IbkKCx))
+* [Keyboard Shortcuts Reference](https://developers.google.com/web/tools/chrome-devtools/shortcuts)
+  ([PDF](https://drive.google.com/open?id=1cWnhi8NWVMy7weuFCvC4ie9eyHzBzeII))
+* [Run Snippets](https://developers.google.com/web/tools/chrome-devtools/snippets)
+  ([PDF](https://drive.google.com/open?id=1Snd8xaS_lcXFRsNzEuWswpXPLPp_LPnG))
+* [JavaScript Debugging Reference](https://developers.google.com/web/tools/chrome-devtools/javascript/reference)
+  ([PDF](https://drive.google.com/open?id=1ppmSf81Wjefj1RQOGlSDKnQhyusYyN1k))
+* [JavaScript Debugging Tutorial](https://developers.google.com/web/tools/chrome-devtools/javascript/)
+  ([PDF](https://drive.google.com/open?id=11Z_zKIvpCwbo1nR8vYe4pMqRMu6tNimp))
+* [Breakpoints Guide](https://developers.google.com/web/tools/chrome-devtools/javascript/breakpoints)
+  ([PDF](https://drive.google.com/open?id=1Nnww0xyStk3iTieQXmNseV8BB50udB5V))
+
+
+### Security
+
+* [Why HTTPS Matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
+  ([PDF](https://drive.google.com/open?id=1LpOZi81vA-UptUDUELpK9iOMdd7IJ9rE))
+
 ## Arrayent
 
 Work from my first full-time position as a technical writer.
