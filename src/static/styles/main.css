@@ -31,6 +31,10 @@ code {
   font-size: 0.65em;
 }
 
+li {
+  list-style-type: disc;
+}
+
 .button {
   -webkit-appearance: none;
   font-family: "Rasa";
