@@ -65,13 +65,8 @@ h3 {
 }
 
 header {
-  float: right;
-  display: inline;
-  padding: var(--spacing);
-}
-
-.header--nav {
-  list-style-type: none;
+  display: flex;
+  justify-content: center;
 }
 
 html {
@@ -90,6 +85,14 @@ main {
   grid-area: main;
   padding: var(--spacing);
   max-width: var(--max-width);
+}
+
+@media (min-width: 800px) {
+  header {
+    float: right;
+    display: inline;
+    padding: var(--spacing);
+  }
 }
 
 nav {
