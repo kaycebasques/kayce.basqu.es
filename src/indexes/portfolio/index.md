@@ -1,6 +1,6 @@
 # Portfolio
 
-## Google
+## Google (2015 to Present)
 
 ### Chrome DevTools
 
@@ -136,7 +136,7 @@ Release Notes:
 
 ![Under Construction](/media/under-construction.gif)
 
-## Arrayent
+## Arrayent (2012 to 2015)
 
 Work from my first full-time position as a technical writer.
 

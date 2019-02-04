@@ -114,7 +114,7 @@ sortedPostIndexData = postIndexData.sort((a, b) => {
   return new Date(b.date).getTime() - new Date(a.date).getTime();
 });
 
-let postIndexContent = '<h1>Posts</h1><ul class="list">';
+let postIndexContent = '<h1>Blog</h1><ul class="list">';
 
 postIndexData.forEach(post => {
   postIndexContent += post.html;

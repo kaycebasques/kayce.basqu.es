@@ -1,14 +1,9 @@
-/* purple #7360ed
- * darker purple #583a7e
- * grey #cfcfcf
- * orange #f39b4d
- */
-
 :root {
   --spacing: 10px;
   --spacing-half: calc(var(--spacing) / 2);
   --secondary: #b10743;
   --border: calc(var(--spacing) / 2) dashed var(--secondary);
+  --max-width: 800px;
 }
 
 a {
@@ -16,23 +11,16 @@ a {
 }
 
 body {
-  display: grid;
-  grid-gap: var(--spacing);
-  grid-template-areas:
-    "main"
-    "header"
-    "footer";
-  grid-template-columns: 1fr;
   font-family: "Rasa";
   font-size: 24px;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
 }
 
 code {
   font-size: 0.65em;
-}
-
-li {
-  list-style-type: disc;
 }
 
 .button {
@@ -59,6 +47,8 @@ li {
 footer {
   grid-area: footer;
   font-family: "Subway Ticker";
+  max-width: var(--max-width);
+  border-top: var(--border);
 }
 
 h1 {
@@ -75,19 +65,31 @@ h3 {
 }
 
 header {
-  grid-area: header;
-  grid-auto-rows: min-content;
-  grid-template-columns: 1fr;
-  border-top: var(--border);
+  float: right;
+  display: inline;
+  padding: var(--spacing);
+}
+
+.header--nav {
+  list-style-type: none;
+}
+
+html {
+  margin: 0;
 }
 
 img {
   max-width: 100%;
 }
 
+li {
+  list-style-type: disc;
+}
+
 main {
   grid-area: main;
   padding: var(--spacing);
+  max-width: var(--max-width);
 }
 
 nav {
@@ -133,19 +135,4 @@ nav {
   left: 0;
   height: 100%;
   width: 100%;
-}
-
-@media (min-width: 800px) {
-  body {
-    grid-template-areas:
-      "main   header"
-      "main   header"
-      "footer footer";
-    grid-template-columns: 2fr 1fr;
-  }
-  header {
-    display: grid;
-    border-top: none;
-    padding-left: var(--spacing);
-  }
 }
