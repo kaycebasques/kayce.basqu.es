@@ -11,8 +11,8 @@ a {
 }
 
 body {
-  font-family: "Rasa";
-  font-size: 24px;
+  font-family: Courier, serif;
+  font-size: 18px;
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
@@ -46,10 +46,10 @@ code {
 
 footer {
   grid-area: footer;
-  font-family: "Subway Ticker";
   max-width: var(--max-width);
   border-top: var(--border);
 }
+
 
 h1 {
   font-size: 1.7em;
@@ -62,11 +62,6 @@ h2 {
 
 h3 {
   font-size: 1.0em;
-}
-
-header {
-  display: flex;
-  justify-content: center;
 }
 
 html {
@@ -87,17 +82,38 @@ main {
   max-width: var(--max-width);
 }
 
-@media (min-width: 800px) {
-  header {
-    float: right;
+@media (max-width: 800px) {
+  .nav--link {
     display: inline;
-    padding: var(--spacing);
+  }
+  .nav--logo {
+    display: none;
   }
 }
 
-nav {
-  display: grid;
-  grid-gap: var(--spacing);
+@media (min-width: 800px) {
+  body {
+    display: grid;
+    grid-template-areas: "nav main";
+    grid-template-columns: 150px 650px;
+  }
+  .nav--logo {
+    display: block;
+    margin-left: auto;
+    marign-right: auto;
+  }
+  .nav--link {
+    display: block;
+  }
+}
+
+.nav--link {
+  list-style-type: none;
+}
+
+.nav--list {
+  margin: 0;
+  padding: 0;
 }
 
 .post {
