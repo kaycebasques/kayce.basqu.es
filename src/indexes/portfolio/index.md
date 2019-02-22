@@ -52,6 +52,7 @@ JavaScript:
   ([PDF](https://drive.google.com/open?id=1ppmSf81Wjefj1RQOGlSDKnQhyusYyN1k))
 * [JavaScript Debugging Tutorial](https://developers.google.com/web/tools/chrome-devtools/javascript/)
   ([PDF](https://drive.google.com/open?id=11Z_zKIvpCwbo1nR8vYe4pMqRMu6tNimp))
+    * [Video](https://youtu.be/H0XScE08hy8)
 * [Breakpoints Guide](https://developers.google.com/web/tools/chrome-devtools/javascript/breakpoints)
   ([PDF](https://drive.google.com/open?id=1Nnww0xyStk3iTieQXmNseV8BB50udB5V))
 * [Blackbox Chrome Extension Scripts](https://developers.google.com/web/tools/chrome-devtools/javascript/guides/blackbox-chrome-extension-scripts)
