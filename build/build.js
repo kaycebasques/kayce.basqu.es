@@ -104,9 +104,9 @@ let postIndexItems = [];
 
 postIndexData.forEach(post => {
   post.html =
-    `<li class="post">
-       <a class="title" href="${post.url}">${post.title}</a>
-       <time>${post.date}</time>
+    `<li class="blog--post">
+       <time class="blog--time">${post.date}</time>
+       <a class="blog--title" href="${post.url}">${post.title}</a>
      </li>`;
 });
 
@@ -114,7 +114,7 @@ sortedPostIndexData = postIndexData.sort((a, b) => {
   return new Date(b.date).getTime() - new Date(a.date).getTime();
 });
 
-let postIndexContent = '<h1>Blog</h1><ul class="list">';
+let postIndexContent = '<h1>Blog</h1><ul class="blog--list">';
 
 postIndexData.forEach(post => {
   postIndexContent += post.html;

@@ -11,6 +11,23 @@ a {
   color: var(--secondary);
 }
 
+.blog--list {
+  padding-left: 0;
+}
+
+.blog--post {
+  margin-bottom: calc(var(--spacing) * 2);
+  list-style-type: none;
+}
+
+.blog--time {
+  display: block;
+}
+
+.blog--title {
+  display: block;
+}
+
 body {
   font-family: var(--font-family);
   font-size: 18px;
@@ -118,10 +135,6 @@ main {
 .nav--list {
   margin: 0;
   padding: 0;
-}
-
-.post {
-  margin-bottom: var(--spacing);
 }
 
 #summary {
