@@ -6,6 +6,6 @@ mkdir out/blog;
 mkdir out/portfolio;
 mkdir out/media;
 mkdir out/fonts;
-cp src/static/media/* out/media/;
-cp -r src/static/fonts/* out/fonts/;
+cp static/media/* out/media/;
+cp -r static/fonts/* out/fonts/;
 if [ "$DEBUG" = true ]; then node --inspect-brk $SCRIPT; else node $SCRIPT; fi;
