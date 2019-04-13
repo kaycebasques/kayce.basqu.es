@@ -2,7 +2,7 @@ const showdown = require('showdown'),
     converter = new showdown.Converter(),
     fs = require('fs'),
     buildDirectory = 'out',
-    blogSource = 'posts',
+    blogSource = 'content/blog',
     blogDestination = `${buildDirectory}/blog`,
     handlebars = require('handlebars'),
     source = fs.readFileSync('templates/base.html', 'utf8'),
@@ -88,17 +88,16 @@ function compile(path, filename, destination) {
 
 const indexes = {
   home: { source: 'index.md', destination: 'out/index.html' },
-  blog: { source: 'posts/index.md', destination: 'out/blog/index.html' },
   portfolio: { source: 'portfolio/index.md', destination: 'out/portfolio/index.html' }
 };
 
 for (let key in indexes) {
-  compile('indexes/', indexes[key].source, indexes[key].destination);
+  compile('content/', indexes[key].source, indexes[key].destination);
 }
 
 const posts = fs.readdirSync(blogSource);
 
-posts.forEach(file => compile('posts/', file, `out/blog/${getName(file)}.html`));
+posts.forEach(file => compile('content/blog/', file, `out/blog/${getName(file)}.html`));
 
 let postIndexItems = [];
 
