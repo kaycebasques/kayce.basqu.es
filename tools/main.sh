@@ -1,5 +1,5 @@
 #!/bin/bash
-SCRIPT="build/build.js";
+SCRIPT="tools/build.js";
 if [ -d 'out' ]; then rm -rf out; fi;
 mkdir out;
 mkdir out/blog;

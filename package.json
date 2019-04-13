@@ -1,7 +1,5 @@
 {
   "name": "kaycebasques",
-  "version": "1.0.0",
-  "description": "personal website of the artist formerly known as kayce",
   "private": "true",
   "watch": {
     "build": {
@@ -10,14 +8,14 @@
       ],
       "extensions": "html,css,md,png,gif,mp4,ttf,json,sh",
       "ignore": [
-        "build/**/*",
+        "tools/**/*",
         "node_modules/**/*"
       ]
     }
   },
   "scripts": {
-    "start": "node build/server.js;",
-    "build": "build/main.sh;",
+    "start": "node tools/server.js;",
+    "build": "tools/main.sh;",
     "install": "npm run build;",
     "debug": "export DEBUG=true; npm run build;",
     "test": "npm run build;",
