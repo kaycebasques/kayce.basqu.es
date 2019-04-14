@@ -2,7 +2,7 @@
   --spacing: 10px;
   --spacing-half: calc(var(--spacing) / 2);
   --secondary: #b10743;
-  --border: calc(var(--spacing) / 2) solid var(--secondary);
+  --border: calc(var(--spacing) / 2) solid black;
   --max-width: 800px;
   --font-family: Courier, serif;
 }
@@ -102,7 +102,9 @@ main {
 
 @media (max-width: 800px) {
   .nav {
-    padding: var(--spacing);
+    margin: var(--spacing);
+    border-top: var(--border);
+    padding-top: var(--spacing);
   }
   .nav--link {
     display: inline;
