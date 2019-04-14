@@ -50,12 +50,19 @@ function getDate(html) {
   return html.substring(start, end);
 }
 
-// TODO not working
 function getSummary(html) {
   const search = '<p id="summary">';
   const start = html.lastIndexOf(search) + search.length;
   const substring = html.substring(start);
-  return substring.substring(0, substring.indexOf('</p>'));
+  let summary = substring.substring(0, substring.indexOf('</p>'));
+  if (summary[0] == '\n') summary = summary.substring(1);
+  if (summary[summary.length - 1] == '\n') summary = summary.substring(0, summary.length - 1);
+  summary = summary.replace(/\n/g, ' ');
+  summary = summary.replace(/^ +/g, '');
+  summary = summary.replace(/ +$/g, '');
+  summary = summary.replace(/  +/g, ' ');
+  debugger;
+  return summary;
 }
 
 function compile(path, filename, destination) {
@@ -69,7 +76,8 @@ function compile(path, filename, destination) {
     body: htmlContent,
     title: title,
     script: getScript(),
-    stylesheet: getStylesheet()
+    stylesheet: getStylesheet(),
+    description: summary
   };
   if (isTechnicalWritingPost(htmlContent)) data.subscription = subscription;
   if (destination.includes('/blog/') && !filename.includes('index')) {
@@ -125,9 +133,10 @@ postIndexContent += '</ul>';
 
 const unminifiedPostIndex = template({
   body: postIndexContent,
-  title: "Posts",
+  title: 'Blog',
   script: getScript(),
-  stylesheet: getStylesheet()
+  stylesheet: getStylesheet(),
+  description: 'The blog of Kayce Basques.'
 });
 
 minifiedPostIndex = html.minify(unminifiedPostIndex, {

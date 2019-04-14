@@ -1,5 +1,15 @@
 # Portfolio
 
+<style>
+  #summary {
+    display: none;
+  }
+</style>
+
+<p id="summary">
+  The technical writing portfolio of Kayce Basques.
+</p>
+
 ## Google (2015 to Present)
 
 ### Chrome DevTools

@@ -1,5 +1,15 @@
 <h1>Home</h1>
 
+<style>
+  #summary {
+    display: none;
+  }
+</style>
+
+<p id="summary">
+  The homepage of Kayce Basques.
+</p>
+
 Hi. I'm Kayce. Welcome to my little home on the good ol' World Wide Web.
 
 I work for Google as a technical writer. I write the docs for
