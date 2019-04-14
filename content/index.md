@@ -16,5 +16,6 @@ You can find me around the web at these fine establishments:
 * [GitHub](https://github.com/kaycebasques)
 * [Twitter](https://twitter.com/kaycebasques)
 * [Goodreads](https://www.goodreads.com/kaycebasques)
+* [Hacker News](https://news.ycombinator.com/user?id=kaycebasques)
 
 Email me at kayce@google.com for Google-related stuff or kayce@basqu.es for non-Google stuff.
