@@ -104,11 +104,11 @@ let postIndexItems = [];
 
 postIndexData.forEach(post => {
   post.html =
-    `<section class="blog--post">
+    `<li class="blog--post">
        <h2 class="blog--title"><a href="${post.url}">${post.title}</a></h2>
        <time class="blog--time">${post.date}</time>
        <p class="blog--summary">${post.summary}</p>
-     </section>`;
+     </li>`;
 });
 
 sortedPostIndexData = postIndexData.sort((a, b) => {
