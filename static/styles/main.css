@@ -2,7 +2,7 @@
   --spacing: 10px;
   --spacing-half: calc(var(--spacing) / 2);
   --secondary: #b10743;
-  --border: calc(var(--spacing) / 2) dashed var(--secondary);
+  --border: calc(var(--spacing) / 2) solid var(--secondary);
   --max-width: 800px;
   --font-family: Courier, serif;
 }
