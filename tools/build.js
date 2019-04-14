@@ -53,9 +53,9 @@ function getDate(html) {
 // TODO not working
 function getSummary(html) {
   const search = '<p id="summary">';
-  const start = html.indexOf(search) + search.length;
-  const end = html.substring(start, html.length).indexOf('>');
-  return html.substring(start, end);
+  const start = html.lastIndexOf(search) + search.length;
+  const substring = html.substring(start);
+  return substring.substring(0, substring.indexOf('</p>'));
 }
 
 function compile(path, filename, destination) {
@@ -77,6 +77,7 @@ function compile(path, filename, destination) {
     post.url = `/blog/${name}.html`;
     post.title = title;
     post.date = date;
+    post.summary = summary;
     postIndexData.push(post);
   }
   const unminifiedHtml = template(data);
@@ -103,10 +104,11 @@ let postIndexItems = [];
 
 postIndexData.forEach(post => {
   post.html =
-    `<li class="blog--post">
+    `<section class="blog--post">
+       <h2 class="blog--title"><a href="${post.url}">${post.title}</a></h2>
        <time class="blog--time">${post.date}</time>
-       <a class="blog--title" href="${post.url}">${post.title}</a>
-     </li>`;
+       <p class="blog--summary">${post.summary}</p>
+     </section>`;
 });
 
 sortedPostIndexData = postIndexData.sort((a, b) => {

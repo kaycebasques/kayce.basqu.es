@@ -19,9 +19,7 @@
 <p id="category">Technical Writing</p>
 
 <p id="summary">
-  <a target="_blank" rel="noopener" href="https://parametric.press/">
-    Parametric Press
-  </a> enables its readers to control how much information they see via a
+  Parametric Press enables its readers to control how much information they see via a
   slider that has 4 options: "TL;DR", "Essentials", "Highlights", and "Everything".
   This post explores whether this feature would be useful in documentation.
   My initial impression is that the ROI does not justify the effort.

@@ -9,10 +9,7 @@
 <p id="summary">
   This is my lightning talk from the Write The Docs 2018 conference in Portland. I talk about
   using the scientific method to try to improve the response rates in "was this page
-  helpful?" feedback widgets. If you want to help me build a little community
-  dedicated to figuring out how to apply metrics to technical writing, then email me at
-  <code>kayce@basqu.es</code> or tweet me at
-  <a href="https://twitter.com/kaycebasques">@kaycebasques</a>.
+  helpful?" feedback widgets.
 </p>
 
 On a whim, I decided to give a lightning talk on day 2 of the 2018 Write The Docs conference

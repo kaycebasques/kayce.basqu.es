@@ -20,12 +20,19 @@ a {
   list-style-type: none;
 }
 
+.blog--summary {
+  margin: 0;
+  font-style: italic;
+}
+
 .blog--time {
   display: block;
+  font-weight: bold;
+  margin: var(--spacing-half) 0 var(--spacing-half) 0;
 }
 
 .blog--title {
-  display: block;
+  margin: 0;
 }
 
 body {
@@ -63,7 +70,7 @@ code {
 }
 
 h1 {
-  font-size: 1.7em;
+  font-size: 1.5em;
   margin-top: 0;
 }
 

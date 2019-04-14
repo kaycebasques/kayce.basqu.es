@@ -6,6 +6,10 @@
 
 <p id="category">Technical Writing</p>
 
+<p id="summary">
+  First impressions of Twitter's "was this page helpful?" UX.
+</p>
+
 This is the first of a series of posts where I catalog the various implementations
 of "was this page helpful?" UIs that I encounter across the web.
 
