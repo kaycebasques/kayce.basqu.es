@@ -106,9 +106,12 @@ main {
     border-top: var(--border);
     padding-top: var(--spacing);
   }
+  .nav--list {
+    display: flex;
+    justify-content: space-between;
+  }
   .nav--link {
     display: inline;
-    margin-right: var(--spacing);
   }
   .nav--logo {
     display: none;
