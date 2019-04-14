@@ -19,12 +19,12 @@ function getName(filename) {
 }
 
 function getStylesheet() {
-  const src = fs.readFileSync('static/styles/main.css', 'utf8');
+  const src = fs.readFileSync('styles/main.css', 'utf8');
   return new css().minify(src).styles;
 }
 
 function getScript() {
-  return fs.readFileSync('static/scripts/main.js', 'utf8');
+  return fs.readFileSync('scripts/main.js', 'utf8');
   // TODO minification not working
   //return js.minify(src).code;
 }
