@@ -4,7 +4,7 @@
   --secondary: #b10743;
   --border: calc(var(--spacing) / 2) solid black;
   --max-width: 800px;
-  --font-family: Courier, serif;
+  --font-family: 'Bitter', serif;
 }
 
 a {
@@ -62,11 +62,6 @@ code {
 
 #category::before {
   content: "Category: ";
-}
-
-@font-face {
-  font-family: "Rasa";
-  src: url("/fonts/Rasa-Regular.ttf") format("truetype");
 }
 
 h1 {

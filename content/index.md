@@ -14,13 +14,11 @@ Hi. I'm Kayce. Welcome to my little home on the good ol' World Wide Web.
 
 I work for Google as a technical writer. I write the docs for
 <a href="https://developers.google.com/web/tools/chrome-devtools"
-   target="_blank" rel="noopener">Chrome DevTools</a> and
-<a href="https://developers.google.com/web/tools/lighthouse"
-   target="blank" rel="noopener">Lighthouse</a>.
+   target="_blank" rel="noopener">Chrome DevTools</a>.
 
 I write here and there on [my blog](/blog/) about whatever topics strike my fancy.
 
-You can find me around the web at these fine establishments:
+I regularly visit these world wide watering holes:
 
 * [Stack Overflow](https://stackoverflow.com/users/1669860/kayce-basques)
 * [GitHub](https://github.com/kaycebasques)
