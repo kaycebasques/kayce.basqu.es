@@ -10,9 +10,9 @@
   The technical writing portfolio of Kayce Basques.
 </p>
 
-## Google (2015 to Present)
+<h2 id="google">Google (2015 to Present)</h2>
 
-### Chrome DevTools
+<h3 id="devtools">Chrome DevTools</h3>
 
 General:
 
@@ -134,7 +134,7 @@ Release Notes:
 * [Chrome 58](https://developers.google.com/web/updates/2017/03/devtools-release-notes)
   ([PDF](https://drive.google.com/open?id=1NvicyVyAqUFlojh3oS2fOQUYLdCA0EyZ))
 
-### Workbox
+<h3 id="workbox">Workbox</h3>
 
 * [Workfox For NPM Scripts Tutorial](https://developers.google.com/web/tools/workbox/guides/codelabs/npm-script)
   ([PDF](https://drive.google.com/open?id=1YW_VjqsUznsBzz6C1bInJ8JBwESap_8E))
@@ -143,21 +143,127 @@ Release Notes:
 * [Workbox For Gulp Tutorial](https://developers.google.com/web/tools/workbox/guides/codelabs/gulp)
   ([PDF](https://drive.google.com/open?id=18oG5KFRW_CjkbQjfUQNiAP-56HxCrMpa))
 
-### Security
+<h3 id="security">Security</h3>
 
 * [Why HTTPS Matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
   ([PDF](https://drive.google.com/open?id=1LpOZi81vA-UptUDUELpK9iOMdd7IJ9rE))
 
-### Lighthouse
+<h3 id="lighthouse">Lighthouse</h3>
 
-![Under Construction](/media/under-construction.gif)
+* [Critical Request Chains](https://developers.google.com/web/tools/lighthouse/audits/critical-request-chains)
+  ([PDF](https://drive.google.com/open?id=1zkQNI-KaJQoSw_jkiNyrHviyqesq0es7))
+* [Defer Unused CSS](https://developers.google.com/web/tools/lighthouse/audits/unused-css)
+  ([PDF](https://drive.google.com/open?id=1fwmJSrfH5Z8ujPBzJx_zddU0bQvfFk1J))
+* [Enable Text Compression](https://developers.google.com/web/tools/lighthouse/audits/text-compression)
+  ([PDF](https://drive.google.com/open?id=1SbvmawemhNJWkFOoPENi5y3jiNuHhkws))
+* [Estimated Input Latency](https://developers.google.com/web/tools/lighthouse/audits/estimated-input-latency)
+  ([PDF](https://drive.google.com/open?id=1VyG9xFjFveGtN9LAj-kCxVNRYQwbmDZU))
+* [First Contentful Paint](https://developers.google.com/web/tools/lighthouse/audits/first-contentful-paint)
+  ([PDF](https://drive.google.com/open?id=1PH1-uu3VmCq0fuS-gakLqvE500OtqszO))
+* [First CPU Idle](https://developers.google.com/web/tools/lighthouse/audits/first-cpu-idle)
+  ([PDF](https://drive.google.com/open?id=1Iah03q3kUFnzaFgPKdfl6fIIw3zKyDa6))
+* [First Meaningful Paint](https://developers.google.com/web/tools/lighthouse/audits/first-meaningful-paint)
+  ([PDF](https://drive.google.com/open?id=1aFmMcSWoQga9wNlc9gXCd5r98CUpE0ct))
+* [Avoids Enormous Network Payloads](https://developers.google.com/web/tools/lighthouse/audits/network-payloads)
+  ([PDF](https://drive.google.com/open?id=1V65wkr_BPrYbBiwwj2FXj9LpiW2aBgnM))
+* [Has Multiple Page Redirects](https://developers.google.com/web/tools/lighthouse/audits/redirects)
+  ([PDF](https://drive.google.com/open?id=1ElMUc3Pa5IpXnT6Y8ZgkRw-a1041ERA_))
+* [JavaScript Bootup Time Is Too High](https://developers.google.com/web/tools/lighthouse/audits/bootup)
+  ([PDF](https://drive.google.com/open?id=1qTg81lZBL8NIwwZs7BZM51UvbwhHu41J))
+* [Keep Server Response Times Low](https://developers.google.com/web/tools/lighthouse/audits/ttfb)
+  ([PDF](https://drive.google.com/open?id=1hfixZM2okAL9AEre8vjQZ_Fj_ovOvGEB))
+* [Minify CSS](https://developers.google.com/web/tools/lighthouse/audits/minify-css)
+  ([PDF](https://drive.google.com/open?id=1LUXDCFWibW5flZhgKBXo3RM2s-lRDWU4))
+* [Offscreen Images](https://developers.google.com/web/tools/lighthouse/audits/offscreen-images)
+  ([PDF](https://drive.google.com/open?id=1YKxXW1Ha97bJ43wvIwM7Sao4Fp-N5vqo))
+* [Optimize Images](https://developers.google.com/web/tools/lighthouse/audits/optimize-images)
+  ([PDF](https://drive.google.com/open?id=1z4OB-SmdmPl6arC8HyoYS9VAomXa6-f_))
+* [Properly Size Images](https://developers.google.com/web/tools/lighthouse/audits/oversized-images)
+  ([PDF](https://drive.google.com/open?id=11a-ewk9Hl4BDFURNKc7Wb16OP4k92LiQ))
+* [Speed Index](https://developers.google.com/web/tools/lighthouse/audits/speed-index)
+  ([PDF](https://drive.google.com/open?id=1nswwe4dMXiSI00-X_2kuD_0ROugM_LOB))
+* [Preload Key Requests](https://developers.google.com/web/tools/lighthouse/audits/preload)
+  ([PDF](https://drive.google.com/open?id=1eyJ9eLF6iIKcIZKp1EIA6vUsemO7YqoT))
+* [Serve Images In Next-Gen Formats](https://developers.google.com/web/tools/lighthouse/audits/webp)
+  ([PDF](https://drive.google.com/open?id=1HxsX5ojNdwTUPekxwCJtNAUBtYSzSqYk))
+* [Time To Interactive](https://developers.google.com/web/tools/lighthouse/audits/time-to-interactive)
+  ([PDF](https://drive.google.com/open?id=1Lfb20mnQejp1qeUQOk30kj5nViTox4PM))
+* [Optimize Images](https://developers.google.com/web/tools/lighthouse/audits/optimize-images)
+  ([PDF](https://drive.google.com/open?id=1z4OB-SmdmPl6arC8HyoYS9VAomXa6-f_))
+* [User Timing Marks And Measures](https://developers.google.com/web/tools/lighthouse/audits/user-timing)
+  ([PDF](https://drive.google.com/open?id=1bnVK77K6pYqU3CyTpPicIPUd9cUt5nLi))
+* [Excessive DOM Size](https://developers.google.com/web/tools/lighthouse/audits/dom-size)
+  ([PDF](https://drive.google.com/open?id=1SmRrCvqYMQuQ2laMtL_i5o0U529SkmjZ))
+* [Cache Policy](https://developers.google.com/web/tools/lighthouse/audits/cache-policy)
+  ([PDF](https://drive.google.com/open?id=1HdIYAUNp3exDwIou7oElSNu0Op29SnFg))
+* [Address Bar Matches Brand Colors](https://developers.google.com/web/tools/lighthouse/audits/address-bar)
+  ([PDF](https://drive.google.com/open?id=1bA7epztkvPtIfumNqol0cmMHzzckIqgb))
+* [Contains Content When JavaScript Is Not Available](https://developers.google.com/web/tools/lighthouse/audits/no-js)
+  ([PDF](https://drive.google.com/open?id=1GxfrO1ViYBs0ORxSkZtQDy1ZnrswjQvJ))
+* [Has A Viewport Meta Tag](https://developers.google.com/web/tools/lighthouse/audits/has-viewport-meta-tag)
+  ([PDF](https://drive.google.com/open?id=1ol4aaigBVshtE7i5XB8kL8jlyQjnkvbj))
+* [Page Load Is Fast Enough On Mobile](https://developers.google.com/web/tools/lighthouse/audits/fast-3g)
+  ([PDF](https://drive.google.com/open?id=1eKlwlJS1n4_U8mlrmaKYmjqIBBtR4XW-))
+* [Redirects HTTP Traffic To HTTPS](https://developers.google.com/web/tools/lighthouse/audits/http-redirects-to-https)
+  ([PDF](https://drive.google.com/open?id=10obQhwUQVpshmZwtZLssiEJ8nDBTxrpZ))
+* [Uses HTTPS](https://developers.google.com/web/tools/lighthouse/audits/https)
+  ([PDF](https://drive.google.com/open?id=1pQH9vn_XsBWLtg89K-buUL2HN7k2xlf7))
+* [Avoids Application Cache](https://developers.google.com/web/tools/lighthouse/audits/appcache)
+  ([PDF](https://drive.google.com/open?id=1XJt5XddjB8Q4zJ14jWRQvWry4z6uSWtq))
+* [Avoids console.time()](https://developers.google.com/web/tools/lighthouse/audits/console-time)
+  ([PDF](https://drive.google.com/open?id=1LryW5L8jfCBLevz7ZSSp924wZ5ouZ4xA))
+* [Avoids Date.now()](https://developers.google.com/web/tools/lighthouse/audits/date-now)
+  ([PDF](https://drive.google.com/open?id=1QctGS3WiRfLZZPYdjXdlQcHGade71Evx))
+* [Avoids document.write()](https://developers.google.com/web/tools/lighthouse/audits/document-write)
+  ([PDF](https://drive.google.com/open?id=1loHaew_SxkdRjWJ4hQx7-VnQ3I9KIRVw))
+* [Avoids Mutation Events](https://developers.google.com/web/tools/lighthouse/audits/mutation-events)
+  ([PDF](https://drive.google.com/open?id=1KDRXGW_NT6gC34v073t8zxJQPwOQyaiq))
+* [Avoids Old CSS Flexbox](https://developers.google.com/web/tools/lighthouse/audits/old-flexbox)
+  ([PDF](https://drive.google.com/open?id=1oDShYgv7pKVRv3w30HsOetID_emxZQh1))
+* [Avoids Requesting Geolocation Permissions On Page Load](https://developers.google.com/web/tools/lighthouse/audits/geolocation-on-load)
+  ([PDF](https://drive.google.com/open?id=1q7_FL3cbsTilQj3A-zbYLm8MO-NclwYl))
+* [Avoids Requesting Notification Permissions On Page Load](https://developers.google.com/web/tools/lighthouse/audits/notifications-on-load)
+  ([PDF](https://drive.google.com/open?id=1FnZH72wey-JhehbpaLOos8Pl32ByBtKD))
+* [Displays Images With Incorrect Aspect Ratios](https://developers.google.com/web/tools/lighthouse/audits/aspect-ratio)
+  ([PDF](https://drive.google.com/open?id=1E-jnJwaYVFZFkf14HWMXPEvF2U0t7ATC))
+* [Includes Libraries With Known Vulnerabilities](https://developers.google.com/web/tools/lighthouse/audits/vulnerabilities)
+  ([PDF](https://drive.google.com/open?id=1zQfh739_L6jN2s-_uEvfU62r9WgNAteo))
+* [Links To Cross-Origin Destinations Are Unsafe](https://developers.google.com/web/tools/lighthouse/audits/noopener)
+  ([PDF](https://drive.google.com/open?id=1A9VPPnFvzJHQqNccqEPMvpXPACTHp7Pf))
+* [Prevents Users From Pasting Into Password Fields](https://developers.google.com/web/tools/lighthouse/audits/password-pasting)
+  ([PDF](https://drive.google.com/open?id=1xBW4Z6a8M9ws1XMfDrzxFmTlLEbSGxXU))
+* [Some Insecure Resources Can Be Upgraded To HTTPS](https://developers.google.com/web/tools/lighthouse/audits/mixed-content)
+  ([PDF](https://drive.google.com/open?id=1Aiit1SKRjB1pStwSx03MzdyLoe0wmzg3))
+* [Uses HTTP/2](https://developers.google.com/web/tools/lighthouse/audits/http2)
+  ([PDF](https://drive.google.com/open?id=1KX_c2GHDS7UcxInnMzCBxNrvYmG5Xr1j))
+* [Uses Passive Event Listeners](https://developers.google.com/web/tools/lighthouse/audits/passive-event-listeners)
+  ([PDF](https://drive.google.com/open?id=1Gr8BCJapuFe2Gw3G6NwSmiajlm_tGmf9))
+* [Document Does Not Have A Meta Description](https://developers.google.com/web/tools/lighthouse/audits/description)
+  ([PDF](https://drive.google.com/open?id=1xQcL7l7ymyaWhpJCXIkmPKURJF9XMdA-))
+* [Document Doesn't Have A Title Element](https://developers.google.com/web/tools/lighthouse/audits/title)
+  ([PDF](https://drive.google.com/open?id=19ZXkJkpeIQpelj9d_YtBMZWWFH3p8oW3))
+* [Document Doesn't Have A Valid hreflang](https://developers.google.com/web/tools/lighthouse/audits/hreflang)
+  ([PDF](https://drive.google.com/open?id=12eHUutuIg3tOyrFa9rOCZWI7eqpGj6Oi))
+* [Document Doesn't Have A Valid rel=canonical](https://developers.google.com/web/tools/lighthouse/audits/canonical)
+  ([PDF](https://drive.google.com/open?id=1QoscYDqu_pCja_9nCCCIDQl_9TkMG5GX))
+* [Document Doesn't Use Legible Font Sizes](https://developers.google.com/web/tools/lighthouse/audits/font-sizes)
+  ([PDF](https://drive.google.com/open?id=1qBEjG9etqyJxOq13tE7vpbtLcMdi-PWR))
+* [Document Uses Plugins](https://developers.google.com/web/tools/lighthouse/audits/plugins)
+  ([PDF](https://drive.google.com/open?id=1AYVKf7mwSMv7D8UgR1UGa96L5fEVsRmj))
+* [Links Do Not Have Descriptive Text](https://developers.google.com/web/tools/lighthouse/audits/descriptive-link-text)
+  ([PDF](https://drive.google.com/open?id=1Dg7obsH7WmDzszZGwoj8xadomzMQXjrr))
+* [Page Is Blocked From Indexing](https://developers.google.com/web/tools/lighthouse/audits/indexing)
+  ([PDF](https://drive.google.com/open?id=1rUu8uAN_UggBgbBCUWmfeqrsjAonnaqo))
+* [robots.txt Is Not Valid](https://developers.google.com/web/tools/lighthouse/audits/robots)
+  ([PDF](https://drive.google.com/open?id=1Oq9BDd_GlnXszfRJRJanDQS_fRU6-onj))
+* [Tap Targets Are Not Sized Appropriately](https://developers.google.com/web/tools/lighthouse/audits/tap-targets)
+  ([PDF](https://drive.google.com/open?id=1edJzohW6pB4wI3D4WOm7Gwfq4AxBaNNp))
 
-## Arrayent (2012 to 2015)
+<h2 id="arrayent">Arrayent (2012 to 2015)</h2>
 
 Work from my first full-time position as a technical writer.
 
-### Embedded Developer Docs
-
+Embedded Developer Docs:
 
 * [WICED DevKit Tutorial](http://developer.arrayent.com/dev-kits/cypress-devkit/)
   ([PDF](https://drive.google.com/open?id=12S_2ujHFbu7D-3OOXyIaTES1RwIuIHYI))
@@ -178,7 +284,7 @@ Work from my first full-time position as a technical writer.
 * [Troubleshooting Guide](http://developer.arrayent.com/embedded-guides/troubleshooting-guide/)
   ([PDF](https://drive.google.com/open?id=1zI_BvDWSPxkJU0nGGcobbgMyUO8QWkRR))
 
-### Web Developer Docs
+Web Developer Docs:
 
 * [Regular Alerts Guide](http://developer.arrayent.com/developer-guides/alert-guides/regular-alerts-guide/)
   ([PDF](https://drive.google.com/open?id=1uP5kY_naM_d3o12oeC9MnRsyF8FFO3TD))
@@ -201,7 +307,7 @@ Work from my first full-time position as a technical writer.
 * [API Codes Reference](http://developer.arrayent.com/developer-apis/acc-apis/arrayent-connect-api-codes-and-messages/)
   ([PDF](https://drive.google.com/open?id=1DG4NhOA6-yRN40cFT2nHPeifUQ7gTHND))
 
-### Web App User Docs
+Web App User Docs:
 
 * [Configurator Guide](http://developer.arrayent.com/developer-guides/web-applications/configurator-app/)
   ([PDF](https://drive.google.com/open?id=1FfNmiAsZVs0ke5Euyt-wQcz3PAXehMfX))
