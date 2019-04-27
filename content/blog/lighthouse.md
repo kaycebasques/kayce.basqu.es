@@ -169,11 +169,15 @@ Likewise, the SEO audits are not comprehensive. They're pretty basic, in fact. B
 
 <h2 id="next">Next steps</h2>
 
+Here's the general workflow for using this information to improve page quality:
+
 1. Audit one of your documentation pages.
 1. Read your report and explore the suggestions. Look for changes that you can make within
    your content files. Examples include missing `alt` attributes on images, oversized images,
    and unoptimized images.
 1. Make the changes, and then run another audit to make sure your changes fixed the problem.
+
+Send me questions and comments at kayce@basqu.es.
 
 <h2 id="config">Appendix: Configuration options</h2>
 
