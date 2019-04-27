@@ -45,7 +45,7 @@ body {
 }
 
 code {
-  font-size: 0.65em;
+  font-size: 1em;
 }
 
 .button {
@@ -105,10 +105,6 @@ img {
   max-width: 100%;
 }
 
-li {
-  list-style-type: disc;
-}
-
 main {
   grid-area: main;
   padding: var(--spacing);
@@ -164,6 +160,10 @@ main {
   padding: 0;
 }
 
+ol {
+  list-style-type: decimal;
+}
+
 #summary {
   border: var(--border);
   padding: var(--spacing);
@@ -183,6 +183,10 @@ main {
 
 #time::before {
   content: "Date: ";
+}
+
+ul {
+  list-style-type: disk;
 }
 
 .youtube--container {

@@ -10,7 +10,7 @@
   The homepage of Kayce Basques.
 </p>
 
-Hi. I'm Kayce. Welcome to my little home on the good ol' World Wide Web.
+Howdy. I'm Kayce. Welcome to my little home on the good ol' World Wide Web.
 
 I work for Google as a technical writer. I write the docs for
 <a href="https://developers.google.com/web/tools/chrome-devtools"
