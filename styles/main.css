@@ -64,6 +64,26 @@ code {
   content: "Category: ";
 }
 
+@font-face {
+  font-family: 'Bitter';
+  font-display: swap;
+  src: url('/fonts/Bitter/Bitter-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Bitter';
+  font-display: swap;
+  src: url('/fonts/Bitter/Bitter-Bold.ttf') format('truetype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Bitter';
+  font-display: swap;
+  src: url('/fonts/Bitter/Bitter-Italic.ttf') format('truetype');
+  font-style: italic;
+}
+
 h1 {
   font-size: 1.5em;
   margin-top: 0;
