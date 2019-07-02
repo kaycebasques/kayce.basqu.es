@@ -64,6 +64,11 @@ code {
   content: "Category: ";
 }
 
+figure {
+  margin-left: 0;
+  margin-right: 0;
+}
+
 @font-face {
   font-family: 'Bitter';
   font-display: swap;

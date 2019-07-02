@@ -11,7 +11,12 @@
 </p>
 
 To celebrate 30 years of successfully avoiding death I took a month off and
-explored California, Nevada, Utah, New Mexico, Arizona, and Oregon. 
+explored California, Nevada, Utah, New Mexico, Arizona, and Oregon. During the long drives I had
+a lot of time to realize how privileged I am to be able to do a trip like this. The main reason
+I did the trip was to reflect on my life up to this point and think about what I want to
+accomplish in the next decade. The main goal I'm going to pursue is to increase the world's
+wealth and to share that wealth more equitably so that more people can do trips like this, if
+they so choose. But that's a topic for another day.
 
 <figure>
   <img src="https://res.cloudinary.com/kaycebasques/image/upload/v1562095925/roadtrip2019/roadtrip2019_lnwgvn.png" 
@@ -24,6 +29,10 @@ explored California, Nevada, Utah, New Mexico, Arizona, and Oregon.
     Overview of my trip.
   </figcaption>
 </figure>
+
+Road trips are an amazing form of vacation. If you've never done one, I highly recommend it.
+But I do feel guilty about all of the carbon emissions. I'm looking into ways to offset my
+pollution. If you know of a non-scammy one, please send me an email at kayce@basqu.es.
 
 <h2 id="transport">Transport</h2>
 
