@@ -19,7 +19,8 @@
   <img src="/media/wndtstats.png"
        alt="A chart showing DevTools pageviews from 2016 to 2018."/>
   <figcaption>
-    Figure 1. DevTools pageviews from 2016 to 2018.
+    Figure 1. DevTools pageviews from 2016 to 2018. Y-axis values have been redacted but
+    the scale is accurate.
   </figcaption>
 </figure>
 

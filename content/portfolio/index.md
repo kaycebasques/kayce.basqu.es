@@ -10,6 +10,9 @@
   The technical writing portfolio of Kayce Basques.
 </p>
 
+This is a comprehensive, roughly chronological list of everything I've created as a technical
+writer.
+
 <h2 id="google">Google (2015 to Present)</h2>
 
 <h3 id="devtools">Chrome DevTools</h3>
@@ -261,7 +264,8 @@ Release Notes:
 
 <h2 id="arrayent">Arrayent (2012 to 2015)</h2>
 
-Work from my first full-time position as a technical writer.
+Arrayent was an internet of things startup. I was the sole technical writer in the company.
+This was my first full-time technical writing job.
 
 Embedded Developer Docs:
 
