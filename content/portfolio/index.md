@@ -262,10 +262,123 @@ Release Notes:
 * [Tap Targets Are Not Sized Appropriately](https://developers.google.com/web/tools/lighthouse/audits/tap-targets)
   ([PDF](https://drive.google.com/open?id=1edJzohW6pB4wI3D4WOm7Gwfq4AxBaNNp))
 
+<h2 id="quantifiedcode">Quantified Code (2014)</h2>
+
+Quantified Code was a Berlin-based startup. Their main product was an automated code analysis tool for
+Python codebases. I wrote over 100 guides for their companion site, [The Little Book Of
+Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/). The purpose of the
+companion site was to share their knowledge of Python best practices while also driving
+traffic to their automated product. E.g. their sales pitch was "rather than trying to remember all
+of these best practices, we have an automated tool that can do it for you." Subject matter experts at
+Quantified Code gave me a list of topics to write about. If I recall correctly, each topic only had a
+one-line description. I researched and drafted each guide myself. The subject matter
+experts reviewed my guides.
+
+<figure>
+  <img src="/media/quantifiedcode.png" 
+       loading="lazy" 
+       alt="We were completely happy with Kayce's work. He was a great, professional communicator and he knows how 
+            to manage and deliver projects. He wrote about 100 technical articles for us. Especially, as the 
+            programming language he was writing about, was new to him, we were impressed by the quality and the 
+            thoroughness of his investigations. Also, Kayce should flexibility when we were busy and had to pause the 
+            assignment for a bit. Fully recommended. Happy to work with him again."/>
+  <figcaption>
+    Figure 1. The review that the Quantified Code people left me.
+  </figcaption>
+</figure>
+
+Note that the list below is not complete. It looks like some of the guides were deleted over time.
+See [my commit history](https://github.com/quantifiedcode/python-anti-patterns/search?q=committer%3Akaycebasques&type=Commits)
+for the full list of contributions.
+
+* [Method has no argument](https://docs.quantifiedcode.com/python-anti-patterns/correctness/method_has_no_argument.html)
+  ([PDF](https://drive.google.com/open?id=1Nfg-Eqsu1O7YYG_3i6uxVipW9JCua9qD))
+* [Explicit return in \_\_init\_\_](https://docs.quantifiedcode.com/python-anti-patterns/correctness/explicit_return_in_init.html)
+  ([PDF](https://drive.google.com/open?id=1UWA1yNuuX7YBurf9o3DtnTD-5vL2Jv25))
+* [Method could be a function](https://docs.quantifiedcode.com/python-anti-patterns/correctness/method_could_be_a_function.html)
+  ([PDF](https://drive.google.com/open?id=1UIz2gMHNeA6wkpdSDKFqGAYZLx3N9dIN))
+* [\_\_exit\_\_ must accept 3 arguments](https://docs.quantifiedcode.com/python-anti-patterns/correctness/exit_must_accept_three_arguments.html)
+  ([PDF](https://drive.google.com/open?id=1JgWBhH4Lblc9AehEQbp-3c9EdwPH9vOW))
+* [Use of exec](https://docs.quantifiedcode.com/python-anti-patterns/security/use_of_exec.html)
+  ([PDF](https://drive.google.com/open?id=1_0iRvuMTPMNxsT6RPo6un7DuZsq5HdL6))
+* [Using the global statement](https://docs.quantifiedcode.com/python-anti-patterns/maintainability/using_the_global_statement.html)
+  ([PDF](https://drive.google.com/open?id=1dZ-t5As43zFmZkBvohYkuDPfJMqfoOL9)
+* [Indentation contains mixed spaces and tabs](https://docs.quantifiedcode.com/python-anti-patterns/correctness/indentation_contains_mixed_spaces_and_tabs.html)
+  ([PDF](https://drive.google.com/open?id=1taBBpGCFxgxH3EscyVJvsYhpZxJweTZN))
+* [Comparison to none](https://docs.quantifiedcode.com/python-anti-patterns/readability/comparison_to_none.html)
+  ([PDF](https://drive.google.com/open?id=1HDdEq7JjaqauS19Awy94hKvvckP8AyWc))
+* [Comparison to true](https://docs.quantifiedcode.com/python-anti-patterns/readability/comparison_to_true.html)
+  ([PDF](https://drive.google.com/open?id=1MmYXDk4g71zD2nVy2AM3UfTCo4RaGWRj))
+* [Test for object identity should be is not](https://docs.quantifiedcode.com/python-anti-patterns/readability/test_for_object_identity_should_be_is_not.html)
+  ([PDF](https://drive.google.com/open?id=1XrIAheqnIxndqf9FYHMrw-iMIgaQJjhU))
+* [Do not compare types, use isinstance](https://docs.quantifiedcode.com/python-anti-patterns/readability/do_not_compare_types_use_isinstance.html)
+  ([PDF](https://drive.google.com/open?id=1daZqZEDJzU6bUNhzikU0pppw__Y4pO18))
+* [Indentation contains tabs](https://docs.quantifiedcode.com/python-anti-patterns/correctness/indentation_contains_tabs.html)
+  ([PDF](https://drive.google.com/open?id=1v8YVwik6ogd2Ra3uTZiUNW7wVlVBcnAm))
+* [Assigning lambda to a variable](https://docs.quantifiedcode.com/python-anti-patterns/correctness/assigning_a_lambda_to_a_variable.html)
+  ([PDF](https://drive.google.com/open?id=1Jyzf5XkdM0F9G9UfwdOKvjViAD-ROKSE))
+* [Using wildcard imports](https://docs.quantifiedcode.com/python-anti-patterns/maintainability/from_module_import_all_used.html)
+  ([PDF](https://drive.google.com/open?id=1pJKbIQqdwqD2AosQMlkSHH-usDTE0_Q-))
+* [Future import is not the first statement](https://docs.quantifiedcode.com/python-anti-patterns/correctness/future_import_is_not_the_first_statement.html)
+  ([PDF](https://drive.google.com/open?id=1sjkEcNvrwVcmuw5yeV10dlEto4l0P9XY))
+* [Bad except clauses order](https://docs.quantifiedcode.com/python-anti-patterns/correctness/bad_except_clauses_order.html)
+  ([PDF](https://drive.google.com/open?id=1DA3hraB1AH2oUG7hdQO3vB2Nl2VaQOz-))
+* [Bad first argument given to super](https://docs.quantifiedcode.com/python-anti-patterns/correctness/bad_first_argument_given_to_super.html)
+  ([PDF](https://drive.google.com/open?id=1wz2KTq9gikvbexUOu3vOhhqIbF6QbOU5))
+* [Missing argument to super](https://docs.quantifiedcode.com/python-anti-patterns/correctness/missing_argument_to_super.html)
+  ([PDF](https://drive.google.com/open?id=1gavKC1kCxw6TTlKtW8G8038QIqWHSso2))
+* [Access to a protected member](https://docs.quantifiedcode.com/python-anti-patterns/correctness/accessing_a_protected_member_from_outside_the_class.html)
+  ([PDF](https://drive.google.com/open?id=19ALIM0z8B516i8jiAGh6OSXyuXAbrD3V))
+* [else clause on loop without a break statement](https://docs.quantifiedcode.com/python-anti-patterns/correctness/else_clause_on_loop_without_a_break_statement.html)
+  ([PDF](https://drive.google.com/open?id=1UwkQzvh52MG7bBCj7cVBsopHcJrV5PHB))
+* [Using an unpythonic loop](https://docs.quantifiedcode.com/python-anti-patterns/readability/using_an_unpythonic_loop.html)
+  ([PDF](https://drive.google.com/open?id=1MTaFe1rO6Pn9_0g8rpUSBHFwOllhlvTk))
+* [Returning more than one variable type from function call](https://docs.quantifiedcode.com/python-anti-patterns/maintainability/returning_more_than_one_variable_type_from_function_call.html)
+  ([PDF](https://drive.google.com/open?id=1OHE2Tded-xjfbB1eicHeEuyME2fF81o-))
+* [Not using items to iterate over a dictionary](https://docs.quantifiedcode.com/python-anti-patterns/readability/not_using_items_to_iterate_over_a_dictionary.html)
+  ([PDF](https://drive.google.com/open?id=1TJOgVoOSVn8PJJ-Im5SeWCw0simP41Ru))
+* [Not using zip to iterate over a pair of lists](https://docs.quantifiedcode.com/python-anti-patterns/readability/not_using_zip_to_iterate_over_a_pair_of_lists.html)
+  ([PDF](https://drive.google.com/open?id=16NaJYdr2WxBhYUdt7hwsCiy0FUcqo_mk))
+* [Using key in list to check if key is contained in list](https://docs.quantifiedcode.com/python-anti-patterns/performance/using_key_in_list_to_check_if_key_is_contained_in_a_list.html)
+  ([PDF](https://drive.google.com/open?id=16tU1iVn8ZLxMAZf8bCU83Pl98UXcfbiw))
+* [Not using else in a loop](https://docs.quantifiedcode.com/python-anti-patterns/correctness/not_using_else_in_a_loop.html)
+  ([PDF](https://drive.google.com/open?id=1xrvagdaxhBLQk-LJq5aaY0IopqlXR-lE))
+* [Not using setdefault to initialize a dictionary](https://docs.quantifiedcode.com/python-anti-patterns/correctness/not_using_setdefault_to_initialize_a_dictionary.html)
+  ([PDF](https://drive.google.com/open?id=1ZYlOuXR3rNdGi-bWvT0YVdl1sS9hjFKx))
+* [Not using get to return a default value from a dictionary](https://docs.quantifiedcode.com/python-anti-patterns/correctness/not_using_get_to_return_a_default_value_from_a_dictionary.html)
+  ([PDF](https://drive.google.com/open?id=1dx0UaNxbH6OZJE_E2roYzM4EIEptdN51))
+* [Using map or filter where list comprehension is possible](https://docs.quantifiedcode.com/python-anti-patterns/readability/using_map_or_filter_where_list_comprehension_is_possible.html)
+  ([PDF](https://drive.google.com/open?id=1Wv0aO2MTEUalfZ6g6u3n_izfZryZ7tGP))
+* [Not using defaultdict](https://docs.quantifiedcode.com/python-anti-patterns/correctness/not_using_defaultdict.html)
+  ([PDF](https://drive.google.com/open?id=11n0EbpQiQMaxTEJmPl3tg7xUQPUq250L))
+* [Not using named tuples when returning more than one value](https://docs.quantifiedcode.com/python-anti-patterns/readability/not_using_named_tuples_when_returning_more_than_one_value.html)
+  ([PDF](https://drive.google.com/open?id=1M2Aw0rdznXAWu8SfMqvnGkfNSWk7yuDi))
+* [Not using explicit unpacking](https://docs.quantifiedcode.com/python-anti-patterns/correctness/not_using_explicit_unpacking.html)
+  ([PDF](https://drive.google.com/open?id=1wWvQZ3hxFzHUYRKIIgoQ055TLPChCQlY))
+* [Not using unpacking for updating multiple values at once](https://docs.quantifiedcode.com/python-anti-patterns/readability/not_using_unpacking_for_updating_multiple_values_at_once.html)
+  ([PDF](https://drive.google.com/open?id=1rI4oTcYq_9-AiWqiFnN4MgnVmMqoWGXL))
+* [Not using with to open files](https://docs.quantifiedcode.com/python-anti-patterns/maintainability/not_using_with_to_open_files.html)
+  ([PDF](https://drive.google.com/open?id=1lYiSxyWPwezEJ84axpxmofGsAdRq-td0))
+* [Asking for permission instead of forgiveness when working with files](https://docs.quantifiedcode.com/python-anti-patterns/readability/asking_for_permission_instead_of_forgiveness_when_working_with_files.html)
+  ([PDF](https://drive.google.com/open?id=1nG6-5-TKcmKVkzxQlMz5NudscYuQMVZl))
+* [Not using a dict comprehension](https://docs.quantifiedcode.com/python-anti-patterns/readability/not_using_a_dict_comprehension.html)
+  ([PDF](https://drive.google.com/open?id=1ZpI4MdTzUwhR0jgFqS8k5nyC1SLbC-5f))
+* [Putting type information in a variable](https://docs.quantifiedcode.com/python-anti-patterns/readability/putting_type_information_in_a_variable_name.html)
+  ([PDF](https://drive.google.com/open?id=14LfFsqxG6DMD6xK9prXIFECpA_IT9eER))
+* [Implementing Java-style setters and getters](https://docs.quantifiedcode.com/python-anti-patterns/correctness/implementing_java-style_getters_and_setters.html)
+  ([PDF](https://drive.google.com/open?id=1wNzSZN-TgaWrwwEsE17fyNJDBIhyOnGW))
+
 <h2 id="arrayent">Arrayent (2012 to 2015)</h2>
 
 Arrayent was an internet of things startup. I was the sole technical writer in the company.
-This was my first full-time technical writing job.
+This was my first full-time technical writing job. I wrote developer documentation for an embedded API
+as well as a REST API, in addition to end-user documentation for a couple of web applications. 
+I even hacked together a custom XSLT stylesheet to convert our Doxygen-generated reference
+documentation to more reasonable HTML. I also migrated the company's documentation from Microsoft
+Word to a website. I used Sphinx to generate the site and stored the source code on BitBucket. I deployed 
+the site to Heroku. I don't think I set up an automated deployment system because running the command to deploy to
+Heroku was trivial. In addition to managing all of our customer-facing documentation I also
+managed our SDKs, which we sent out to prospective customers.
 
 Embedded Developer Docs:
 
