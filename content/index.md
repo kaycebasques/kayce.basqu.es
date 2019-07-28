@@ -23,7 +23,7 @@ I work for Google as a technical writer. I write the docs for Chrome DevTools.
 
 <a href="/portfolio"><button class="button">Portfolio</button></a>
 
-I write here and there on my blog. Mostly about technical writing, with personal stuff here and there.
+I write here and there on my blog. Mostly about technical writing.
 
 <a href="/blog"><button class="button">Blog</button></a>
 
