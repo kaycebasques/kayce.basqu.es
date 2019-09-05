@@ -1,4 +1,4 @@
-<h1 id="title"><a href="/"><img src="/media/avatar.jpg" alt="My avatar."/></a> Title</h1>
+<h1 id="title">Title</h1>
 
 <p id="time">
   <time datetime="YYYY-MM-DD">Year Month Day</time>
