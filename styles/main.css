@@ -4,7 +4,7 @@
   --secondary: #b10743;
   --border: calc(var(--spacing) / 2) solid black;
   --max-width: 800px;
-  --font-family: 'Bitter', serif;
+  --font-family: 'Roboto Mono', system-ui, sans-serif;
 }
 
 a {
@@ -67,26 +67,6 @@ code {
 figure {
   margin-left: 0;
   margin-right: 0;
-}
-
-@font-face {
-  font-family: 'Bitter';
-  font-display: swap;
-  src: url('/fonts/Bitter/Bitter-Regular.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: 'Bitter';
-  font-display: swap;
-  src: url('/fonts/Bitter/Bitter-Bold.ttf') format('truetype');
-  font-weight: bold;
-}
-
-@font-face {
-  font-family: 'Bitter';
-  font-display: swap;
-  src: url('/fonts/Bitter/Bitter-Italic.ttf') format('truetype');
-  font-style: italic;
 }
 
 h1 {
