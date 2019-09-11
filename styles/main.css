@@ -5,6 +5,7 @@
   --border: calc(var(--spacing) / 2) solid black;
   --max-width: 800px;
   --font-family: 'Roboto Mono', system-ui, sans-serif;
+  --h1-height: 1.5em;
 }
 
 a {
@@ -23,6 +24,7 @@ a {
 .blog--summary {
   margin: 0;
   font-style: italic;
+  font-weight: normal;
 }
 
 .blog--time {
@@ -33,6 +35,7 @@ a {
 
 .blog--title {
   margin: 0;
+  font-style: normal;
 }
 
 body {
@@ -70,16 +73,32 @@ figure {
 }
 
 h1 {
-  font-size: 1.5em;
+  font-size: var(--h1-height);
   margin-top: 0;
+  font-weight: bold;
+  font-style: italic;
 }
 
 h2 {
   font-size: 1.2em;
+  font-weight: bold;
+  font-style: italic;
 }
 
 h3 {
   font-size: 1.0em;
+  font-weight: bold;
+  font-style: italic;
+}
+
+h4 {
+  font-weight: bold;
+  font-style: italic;
+}
+
+h5 {
+  font-weight: bold;
+  font-style: italic;
 }
 
 html {
@@ -159,6 +178,7 @@ ol {
   display: block;
   margin-bottom: 0.5em;
   font-weight: bold;
+  font-style: italic;
   font-size: 1.25em;
 }
 
