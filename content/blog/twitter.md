@@ -1,4 +1,12 @@
-<h1 id="title">A Case Study Of Twitter's "Was This Page Helpful?" UI</h1>
+---
+layout: base.mustache
+title: A Case Study Of Twitter's "Was This Page Helpful?" UI
+tags: post
+date: 2019-02-03
+summary: First impressions of Twitter's "was this page helpful?" UX.
+---
+
+<h1 id="title">{{title}}</h1>
 
 <p id="time">
   <time datetime="2019-02-03">2019 February 3</time>
@@ -7,7 +15,7 @@
 <p id="category">Technical Writing</p>
 
 <p id="summary">
-  First impressions of Twitter's "was this page helpful?" UX.
+  {{summary}}
 </p>
 
 This is the first of a series of posts where I catalog the various implementations

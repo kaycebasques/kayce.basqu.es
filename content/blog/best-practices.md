@@ -1,6 +1,18 @@
+---
+layout: base.mustache
+title: Maybe Our Documentation "Best Practices" Aren't Really Best Practices
+tags: post
+date: 2018-12-03
+summary: |
+  Recently I discovered that a supposed documentation "best practice" may not
+  actually stand up to scrutiny when measured in the wild. I'm now on a mission to get a
+  "was this page helpful?" feedback widget on every
+  documentation page on the web. It's not the end-all be-all solution, but it's a start
+  towards a more rigorous understanding of what actually makes our docs more helpful.
+---
+
 <h1 id="title">
-  Maybe Our Documentation "Best Practices" Aren't Really
-  Best Practices
+  {{title}}
 </h1>
 
 <p id="time">
@@ -10,11 +22,7 @@
 <p id="category">Technical Writing</p>
 
 <p id="summary">
-  Recently I discovered that a supposed documentation "best practice" may not
-  actually stand up to scrutiny when measured in the wild. I'm now on a mission to get a
-  "was this page helpful?" feedback widget on every
-  documentation page on the web. It's not the end-all be-all solution, but it's a start
-  towards a more rigorous understanding of what actually makes our docs more helpful.
+{{summary}}
 </p>
 
 <h2 id="audience">Intended audience for this post</h2>

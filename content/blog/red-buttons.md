@@ -1,4 +1,17 @@
-<h1 id="title">Use Red Buttons To Get More Feedback On Your Docs</h1>
+---
+layout: base.mustache
+title: Use Red Buttons To Get More Feedback On Your Docs
+tags: post
+date: 2018-09-21
+summary: |
+  Asking users whether or not they found a doc helpful is an easy way to measure the quality
+  of a doc. However, very few users take the time to leave feedback. If you've only got 2 or 3 responses
+  on a doc, you can't trust that the data represents the opinion of your audience at large. I've been
+  conducting various experiments to find out how to maximize the response rate. In this experiment, I learned
+  that red buttons appear to generate significantly more responses than blue ones.
+---
+
+<h1 id="title">{{title}}</h1>
 
 <p id="time">
   <time datetime="2018-09-21">2018 September 21</time>
@@ -7,11 +20,7 @@
 <p id="category">Technical Writing</p>
 
 <p id="summary">
-  Asking users whether or not they found a doc helpful is an easy way to measure the quality
-  of a doc. However, very few users take the time to leave feedback. If you've only got 2 or 3 responses
-  on a doc, you can't trust that the data represents the opinion of your audience at large. I've been
-  conducting various experiments to find out how to maximize the response rate. In this experiment, I learned
-  that red buttons appear to generate significantly more responses than blue ones.
+{{summary}}
 </p>
 
 Thanks to my teammate [Jason Miller](https://twitter.com/_developit) for suggesting this experiment.

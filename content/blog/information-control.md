@@ -1,3 +1,15 @@
+---
+layout: base.mustache
+title: A UI That Lets Readers Control How Much Information They See
+tags: post
+date: 2018-12-06
+summary: |
+  Parametric Press enables its readers to control how much information they see via a
+  slider that has 4 options: "TL;DR", "Essentials", "Highlights", and "Everything".
+  This post explores whether this feature would be useful in documentation.
+  My initial impression is that the ROI does not justify the effort.
+---
+
 <style>
   .info--everything {
     display: block;
@@ -8,8 +20,7 @@
 </style>
 
 <h1 id="title">
-  A UI That Lets Readers Control How Much
-  Information They See
+  {{title}}
 </h1>
 
 <p id="time">
@@ -19,10 +30,7 @@
 <p id="category">Technical Writing</p>
 
 <p id="summary">
-  Parametric Press enables its readers to control how much information they see via a
-  slider that has 4 options: "TL;DR", "Essentials", "Highlights", and "Everything".
-  This post explores whether this feature would be useful in documentation.
-  My initial impression is that the ROI does not justify the effort.
+{{summary}}
 </p>
 
 Last week, in our team chat, my colleague [Houssein Djirdeh](https://twitter.com/hdjirdeh)

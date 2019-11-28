@@ -1,5 +1,17 @@
+---
+layout: base.mustache
+title: How We Tripled Chrome DevTools Documentation Pageviews In 2 Years
+tags: post
+date: 2019-05-16
+summary: |
+  To help users discover new features and major changes, the Chrome DevTools team embedded
+  release notes into the DevTools UI. The success of this approach has fundamentally changed how I
+  approach documentation discovery in general. I now look for ways to contextually link to the 
+  documentation from the product.
+---
+
 <h1 id="title">
-  How We Tripled Chrome DevTools Documentation Pageviews In 2 Years
+  {{title}}
 </h1>
 
 <p id="time">
@@ -9,10 +21,7 @@
 <p id="category">Technical Writing</p>
 
 <p id="summary">
-  To help users discover new features and major changes, the Chrome DevTools team embedded
-  release notes into the DevTools UI. The success of this approach has fundamentally changed how I
-  approach documentation discovery in general. I now look for ways to contextually link to the 
-  documentation from the product.
+{{summary}}
 </p>
 
 <figure>

@@ -1,5 +1,16 @@
+---
+layout: base.mustache
+title: Measure The Load Performance, Accessibility, And SEO Of Your Documentation Pages
+tags: post
+date: 2019-04-25
+summary: |
+  The experience of using a documentation site may be as important as the quality of the content
+  on that site. This post shows you how to use Chrome DevTools to quantitatively measure
+  whether your documentation site is an asset or a liability.
+---
+
 <h1 id="title">
-  Measure The Load Performance, Accessibility, And SEO Of Your Documentation Pages
+  {{title}}
 </h1>
 
 <p id="time">
@@ -9,9 +20,7 @@
 <p id="category">Technical Writing</p>
 
 <p id="summary">
-  The experience of using a documentation site may be as important as the quality of the content
-  on that site. This post shows you how to use Chrome DevTools to quantitatively measure
-  whether your documentation site is an asset or a liability.
+{{summary}}
 </p>
 
 I write the documentation for Chrome DevTools. DevTools is Google Chrome's built-in set of

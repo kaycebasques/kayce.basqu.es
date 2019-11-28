@@ -1,4 +1,9 @@
-# Portfolio
+---
+layout: base.mustache
+title: Portfolio
+---
+
+# {{title}}
 
 <style>
   #summary {

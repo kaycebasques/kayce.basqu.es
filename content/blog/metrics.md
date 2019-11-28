@@ -1,4 +1,14 @@
-<h1 id="title">The Purpose Of Metrics</h1>
+---
+layout: base.mustache
+title: The Purpose Of Metrics
+tags: post
+date: 2018-04-26
+summary: |
+  The purpose of metrics is to discover insights about how we can help users
+  accomplish tasks as quickly and effectively as possible.
+---
+
+<h1 id="title">{{title}}</h1>
 
 <p id="time">
   <time datetime="2018-04-26">2018 April 26</time>
@@ -7,8 +17,7 @@
 <p id="category">Technical Writing</p>
 
 <p id="summary">
-  The purpose of metrics is to discover insights about how we can help users
-  accomplish tasks as quickly and effectively as possible.
+{{summary}}
 </p>
 
 God help me, I've finally snapped. I'm actually setting out to develop a comprehensive,

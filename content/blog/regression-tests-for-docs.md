@@ -1,4 +1,12 @@
-<h1 id="title">Regression Tests For Docs</h1>
+---
+layout: base.mustache
+title: Regression Tests For Docs
+tags: post
+date: 2018-05-17
+summary: A proposal for an automated way to identify big changes in docs.
+---
+
+<h1 id="title">{{title}}</h1>
 
 <p id="time">
   <time datetime="2018-05-17">2018 May 17</time>
@@ -7,7 +15,7 @@
 <p id="category">Technical Writing</p>
 
 <p id="summary">
-  A proposal for an automated way to identify big changes in docs.
+{{summary}}
 </p>
 
 Last night, the San Francisco chapter of STC

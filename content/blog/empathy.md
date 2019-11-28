@@ -1,5 +1,20 @@
+---
+layout: base.mustache
+title: A Concrete Strategy For Cultivating Empathy In Documentation
+tags: post
+date: 2019-05-13
+summary: |
+  Technical writers talk a lot about being empathetic with readers. I agree that it's a 
+  crucial skill but frankly I think that the discussion is starting to
+  degenerate into lip service. We need more concrete guidance on how to cultivate empathy
+  in our documentation. In this post I propose that it's our duty as technical writers to start
+  recording our real-world first experiences with documentation and share these recordings
+  with other technical writers so that we can see what it's truly like to use documentation when
+  in need.
+---
+
 <h1 id="title">
-  A Concrete Strategy For Cultivating Empathy In Documentation
+  {{title}}
 </h1>
 
 <p id="time">
@@ -9,13 +24,7 @@
 <p id="category">Technical Writing</p>
 
 <p id="summary">
-  Technical writers talk a lot about being empathetic with readers. I agree that it's a 
-  crucial skill but frankly I think that the discussion is starting to
-  degenerate into lip service. We need more concrete guidance on how to cultivate empathy
-  in our documentation. In this post I propose that it's our duty as technical writers to start
-  recording our real-world first experiences with documentation and share these recordings
-  with other technical writers so that we can see what it's truly like to use documentation when
-  in need.
+{{summary}}
 </p>
 
 <h2 id="mindsets">Work mindset versus task mindset</h2>

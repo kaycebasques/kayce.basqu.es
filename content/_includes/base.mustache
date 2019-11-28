@@ -4,23 +4,15 @@
     <title>{{title}}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta name="Description" content="{{description}}">
-    <style>{{{stylesheet}}}</style>
+    <link rel="stylesheet" type="text/css" href="/main.css">
     <link rel="icon" href="/media/avatar.jpg"/>
     <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,400i,700i&display=swap" rel="stylesheet">
     <meta property="og:image" content="https://kayce.basqu.es/media/avatar.jpg"/>
     <meta name="google-site-verification" content="MDLfp22bhHWeDqDYnGefQFyZ3cSSEL5GaD2rXPeoY9U"/>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130636903-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'UA-130636903-1');
-    </script>
   </head>
   <body>
     <main>
-      {{{body}}}
-      {{{subscription}}}
+      {{{content}}}
     </main>
     <nav class="nav">
       <ul class="nav--list">
@@ -29,6 +21,5 @@
         <li class="nav--link"><a href="/portfolio">Portfolio</a></li>
       </ul>
     </nav>
-    <script>{{{script}}}</script>
   </body>
 </html>

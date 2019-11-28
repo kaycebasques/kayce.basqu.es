@@ -1,4 +1,15 @@
-<h1 id="title">Results From The Generic/Specific Feedback Prompts Experiment</h1>
+---
+layout: base.mustache
+title: Results From The Generic/Specific Feedback Prompts Experiment
+tags: post
+date: 2018-07-27
+summary: |
+  I conducted a scientific experiment to find out if specific, more personal requests for feedback
+  generate more responses than generic ones. The results reject the hypothesis. More
+  personal requests for feedback do not generate more responses than generic ones.
+---
+
+<h1 id="title">{{title}}</h1>
 
 <p id="time">
   <time datetime="2018-07-27">2018 July 27</time>
@@ -7,9 +18,7 @@
 <p id="category">Technical Writing</p>
 
 <p id="summary">
-  I conducted a scientific experiment to find out if specific, more personal requests for feedback
-  generate more responses than generic ones. The results reject the hypothesis. More
-  personal requests for feedback do not generate more responses than generic ones.
+{{summary}}
 </p>
 
 ## The experiment

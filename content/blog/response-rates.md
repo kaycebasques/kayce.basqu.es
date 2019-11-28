@@ -1,4 +1,15 @@
-<h1 id="title">Improving Response Rates</h1>
+---
+layout: base.mustache
+title: Improving Response Rates
+tags: post
+date: 2018-05-08
+summary: |
+  This is my lightning talk from the Write The Docs 2018 conference in Portland. I talk about
+  using the scientific method to try to improve the response rates in "was this page
+  helpful?" feedback widgets.
+---
+
+<h1 id="title">{{title}}</h1>
 
 <p id="time">
   <time datetime="2018-05-08">2018 May 8</time>
@@ -7,9 +18,7 @@
 <p id="category">Technical Writing</p>
 
 <p id="summary">
-  This is my lightning talk from the Write The Docs 2018 conference in Portland. I talk about
-  using the scientific method to try to improve the response rates in "was this page
-  helpful?" feedback widgets.
+{{summary}}
 </p>
 
 On a whim, I decided to give a lightning talk on day 2 of the 2018 Write The Docs conference

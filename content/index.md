@@ -1,4 +1,9 @@
-<h1>Home</h1>
+---
+layout: base.mustache
+title: Home
+---
+
+<h1>{{title}}</h1>
 
 <style>
   #summary {

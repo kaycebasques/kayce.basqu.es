@@ -1,4 +1,12 @@
-<h1 id="title">Road Trip 2019</h1>
+---
+layout: base.mustache
+title: Road Trip 2019
+tags: post
+date: 2019-06-24
+summary: Photos and stories from my June 2019 road trip across the American Southwest.
+---
+
+<h1 id="title">{{title}}</h1>
 
 <p id="time">
   <time datetime="2019-06-24">2019 July 2</time>
@@ -7,7 +15,7 @@
 <p id="category">Travel</p>
 
 <p id="summary">
-  Photos and stories from my June 2019 road trip across the American Southwest.
+  {{summary}}
 </p>
 
 To celebrate 30 years of successfully avoiding death I took a month off and
