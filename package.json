@@ -4,7 +4,8 @@
   "scripts": {
     "dev": "npx @11ty/eleventy --serve",
     "start": "npm run dev",
-    "build": "npx @11ty/eleventy"
+    "build": "npx @11ty/eleventy",
+    "deploy": "npm run build; npx firebase deploy;"
   },
   "repository": {
     "type": "git",
