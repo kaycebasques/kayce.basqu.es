@@ -1,5 +1,5 @@
 ---
-layout: base.mustache
+layout: base.njk
 title: Measure The Load Performance, Accessibility, And SEO Of Your Documentation Pages
 tags: post
 date: 2019-04-25

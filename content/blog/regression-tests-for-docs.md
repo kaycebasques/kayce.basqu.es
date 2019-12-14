@@ -1,5 +1,5 @@
 ---
-layout: base.mustache
+layout: base.njk
 title: Regression Tests For Docs
 tags: post
 date: 2018-05-17

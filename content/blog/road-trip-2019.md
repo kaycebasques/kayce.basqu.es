@@ -1,5 +1,5 @@
 ---
-layout: base.mustache
+layout: base.njk
 title: Road Trip 2019
 tags: post
 date: 2019-06-24

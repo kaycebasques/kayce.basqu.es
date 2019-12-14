@@ -1,5 +1,5 @@
 ---
-layout: base.mustache
+layout: base.njk
 title: Results From The Generic/Specific Feedback Prompts Experiment
 tags: post
 date: 2018-07-27

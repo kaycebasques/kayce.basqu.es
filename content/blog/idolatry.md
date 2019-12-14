@@ -1,5 +1,5 @@
 ---
-layout: base.mustache
+layout: base.njk
 title: Idolatry
 tags: post
 date: 2018-03-28

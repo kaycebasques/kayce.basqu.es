@@ -1,5 +1,5 @@
 ---
-layout: base.mustache
+layout: base.njk
 title: The Purpose Of Metrics
 tags: post
 date: 2018-04-26

@@ -1,6 +1,7 @@
 ---
-layout: base.mustache
+layout: base.njk
 title: Blog
+summary: The personal blog of Kayce Basques.
 ---
 <h1>{{title}}</h1>
 <ul class="blog--list">

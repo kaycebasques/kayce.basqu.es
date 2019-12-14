@@ -1,5 +1,5 @@
 ---
-layout: base.mustache
+layout: base.njk
 title: How We Tripled Chrome DevTools Documentation Pageviews In 2 Years
 tags: post
 date: 2019-05-16

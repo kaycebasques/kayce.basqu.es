@@ -1,5 +1,5 @@
 ---
-layout: base.mustache
+layout: base.njk
 title: Use Red Buttons To Get More Feedback On Your Docs
 tags: post
 date: 2018-09-21

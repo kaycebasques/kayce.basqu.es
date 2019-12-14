@@ -1,5 +1,5 @@
 ---
-layout: base.mustache
+layout: base.njk
 title: A Concrete Strategy For Cultivating Empathy In Documentation
 tags: post
 date: 2019-05-13

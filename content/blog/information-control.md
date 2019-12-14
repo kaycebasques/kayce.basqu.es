@@ -1,5 +1,5 @@
 ---
-layout: base.mustache
+layout: base.njk
 title: A UI That Lets Readers Control How Much Information They See
 tags: post
 date: 2018-12-06

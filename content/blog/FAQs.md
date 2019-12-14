@@ -1,7 +1,8 @@
 ---
-layout: base.mustache
+layout: base.njk
 title: FAQs Are A Code Smell
-tags: post
+tags: 
+  - post
 date: 2019-07-22
 summary: |
   Unless you have explicitly ensured that every FAQ has been contextually addressed in your

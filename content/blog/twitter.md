@@ -1,5 +1,5 @@
 ---
-layout: base.mustache
+layout: base.njk
 title: A Case Study Of Twitter's "Was This Page Helpful?" UI
 tags: post
 date: 2019-02-03

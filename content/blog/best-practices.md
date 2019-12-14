@@ -1,5 +1,5 @@
 ---
-layout: base.mustache
+layout: base.njk
 title: Maybe Our Documentation "Best Practices" Aren't Really Best Practices
 tags: post
 date: 2018-12-03

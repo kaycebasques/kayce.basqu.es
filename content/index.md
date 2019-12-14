@@ -1,6 +1,7 @@
 ---
-layout: base.mustache
+layout: base.njk
 title: Home
+summary: The homepage of Kayce Basques.
 ---
 
 <h1>{{title}}</h1>

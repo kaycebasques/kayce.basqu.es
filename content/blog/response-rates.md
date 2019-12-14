@@ -1,5 +1,5 @@
 ---
-layout: base.mustache
+layout: base.njk
 title: Improving Response Rates
 tags: post
 date: 2018-05-08
