@@ -1,7 +1,9 @@
 ---
 layout: base.njk
 title: Use Red Buttons To Get More Feedback On Your Docs
-tags: post
+tags: 
+  - post
+  - docs
 date: 2018-09-21
 summary: |
   Asking users whether or not they found a doc helpful is an easy way to measure the quality

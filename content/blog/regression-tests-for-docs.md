@@ -1,7 +1,9 @@
 ---
 layout: base.njk
 title: Regression Tests For Docs
-tags: post
+tags: 
+  - post
+  - docs
 date: 2018-05-17
 summary: A proposal for an automated way to identify big changes in docs.
 ---

@@ -1,7 +1,9 @@
 ---
 layout: base.njk
 title: How We Tripled Chrome DevTools Documentation Pageviews In 2 Years
-tags: post
+tags: 
+  - post
+  - docs
 date: 2019-05-16
 summary: |
   To help users discover new features and major changes, the Chrome DevTools team embedded

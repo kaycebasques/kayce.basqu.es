@@ -1,7 +1,9 @@
 ---
 layout: base.njk
 title: The Purpose Of Metrics
-tags: post
+tags: 
+  - post
+  - docs
 date: 2018-04-26
 summary: |
   The purpose of metrics is to discover insights about how we can help users

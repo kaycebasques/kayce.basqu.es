@@ -1,7 +1,9 @@
 ---
 layout: base.njk
 title: A UI That Lets Readers Control How Much Information They See
-tags: post
+tags: 
+  - post
+  - docs
 date: 2018-12-06
 summary: |
   Parametric Press enables its readers to control how much information they see via a

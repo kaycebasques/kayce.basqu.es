@@ -1,7 +1,9 @@
 ---
 layout: base.njk
 title: Improving Response Rates
-tags: post
+tags: 
+  - post
+  - docs
 date: 2018-05-08
 summary: |
   This is my lightning talk from the Write The Docs 2018 conference in Portland. I talk about

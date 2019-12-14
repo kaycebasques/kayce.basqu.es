@@ -1,7 +1,9 @@
 ---
 layout: base.njk
 title: Results From The Generic/Specific Feedback Prompts Experiment
-tags: post
+tags: 
+  - post
+  - docs
 date: 2018-07-27
 summary: |
   I conducted a scientific experiment to find out if specific, more personal requests for feedback

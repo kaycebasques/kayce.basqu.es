@@ -1,7 +1,9 @@
 ---
 layout: base.njk
 title: Measure The Load Performance, Accessibility, And SEO Of Your Documentation Pages
-tags: post
+tags: 
+  - post
+  - docs
 date: 2019-04-25
 summary: |
   The experience of using a documentation site may be as important as the quality of the content

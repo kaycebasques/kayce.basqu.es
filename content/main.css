@@ -47,16 +47,16 @@ body {
   padding: 0;
 }
 
-code {
-  font-size: 1em;
-}
-
-.button {
+button, .button {
   -webkit-appearance: none;
   font-size: 1em;
   padding: var(--spacing-half) var(--spacing) var(--spacing-half) var(--spacing);
   margin-top: var(--spacing);
   font-family: var(--font-family);
+}
+
+code {
+  font-size: 1em;
 }
 
 #category {
@@ -65,6 +65,10 @@ code {
 
 #category::before {
   content: "Category: ";
+}
+
+.feedback {
+
 }
 
 figure {

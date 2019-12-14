@@ -1,7 +1,9 @@
 ---
 layout: base.njk
 title: Maybe Our Documentation "Best Practices" Aren't Really Best Practices
-tags: post
+tags: 
+  - post
+  - docs
 date: 2018-12-03
 summary: |
   Recently I discovered that a supposed documentation "best practice" may not

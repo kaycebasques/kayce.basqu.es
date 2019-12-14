@@ -1,7 +1,9 @@
 ---
 layout: base.njk
 title: A Concrete Strategy For Cultivating Empathy In Documentation
-tags: post
+tags: 
+  - post
+  - docs
 date: 2019-05-13
 summary: |
   Technical writers talk a lot about being empathetic with readers. I agree that it's a 
