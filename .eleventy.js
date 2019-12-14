@@ -8,5 +8,6 @@ module.exports = function(eleventyConfig) {
       'md',
       'css',
     ],
+    markdownTemplateEngine: 'njk',
   };
 };
