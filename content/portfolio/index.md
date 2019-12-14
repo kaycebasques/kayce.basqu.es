@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: Portfolio
+summary: The work portfolio of Kayce Basques.
 ---
 
 # {{title}}
@@ -22,33 +23,39 @@ writer.
 
 <h3 id="devtools">Chrome DevTools</h3>
 
-General:
+Overviews:
 
 * [Homepage](https://developers.google.com/web/tools/chrome-devtools/)
   ([PDF](https://drive.google.com/open?id=1R81GvwWAT8YI9-gt1QsouqtC_rKp3z4I))
-* [Keyboard Shortcuts Reference](https://developers.google.com/web/tools/chrome-devtools/shortcuts)
-  ([PDF](https://drive.google.com/open?id=1cWnhi8NWVMy7weuFCvC4ie9eyHzBzeII))
-* [Using DevTools Features Without Opening DevTools](https://developers.google.com/web/updates/2018/01/devtools-without-devtools)
-  ([PDF](https://drive.google.com/open?id=1jnOdmWEECF9zhUX_Z0VCoeMze9eh7qdf))
+* [Sources Panel Overview](https://developers.google.com/web/tools/chrome-devtools/sources)
+  ([PDF](https://drive.google.com/open?id=1DM7tB6yIsvPzpcdRGKwNTaXNyWdpml5X))
+
+Tutorials:
+
+* [Console Tutorial](https://developers.google.com/web/tools/chrome-devtools/console/get-started)
+  ([PDF](https://drive.google.com/open?id=1ar_luoCdGmAW1xLChemWAJSzw3u5jLu4))
 * [Workspaces Tutorial](https://developers.google.com/web/tools/chrome-devtools/workspaces/)
   ([PDF](https://drive.google.com/open?id=14K9h6zT5_TUEkbhJLyg5O5U3v06dK6AY))
-* [Override The User Agent String](https://developers.google.com/web/tools/chrome-devtools/device-mode/override-user-agent)
-  ([PDF](https://drive.google.com/open?id=17qRDNAqsyKtvQt6v_ghfHDP8gZOIo-Sn))
-
-Network:
-
 * [Network Tutorial](https://developers.google.com/web/tools/chrome-devtools/network/)
   ([PDF](https://drive.google.com/open?id=1JrPfy1CPWmwYAkSL4D3gZAOyIRK3NMh3))
+* [JavaScript Debugging Tutorial](https://developers.google.com/web/tools/chrome-devtools/javascript/)
+  ([PDF](https://drive.google.com/open?id=11Z_zKIvpCwbo1nR8vYe4pMqRMu6tNimp))
+    * [Video](https://youtu.be/H0XScE08hy8)
+* [Page Load Optimization Tutorial](https://developers.google.com/web/tools/chrome-devtools/speed/get-started)
+  ([PDF](https://drive.google.com/open?id=1KOuKLDHRpEzCgt4v9Oy127U4cDcIfdTT))
+* [Get Started With Analyzing Runtime Performance](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/)
+  ([PDF](https://drive.google.com/open?id=1lFigToZxH70-CietwDoxnNULFqfNzK4X))
+* [CSS Tutorial](https://developers.google.com/web/tools/chrome-devtools/css/)
+  ([PDF](https://drive.google.com/open?id=1jppvggX8It1wSji2kD8dae38rJFM4HaQ))
 
-Accessibility:
+Guides:
 
-* [Accessibility Reference](https://developers.google.com/web/tools/chrome-devtools/accessibility/reference)
-  ([PDF](https://drive.google.com/open?id=1trGT-8yp5sGToQ4M2z476yjctSyeWoYk))
+* [Using DevTools Features Without Opening DevTools](https://developers.google.com/web/updates/2018/01/devtools-without-devtools)
+  ([PDF](https://drive.google.com/open?id=1jnOdmWEECF9zhUX_Z0VCoeMze9eh7qdf))
+* [Override The User Agent String](https://developers.google.com/web/tools/chrome-devtools/device-mode/override-user-agent)
+  ([PDF](https://drive.google.com/open?id=17qRDNAqsyKtvQt6v_ghfHDP8gZOIo-Sn))
 * [Track Which Element Has Focus](https://developers.google.com/web/tools/chrome-devtools/accessibility/focus)
   ([PDF](https://drive.google.com/open?id=1BvEOhDHyjFZCu9hSrJorLraHsX7V2KEs))
-
-Simulating Mobile Devices:
-
 * [Simulate Mobile Devices](https://developers.google.com/web/tools/chrome-devtools/device-mode/)
   ([PDF](https://drive.google.com/open?id=12gx6hn5S1-ehJ2oBKI5PbjUbe9XOUdrX))
 * [Remote Debug Android Devices](https://developers.google.com/web/tools/chrome-devtools/javascript/reference)
@@ -57,88 +64,74 @@ Simulating Mobile Devices:
   ([PDF](https://drive.google.com/open?id=1mzQ-VCoW7-DVNQJfEKGwy1YA3RPoxt5J)
 * [Override Geolocation](https://developers.google.com/web/tools/chrome-devtools/device-mode/geolocation)
   ([PDF](https://drive.google.com/open?id=1yt0mO9ncSYfUPcEyddBdcGj9W4vWKL_Y))
-
-JavaScript:
-
-* [Console Tutorial](https://developers.google.com/web/tools/chrome-devtools/console/get-started)
-  ([PDF](https://drive.google.com/open?id=1ar_luoCdGmAW1xLChemWAJSzw3u5jLu4))
-* [Sources Panel Overview](https://developers.google.com/web/tools/chrome-devtools/sources)
-  ([PDF](https://drive.google.com/open?id=1DM7tB6yIsvPzpcdRGKwNTaXNyWdpml5X))
 * [Run Snippets](https://developers.google.com/web/tools/chrome-devtools/snippets)
   ([PDF](https://drive.google.com/open?id=1Snd8xaS_lcXFRsNzEuWswpXPLPp_LPnG))
-* [JavaScript Debugging Reference](https://developers.google.com/web/tools/chrome-devtools/javascript/reference)
-  ([PDF](https://drive.google.com/open?id=1ppmSf81Wjefj1RQOGlSDKnQhyusYyN1k))
-* [JavaScript Debugging Tutorial](https://developers.google.com/web/tools/chrome-devtools/javascript/)
-  ([PDF](https://drive.google.com/open?id=11Z_zKIvpCwbo1nR8vYe4pMqRMu6tNimp))
-    * [Video](https://youtu.be/H0XScE08hy8)
 * [Breakpoints Guide](https://developers.google.com/web/tools/chrome-devtools/javascript/breakpoints)
   ([PDF](https://drive.google.com/open?id=1Nnww0xyStk3iTieQXmNseV8BB50udB5V))
 * [Blackbox Chrome Extension Scripts](https://developers.google.com/web/tools/chrome-devtools/javascript/guides/blackbox-chrome-extension-scripts)
   ([PDF](https://drive.google.com/open?id=1887JgobFHI3fMP-HfJR_jVjWrLkRpGC0))
 * [Disable JavaScript With Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/disable)
   ([PDF](https://drive.google.com/open?id=1yfOq0Hqp6RdLQGnajMUi5o8Lm9h0axF-))
-
-Performance Optimization:
-
-* [Page Load Optimization Tutorial](https://developers.google.com/web/tools/chrome-devtools/speed/get-started)
-  ([PDF](https://drive.google.com/open?id=1KOuKLDHRpEzCgt4v9Oy127U4cDcIfdTT))
-* [Get Started With Analyzing Runtime Performance](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/)
-  ([PDF](https://drive.google.com/open?id=1lFigToZxH70-CietwDoxnNULFqfNzK4X))
-* [Performance Analysis Reference](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference)
-  ([PDF](https://drive.google.com/open?id=1jrJuqWfpQLvraiDXY5o0CuND7I74qWO6))
-
-CSS:
-
-* [CSS Tutorial](https://developers.google.com/web/tools/chrome-devtools/css/)
-  ([PDF](https://drive.google.com/open?id=1jppvggX8It1wSji2kD8dae38rJFM4HaQ))
-* [CSS Reference](https://developers.google.com/web/tools/chrome-devtools/css/reference)
-  ([PDF](https://drive.google.com/open?id=1zz2UpFLe8RZn2YOeWsyHXPEO1QezI87T))
 * [Force Print Preview Mode](https://developers.google.com/web/tools/chrome-devtools/css/print-preview)
   ([PDF](https://drive.google.com/open?id=14cDHkklijOBCtpERe2DRTot0f9lG8N6j))
 
+References:
+
+* [Keyboard Shortcuts Reference](https://developers.google.com/web/tools/chrome-devtools/shortcuts)
+  ([PDF](https://drive.google.com/open?id=1cWnhi8NWVMy7weuFCvC4ie9eyHzBzeII))
+* [Accessibility Reference](https://developers.google.com/web/tools/chrome-devtools/accessibility/reference)
+  ([PDF](https://drive.google.com/open?id=1trGT-8yp5sGToQ4M2z476yjctSyeWoYk))
+* [JavaScript Debugging Reference](https://developers.google.com/web/tools/chrome-devtools/javascript/reference)
+  ([PDF](https://drive.google.com/open?id=1ppmSf81Wjefj1RQOGlSDKnQhyusYyN1k))
+* [Performance Analysis Reference](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference)
+  ([PDF](https://drive.google.com/open?id=1jrJuqWfpQLvraiDXY5o0CuND7I74qWO6))
+* [CSS Reference](https://developers.google.com/web/tools/chrome-devtools/css/reference)
+  ([PDF](https://drive.google.com/open?id=1zz2UpFLe8RZn2YOeWsyHXPEO1QezI87T))
+
 Release Notes:
 
+* [Chrome 80](https://developers.google.com/web/updates/2019/12/devtools)
+  ([PDF](https://drive.google.com/open?id=1PzrEGYZCMTifnwcQWSWHl3Y3pzQNfs6t))
+* [Chrome 79](https://developers.google.com/web/updates/2019/10/devtools)
+  ([PDF](https://drive.google.com/open?id=16joZvEbqWy_QfVMonGLfb-Eb49OnuZ5X), [Video](https://youtu.be/kobvF5cs6xY))
+* [Chrome 78](https://developers.google.com/web/updates/2019/09/devtools)
+  ([PDF](https://drive.google.com/open?id=1nBgwShipPbbI1AfF2g4LB14AQl_PGHEr), [Video](https://youtu.be/VNkctDLYP6o))
+* [Chrome 77](https://developers.google.com/web/updates/2019/07/devtools)
+  ([PDF](https://drive.google.com/open?id=1fD71MKtEGW1HLIcnpy5bt88Lf8b8u2SA), [Video](https://youtu.be/R8KzoMoKhnM))
+* [Chrome 76](https://developers.google.com/web/updates/2019/05/devtools)
+  ([PDF](https://drive.google.com/open?id=1jMtPIQ2MAii9EbZ9SYPr2NbL0uyJyVZ9), [Video](https://youtu.be/GLUB2yzk0ZQ))
+* [Chrome 75](https://developers.google.com/web/updates/2019/04/devtools)
+  ([PDF](https://drive.google.com/open?id=1XOVOffzjA3bTGM_Rbn9UlZkUvrEpGwQE), [Video](https://youtu.be/6zKPwOMFsa4))
+* [Chrome 74](https://developers.google.com/web/updates/2019/03/devtools)
+  ([PDF](https://drive.google.com/open?id=16F68a5mGmZ459BTV-ymUZEmkkz8jWEqH), [Video](https://youtu.be/I14fXc7sXdU))
 * [Chrome 73](https://developers.google.com/web/updates/2019/01/devtools)
-  ([PDF](https://drive.google.com/open?id=1VQxzO1RXwcfLl8l9GWl-TfQdUJBkbMYr))
+  ([PDF](https://drive.google.com/open?id=1VQxzO1RXwcfLl8l9GWl-TfQdUJBkbMYr), [Video](https://youtu.be/uddZX9ZK6wY))
 * [Chrome 72](https://developers.google.com/web/updates/2018/11/devtools)
-  ([PDF](https://drive.google.com/open?id=11eu3lsqVKOxBffBaDGjqviYyVXjbyFWQ))
-    * [Video](https://youtu.be/XVJxlEdB230)
+  ([PDF](https://drive.google.com/open?id=11eu3lsqVKOxBffBaDGjqviYyVXjbyFWQ), [Video](https://youtu.be/XVJxlEdB230))
 * [Chrome 71](https://developers.google.com/web/updates/2018/10/devtools)
-  ([PDF](https://drive.google.com/open?id=12U3142-39bOFz_BQz7bhMH7IH2u0ADcg))
-    * [Video](https://youtu.be/fJxFZO8OEEs)
+  ([PDF](https://drive.google.com/open?id=12U3142-39bOFz_BQz7bhMH7IH2u0ADcg), [Video](https://youtu.be/fJxFZO8OEEs))
 * [Chrome 70](https://developers.google.com/web/updates/2018/08/devtools)
-  ([PDF](https://drive.google.com/open?id=1hZTiqjXv8mTDoMNx_UjywoqLYz3T1ntd))
-    * [Video](https://youtu.be/LJq8vg8ktdQ)
+  ([PDF](https://drive.google.com/open?id=1hZTiqjXv8mTDoMNx_UjywoqLYz3T1ntd), [Video](https://youtu.be/LJq8vg8ktdQ))
 * [Chrome 68](https://developers.google.com/web/updates/2018/05/devtools)
-  ([PDF](https://drive.google.com/open?id=1EzoyXWwrZZIf_A7sccEGRGfhe94Tj9dG))
-    * [Video](https://youtu.be/br4JZ5qz_20)
+  ([PDF](https://drive.google.com/open?id=1EzoyXWwrZZIf_A7sccEGRGfhe94Tj9dG), [Video](https://youtu.be/br4JZ5qz_20))
 * [Chrome 67](https://developers.google.com/web/updates/2018/04/devtools)
-  ([PDF](https://drive.google.com/open?id=16uvdTklspIOqwoLCOUL2AI0XTHKyqHTJ))
-    * [Video](https://youtu.be/4EdPq9Nw6uI)
+  ([PDF](https://drive.google.com/open?id=16uvdTklspIOqwoLCOUL2AI0XTHKyqHTJ), [Video](https://youtu.be/4EdPq9Nw6uI))
 * [Chrome 66](https://developers.google.com/web/updates/2018/02/devtools)
-  ([PDF](https://drive.google.com/open?id=141u__9FBBMuPq5ZiDA6UqkUTjF-wAoY7))
-    * [Video](https://youtu.be/eaYXFTJVewA)
+  ([PDF](https://drive.google.com/open?id=141u__9FBBMuPq5ZiDA6UqkUTjF-wAoY7), [Video](https://youtu.be/eaYXFTJVewA))
 * [Chrome 65](https://developers.google.com/web/updates/2018/01/devtools)
-  ([PDF](https://drive.google.com/open?id=1sWhQmnKsaC1r5VpFVmslv4nTPn9A0hsR))
-    * [Video](https://youtu.be/D1pV7ermy6w)
+  ([PDF](https://drive.google.com/open?id=1sWhQmnKsaC1r5VpFVmslv4nTPn9A0hsR), [Video](https://youtu.be/D1pV7ermy6w))
 * [Chrome 64](https://developers.google.com/web/updates/2017/11/devtools-release-notes)
-  ([PDF](https://drive.google.com/open?id=1BT4kSCjTc7wTN5rcNRGpH2mhE5wT6l6g))
-    * [Video](https://youtu.be/90wNAn05Cf4)
+  ([PDF](https://drive.google.com/open?id=1BT4kSCjTc7wTN5rcNRGpH2mhE5wT6l6g), [Video](https://youtu.be/90wNAn05Cf4))
 * [Chrome 63](https://developers.google.com/web/updates/2017/10/devtools-release-notes)
-  ([PDF](https://drive.google.com/open?id=1pFHFkWI7LTj1ltfiN5soFbHSHrUESJRC))
-    * [Video](https://youtu.be/Eyw_mwbABIQ)
+  ([PDF](https://drive.google.com/open?id=1pFHFkWI7LTj1ltfiN5soFbHSHrUESJRC), [Video](https://youtu.be/Eyw_mwbABIQ))
 * [Chrome 62](https://developers.google.com/web/updates/2017/08/devtools-release-notes)
-  ([PDF](https://drive.google.com/open?id=1jPzeSP6le5qk9NyFe-iHgRprNeaQ-Mlg))
-    * [Video](https://youtu.be/eD4fiqjaxHw)
+  ([PDF](https://drive.google.com/open?id=1jPzeSP6le5qk9NyFe-iHgRprNeaQ-Mlg), [Video](https://youtu.be/eD4fiqjaxHw))
 * [Chrome 61](https://developers.google.com/web/updates/2017/07/devtools-release-notes)
-  ([PDF](https://drive.google.com/open?id=1Z8KuFwx_s_ZmDPHIQIAK-WRX9yNMl0Jh))
-    * [Video](https://youtu.be/Lscb4SL58X4)
+  ([PDF](https://drive.google.com/open?id=1Z8KuFwx_s_ZmDPHIQIAK-WRX9yNMl0Jh), [Video](https://youtu.be/Lscb4SL58X4))
 * [Chrome 60](https://developers.google.com/web/updates/2017/05/devtools-release-notes)
-  ([PDF](https://drive.google.com/open?id=1OO-XWvHXSGNswf7_bwEv17Ks0s8Mjmg0))
-    * [Video](https://youtu.be/Qnmb2YhkQmQ)
+  ([PDF](https://drive.google.com/open?id=1OO-XWvHXSGNswf7_bwEv17Ks0s8Mjmg0), [Video](https://youtu.be/Qnmb2YhkQmQ))
 * [Chrome 59](https://developers.google.com/web/updates/2017/04/devtools-release-notes)
-  ([PDF](https://drive.google.com/open?id=1udgL98NFbiPdq2srE03ki6qUFwSdhC5T))
-    * [Video](https://youtu.be/4mx1m7UbBR0)
+  ([PDF](https://drive.google.com/open?id=1udgL98NFbiPdq2srE03ki6qUFwSdhC5T), [Video](https://youtu.be/4mx1m7UbBR0))
 * [Chrome 58](https://developers.google.com/web/updates/2017/03/devtools-release-notes)
   ([PDF](https://drive.google.com/open?id=1NvicyVyAqUFlojh3oS2fOQUYLdCA0EyZ))
 
