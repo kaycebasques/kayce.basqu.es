@@ -16,6 +16,7 @@
       {%- for post in collections.docs -%}
         {% if page.url == post.url %}
           {% include "subscribe.html" %}
+          {% include "feedback.html" %}
         {% endif %}
       {%- endfor -%}
     </main>

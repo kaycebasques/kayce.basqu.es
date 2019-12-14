@@ -1,4 +1,14 @@
+
+<script src="https://www.google.com/recaptcha/api.js?render=6LfOU8cUAAAAAPdmARpzJLywur_ZJFF1CY9u6IGy&onload=recaptcha" 
+        async></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=UA-130636903-1" async></script>
 <style>
+  .disclosure {
+    font-size: 0.75em;
+  }
+  .grecaptcha-badge { 
+    visibility: hidden;
+  }
   .feedback {
     border-top: var(--border);
     margin-bottom: var(--spacing);
@@ -6,6 +16,59 @@
 </style>
 <aside class="feedback">
   <p>Was this page helpful?</p>
-  <button>Yes</button>
-  <button>No</button>
+  <button class="feedback--yes" data-value="1" disabled>Yes</button>
+  <button class="feedback--no" data-value="0" disabled>No</button>
+  <noscript>
+    <p>Note: The feedback widget is disabled for you because it requires JavaScript.</p>
+  </noscript>
+  <p class="feedback--response invisible" aria-hidden="true">Thank you for the feedback!</p>
+  <p class="disclosure">
+    This site is protected by reCAPTCHA and the Google
+    <a href="https://policies.google.com/privacy">Privacy Policy</a> and
+    <a href="https://policies.google.com/terms">Terms of Service</a> apply.
+  </p>
 </aside>
+<script>
+  // Initialize Google Analytics.
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-130636903-1');
+  // Capture feedback data.
+  const yes = document.querySelector('.feedback--yes');
+  const no = document.querySelector('.feedback--no');
+  window.recaptcha = () => {
+    grecaptcha.ready(() => {
+      grecaptcha.execute('6LfOU8cUAAAAAPdmARpzJLywur_ZJFF1CY9u6IGy', {action: 'feedback'}).then((token) => {
+        const url = 'https://script.google.com/macros/s/AKfycbzj3nO777k3adtjRRFZjDjFaHuTscT8QnWmqaXl/exec';
+        fetch(`${url}?token=${token}`).then(response => {
+          response.text().then(text => {
+            const json = JSON.parse(text);
+            if (!json.success) {
+              return;
+            }
+            yes.disabled = false;
+            no.disabled = false;
+          })
+        })
+      });
+    });
+  }
+  const response = document.querySelector('.feedback--response');
+  const sendFeedback = (node) => {
+    response.classList.remove('invisible');
+    response.setAttribute('aria-hidden', 'false');
+    yes.disabled = true;
+    no.disabled = true;
+    ga('send', {
+      hitType: 'event',
+      eventCategory: 'Feedback',
+      eventAction: 'click',
+      eventLabel: 'Was this page helpful?',
+      eventValue: node.target.dataset.value,
+    });
+  };
+  yes.addEventListener('click', sendFeedback);
+  no.addEventListener('click', sendFeedback);
+  // TODO(kaycebasques): Show feedback data to readers.
+</script>
