@@ -13,6 +13,10 @@
     border-top: var(--border);
     margin-bottom: var(--spacing);
   }
+  .sentiment {
+    text-align: right;
+    font-style: italic;
+  }
 </style>
 <aside class="feedback">
   <p>Was this page helpful?</p>
@@ -68,5 +72,20 @@
   };
   yes.addEventListener('click', sendFeedback);
   no.addEventListener('click', sendFeedback);
-  // TODO(kaycebasques): Show feedback data to readers.
+  // Show feedback data to readers.
+  const summary = document.getElementById('summary');
+  const sentiment = document.createElement('p');
+  sentiment.classList.add('sentiment');
+  sentiment.textContent = 'Getting sentiment…';
+  // Show the paragraph early in order to avoid layout shift.
+  summary.insertAdjacentElement('afterend', sentiment);
+  const url = 'https://script.google.com/macros/s/AKfycbxiNJLljXoyojSXBNv7VVvdCarY-NZ5tICSCckK_ZjfkfbQxDY/exec';
+  const query = `${url}?path=${window.location.pathname}`;
+  fetch(query).then(response => response.text()).then(text => {
+    const json = JSON.parse(text);
+    const data = json.events.totalsForAllResults;
+    sentiment.textContent = 
+      `${data['ga:eventValue']} of ${data['ga:totalEvents']} 
+       respondents found this post helpful (${parseFloat(data['ga:avgEventValue'], 10) * 100}%)`;
+  })
 </script>
