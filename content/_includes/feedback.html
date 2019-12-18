@@ -60,12 +60,10 @@
     response.setAttribute('aria-hidden', 'false');
     yes.disabled = true;
     no.disabled = true;
-    ga('send', {
-      hitType: 'event',
-      eventCategory: 'Feedback',
-      eventAction: 'click',
-      eventLabel: 'Was this page helpful?',
-      eventValue: node.target.dataset.value,
+    gtag('event', 'click', {
+      event_category: 'Feedback',
+      event_label: 'Was this page helpful?',
+      value: node.target.dataset.value,
     });
   };
   yes.addEventListener('click', sendFeedback);
