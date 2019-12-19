@@ -87,6 +87,7 @@
     const data = json.events.totalsForAllResults;
     sentiment.textContent = 
       `${data['ga:eventValue']} of ${data['ga:totalEvents']} 
-       respondents found this post helpful (${parseFloat(data['ga:avgEventValue'], 10) * 100}%)`;
+       respondents found this post helpful 
+       (${(parseFloat(data['ga:avgEventValue'], 10) * 100).toFixed(2)}%)`;
   })
 </script>

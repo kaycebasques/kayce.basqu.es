@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Use Red Buttons To Get More Feedback On Your Docs
+title: Red Buttons Solicit More Feedback Than Blue Buttons
 tags: 
   - post
   - docs
