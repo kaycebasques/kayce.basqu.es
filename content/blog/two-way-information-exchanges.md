@@ -8,9 +8,9 @@ tags:
 date: 2020-01-08
 summary: |
   Self-assessments just launched on web.dev, bringing us one step closer towards turning that
-  documentation website into a two-way exchange of information. The status quo is a one-way flow,
-  from the author to the reader, where the author has very little visibility into whether the
-  reader is actually successfully receiving the knowledge.
+  documentation website into a two-way exchange of information. The status quo in technical writing
+  is a one-way flow, from the author to the reader, where the author has very little visibility into
+  whether the reader is actually successfully receiving the knowledge.
 ---
 
 <h1 id="title">{{title}}</h1>
