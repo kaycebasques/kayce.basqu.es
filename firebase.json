@@ -22,6 +22,11 @@
         "source" : "/on/:post",
         "destination" : "/blog/:post",
         "type" : 301
+      },
+      {
+        "source" : "/blog/self-assessments/",
+        "destination" : "/blog/two-way-information-exchanges/",
+        "type" : 301
       }
     ]
   }

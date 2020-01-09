@@ -1,19 +1,16 @@
 ---
 layout: base.njk
 title: |
-  Self-assessments have launched on web.dev and they have exciting implications for
-  technical writing
+  Documentation websites should be two-way exchanges of information
 tags: 
   - post
   - docs
 date: 2020-01-08
 summary: |
-  Self-assessments are an interactive feature that challenge you to apply the knowledge that you
-  just learned from a documentation page in order to solve a problem you've never seen before. They're
-  one step closer towards turning our documentation websites into two-way exchanges of information,
-  between the content creators and the content consumers, rather than one-way flows, from the creators
-  to the consumers. They also provide objective proof that we, the creators, are successfully
-  transferring knowledge.
+  Self-assessments just launched on web.dev, bringing us one step closer towards turning that
+  documentation website into a two-way exchange of information. The status quo is a one-way flow,
+  from the author to the reader, where the author has very little visibility into whether the
+  reader is actually successfully receiving the knowledge.
 ---
 
 <h1 id="title">{{title}}</h1>
@@ -43,7 +40,9 @@ You can expand the section at the bottom to verify whether your understanding wa
 
 The self-assessment asks you a question that challenges your knowledge of the concepts that are
 explained in the guide. You won't find the answer verbatim anywhere else in the content. You have
-to use your mind to apply the concepts in order to find the answer.
+to use your mind to apply the concepts in order to find the answer. From a learning theory
+perspective this has great potential to increase the chances that our readers retain the knowledge
+long-term, but I'll save that discussion for another day.
 
 You can see self-assessments in action in the following guides:
 
@@ -54,10 +53,10 @@ You can see self-assessments in action in the following guides:
   <li><a href="https://web.dev/same-origin-policy">Same-origin policy</a></li>
 </ul>
 
-This is a big deal for me because it's a tangible step towards what I think is a huge area of 
+Self-assessments are a big deal for me because it's a tangible step towards what I think is a huge area of 
 potential innovation within technical writing: *making our documentation websites more of a two-way
 exchange of information*. The status quo in technical writing is a one-way flow of information. 
-We, the technical writers, publish content to our documentation websites, and then have very little
+We, the authors, publish content to our documentation websites, and then have very little
 visibility into whether our audience is successfully receiving the knowledge that we're attempting
 to transfer.
 
@@ -77,9 +76,28 @@ Self-assessments also set us up to do targeted scientific experiments on our doc
 Suppose everyone is getting the self-assessments wrong on a particular page. You review the page and notice
 a key paragraph that is worded in an unnecessarily complicated way. You simplify the paragraph,
 check back in a month, and see that the scores have improved. Assuming that
-you made no other changes to the page, you now have very concrete proof that using simpler sentences
-leads to improved knowledge transfer.
+you made no other changes to the page, you now have fairly convincing data for building a case that
+simpler sentences improve knowledge transfer.
 
 Obviously we didn't invent this idea of self-assessments. I'm sure you've seen them elsewhere on the
 web. They're simply a promising practice that seem to generate useful data, and I think we should
 explore them rigorously in our documentation websites.
+
+Here are more examples of ways that we can turn our documentation websites into two-way information
+exchanges:
+
+* Asking users whether they found the page helpful. This is slightly different than self-assessments
+  because it measures the user's *perception* of helpfulness, not necessarily whether the guidance
+  was objectively helpful.
+* Having free-form text inputs on the page, and asking users targeted questions related to the page's
+  content. For example, at the bottom of an overview page explaining a new feature, you might
+  simply ask: *Are you planning on using this new feature? Why so, or why not?* Or, if there's a
+  feature that you're frankly just not sure how people use in the wild, you might ask: *How are you
+  planning on using this feature?*
+* [Thoroughly integrating links to your documentation throughout your product](/blog/discovery/)
+  starts to give you clues about where people are getting stuck (or curious) as they use the product.
+* Within the self-assessments explanation UI, you could provide a free-form input with the following
+  prompt: *if you got the answer wrong and we haven't explained here why that answer is wrong, please
+  provide your answer and we'll update this section to explain why it's wrong*.
+* [Medium's highlighting feature](https://blog.medium.com/introducing-highlights-a4df69e8ed43)
+  provides a way for users to leave targeted feedback on specific parts of a document.
