@@ -91,13 +91,11 @@ exchanges:
   was objectively helpful.
 * Having free-form text inputs on the page, and asking users targeted questions related to the page's
   content. For example, at the bottom of an overview page explaining a new feature, you might
-  simply ask: *Are you planning on using this new feature? Why so, or why not?* Or, if there's a
-  feature that you're frankly just not sure how people use in the wild, you might ask: *How are you
-  planning on using this feature?*
+  simply ask: *Are you planning on using this new feature? How so, or why not?*
 * [Thoroughly integrating links to your documentation throughout your product](/blog/discovery/)
   starts to give you clues about where people are getting stuck (or curious) as they use the product.
 * Within the self-assessments explanation UI, you could provide a free-form input with the following
-  prompt: *if you got the answer wrong and we haven't explained here why that answer is wrong, please
+  prompt: *If you got the answer wrong and we haven't explained here why that answer is wrong, please
   provide your answer and we'll update this section to explain why it's wrong*.
 * [Medium's highlighting feature](https://blog.medium.com/introducing-highlights-a4df69e8ed43)
   provides a way for users to leave targeted feedback on specific parts of a document.
