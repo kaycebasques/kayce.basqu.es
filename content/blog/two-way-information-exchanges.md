@@ -9,7 +9,7 @@ date: 2020-01-08
 summary: |
   Self-assessments just launched on web.dev, bringing us one step closer towards turning that
   documentation website into a two-way exchange of information. The status quo in technical writing
-  is a one-way flow, from the author to the reader, where the author has very little visibility into
+  is a one-way flow, from the author to the reader, where the author has little visibility into
   whether the reader is actually successfully learning.
 ---
 
@@ -40,8 +40,9 @@ You can expand the section at the bottom to verify whether your understanding wa
 
 The self-assessment asks you a question that challenges your knowledge of the concepts that are
 explained in the guide. You have to use your mind to apply the concepts in order to find the answer.
-Self-assessments may improve the learning process because users are engaging with the content
-more deeply.
+If I recall correctly, the chapter about testing in [How We Learn] says that self-assessments
+(which are a form of testing) may improve the learning process because users are engaging with the
+content more deeply.
 
 You can see self-assessments in action in the following guides:
 
@@ -96,3 +97,5 @@ exchanges:
   provide your answer and we'll update this section to explain why it's wrong*.
 * [Medium's highlighting feature](https://blog.medium.com/introducing-highlights-a4df69e8ed43)
   provides a way for users to leave targeted feedback on specific parts of a document.
+
+  [How We Learn]: https://www.penguinrandomhouse.com/books/221559/how-we-learn-by-benedict-carey/
