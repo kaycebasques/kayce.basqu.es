@@ -98,4 +98,7 @@ exchanges:
 * [Medium's highlighting feature](https://blog.medium.com/introducing-highlights-a4df69e8ed43)
   provides a way for users to leave targeted feedback on specific parts of a document.
 
-  [How We Learn]: https://www.penguinrandomhouse.com/books/221559/how-we-learn-by-benedict-carey/
+Check back in the next few months (or subscribe to my mailing list) for a post where I provide
+data on how much users engage with the self-assessments.
+
+[How We Learn]: https://www.penguinrandomhouse.com/books/221559/how-we-learn-by-benedict-carey/
