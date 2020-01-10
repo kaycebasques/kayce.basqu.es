@@ -10,7 +10,7 @@ summary: |
   Self-assessments just launched on web.dev, bringing us one step closer towards turning that
   documentation website into a two-way exchange of information. The status quo in technical writing
   is a one-way flow, from the author to the reader, where the author has very little visibility into
-  whether the reader is actually successfully receiving the knowledge.
+  whether the reader is actually successfully learning.
 ---
 
 <h1 id="title">{{title}}</h1>
@@ -39,10 +39,9 @@ You can expand the section at the bottom to verify whether your understanding wa
 ![The presentation of a self-assessment UI after you interact with it](/media/open.png)
 
 The self-assessment asks you a question that challenges your knowledge of the concepts that are
-explained in the guide. You won't find the answer verbatim anywhere else in the content. You have
-to use your mind to apply the concepts in order to find the answer. From a learning theory
-perspective this has great potential to increase the chances that our readers retain the knowledge
-long-term, but I'll save that discussion for another day.
+explained in the guide. You have to use your mind to apply the concepts in order to find the answer.
+Self-assessments may improve the learning process because users are engaging with the content
+more deeply.
 
 You can see self-assessments in action in the following guides:
 
@@ -57,8 +56,7 @@ Self-assessments are a big deal for me because it's a tangible step towards what
 potential innovation within technical writing: *making our documentation websites more of a two-way
 exchange of information*. The status quo in technical writing is a one-way flow of information. 
 We, the authors, publish content to our documentation websites, and then have very little
-visibility into whether our audience is successfully receiving the knowledge that we're attempting
-to transfer.
+visibility into whether our audience is successfully learning.
 
 This initial implementation of self-assessments is a step closer to my dream of a two-way exchange
 of information, but we're not there yet. Web DevRel (our team) values scrappiness, so for this initial
@@ -68,16 +66,15 @@ If no one is expanding the little section at the bottom, there's no reason to in
 feature. If we see good engagement, however, then we'll proceed with the next step, which is to
 provide multiple choice options at the bottom and let users mark which answer they think is correct.
 
-If users are answering all of the questions correctly, we have objective proof that our guidance
-is working. If they're answering incorrectly, we have more focused data on which documents need to
-be updated.
+If users are answering all of the questions correctly, this suggests that our guidance
+is working. If they're answering incorrectly, this suggests that we should investigate possible
+problems in the content or self-assessment.
 
 Self-assessments also set us up to do targeted scientific experiments on our documentation pages.
 Suppose everyone is getting the self-assessments wrong on a particular page. You review the page and notice
 a key paragraph that is worded in an unnecessarily complicated way. You simplify the paragraph,
-check back in a month, and see that the scores have improved. Assuming that
-you made no other changes to the page, you now have fairly convincing data for building a case that
-simpler sentences improve knowledge transfer.
+check back in a month, and see that the scores have improved. Assuming that you made no other
+changes to the page, this suggests that simpler sentences may have improved learning of this content.
 
 Obviously we didn't invent this idea of self-assessments. I'm sure you've seen them elsewhere on the
 web. They're simply a promising practice that seem to generate useful data, and I think we should
