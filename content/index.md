@@ -18,14 +18,19 @@ summary: The homepage of Kayce Basques.
 
 Howdy. I'm Kayce. Welcome to my little home on the good ol' World Wide Web.
 
-I work for Google as a technical writer. I write the docs for
-<a href="https://developers.google.com/web/tools/chrome-devtools"
-   target="_blank" rel="noopener">Chrome DevTools</a>. See
-[Portfolio](/portfolio/).
+Currently I'm passionate about listening to and playing music (I play piano most consistently),
+dancing, and self-expression in general.
 
-I write here and there on [my blog](/blog/) about whatever topics strike my fancy.
+I work for Google as a technical writer. For 3 years I primarily wrote most of the docs for
+Chrome DevTools, and also dabbled in videos. I also wrote a lot of the Lighthouse docs. These
+days I'm "content lead" for web.dev, meaning that I'm responsible for setting a direction for the
+site's content and making sure that all of our content aligns with that direction. I also manage
+2 other technical writers.
 
-I regularly visit these world wide watering holes:
+I write here and there on [my blog](/blog/) about whatever topics strike my fancy. I mostly write
+about technical writing.
+
+Here are some of my other profiles across the web:
 
 * [Stack Overflow](https://stackoverflow.com/users/1669860/kayce-basques)
 * [GitHub](https://github.com/kaycebasques)
