@@ -1,10 +1,10 @@
 :root {
   --spacing: 10px;
   --spacing-half: calc(var(--spacing) / 2);
-  --secondary: #b10743;
+  --secondary: #ec004b;
   --border: calc(var(--spacing) / 2) solid black;
   --max-width: 800px;
-  --font-family: 'Roboto Mono', system-ui, sans-serif;
+  --font-family: 'Source Code Pro', system-ui, sans-serif;
   --h1-height: 1.5em;
 }
 
@@ -45,6 +45,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   padding: 0;
+  background-color: black;
 }
 
 button, .button {
@@ -67,10 +68,6 @@ code {
   content: "Category: ";
 }
 
-.feedback {
-
-}
-
 figure {
   margin-left: 0;
   margin-right: 0;
@@ -80,7 +77,6 @@ h1 {
   font-size: var(--h1-height);
   margin-top: 0;
   font-weight: bold;
-  font-style: italic;
 }
 
 h2 {
@@ -105,8 +101,18 @@ h5 {
   font-style: italic;
 }
 
+header {
+  margin: var(--spacing);
+  text-align: right;
+}
+
+.header--title {
+  margin: 0;
+}
+
 html {
   margin: 0;
+  color: white;
 }
 
 .invisible {
@@ -131,7 +137,7 @@ main {
   }
   .nav--list {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
   }
   .nav--link {
     display: inline;
@@ -147,6 +153,9 @@ main {
     grid-template-areas: "nav main";
     grid-template-columns: 125px 675px;
     grid-column-gap: var(--spacing);
+  }
+  header {
+    display: none;
   }
   .nav {
     margin-top: var(--spacing);

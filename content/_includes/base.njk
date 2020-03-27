@@ -6,11 +6,14 @@
     <meta name="Description" content="{{summary}}">
     <link rel="stylesheet" type="text/css" href="/main.css">
     <link rel="icon" href="/media/avatar.jpg"/>
-    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,400i,700i&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap" rel="stylesheet">
     <meta property="og:image" content="https://kayce.basqu.es/media/avatar.jpg"/>
     <meta name="google-site-verification" content="MDLfp22bhHWeDqDYnGefQFyZ3cSSEL5GaD2rXPeoY9U"/>
   </head>
   <body>
+    <header>
+      <h1 class="header--title"><a href="/">Kayce Basques</a></h1>
+    </header>
     <main>
       {{content | safe}}
       {%- for post in collections.docs -%}
