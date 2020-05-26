@@ -1,10 +1,11 @@
 ---
-layout: base.njk
+layout: blog.njk
 title: Red Buttons Solicit More Feedback Than Blue Buttons
 tags: 
   - post
   - docs
 date: 2018-09-21
+category: Technical Writing
 summary: |
   Asking users whether or not they found a doc helpful is an easy way to measure the quality
   of a doc. However, very few users take the time to leave feedback. If you've only got 2 or 3 responses
@@ -12,18 +13,6 @@ summary: |
   conducting various experiments to find out how to maximize the response rate. In this experiment, I learned
   that red buttons appear to generate significantly more responses than blue ones.
 ---
-
-<h1 id="title">{{title}}</h1>
-
-<p id="time">
-  <time datetime="2018-09-21">2018 September 21</time>
-</p>
-
-<p id="category">Technical Writing</p>
-
-<p id="summary">
-{{summary}}
-</p>
 
 Thanks to my teammate [Jason Miller](https://twitter.com/_developit) for suggesting this experiment.
 

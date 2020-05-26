@@ -1,30 +1,17 @@
 ---
-layout: base.njk
+layout: blog.njk
 title: How We Tripled Chrome DevTools Documentation Pageviews In 2 Years
 tags: 
   - post
   - docs
 date: 2019-05-16
+category: Technical Writing
 summary: |
   To help users discover new features and major changes, the Chrome DevTools team embedded
   release notes into the DevTools UI. The success of this approach has fundamentally changed how I
   approach documentation discovery in general. I now look for ways to contextually link to the 
   documentation from the product.
 ---
-
-<h1 id="title">
-  {{title}}
-</h1>
-
-<p id="time">
-  <time datetime="2019-05-16">2019 May 16</time>
-</p>
-
-<p id="category">Technical Writing</p>
-
-<p id="summary">
-{{summary}}
-</p>
 
 <figure>
   <img src="/media/wndtstats.png"

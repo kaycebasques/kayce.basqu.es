@@ -1,22 +1,11 @@
 ---
-layout: base.njk
+layout: blog.njk
 title: Road Trip 2019
 tags: post
 date: 2019-06-24
+category: Travel
 summary: Photos and stories from my June 2019 road trip across the American Southwest.
 ---
-
-<h1 id="title">{{title}}</h1>
-
-<p id="time">
-  <time datetime="2019-06-24">2019 July 2</time>
-</p>
-
-<p id="category">Travel</p>
-
-<p id="summary">
-  {{summary}}
-</p>
 
 To celebrate 30 years of successfully avoiding death I took a month off and
 explored California, Nevada, Utah, New Mexico, Arizona, and Oregon. During the long drives I had

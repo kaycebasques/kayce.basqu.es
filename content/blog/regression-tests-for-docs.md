@@ -1,24 +1,13 @@
 ---
-layout: base.njk
+layout: blog.njk
 title: Regression Tests For Docs
 tags: 
   - post
   - docs
 date: 2018-05-17
+category: Technical Writing
 summary: A proposal for an automated way to identify big changes in docs.
 ---
-
-<h1 id="title">{{title}}</h1>
-
-<p id="time">
-  <time datetime="2018-05-17">2018 May 17</time>
-</p>
-
-<p id="category">Technical Writing</p>
-
-<p id="summary">
-{{summary}}
-</p>
 
 Last night, the San Francisco chapter of STC
 had a Meetup on [Quantiative Metrics and Qualitative

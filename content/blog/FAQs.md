@@ -1,26 +1,15 @@
 ---
-layout: base.njk
+layout: blog.njk
 title: FAQs Are A Code Smell
 tags: 
   - post
   - docs
 date: 2019-07-22
+category: Technical Writing
 summary: |
   Unless you have explicitly ensured that every FAQ has been contextually addressed in your
   main content, FAQs are a clue that a doc or doc set has organizational problems.
 ---
-
-<h1 id="title">{{title}}</h1>
-
-<p id="time">
-  <time datetime="2019-07-22">2019 July 22</time>
-</p>
-
-<p id="category">Technical Writing</p>
-
-<p id="summary">
-{{summary}}
-</p>
 
 My colleague [Joe Medley](https://github.com/jpmedley) describes FAQs as a code smell.
 Wikipedia's definition of *code smell* is:

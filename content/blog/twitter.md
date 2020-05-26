@@ -1,24 +1,13 @@
 ---
-layout: base.njk
+layout: blog.njk
 title: A Case Study Of Twitter's "Was This Page Helpful?" UI
 tags: 
   - post
   - docs
 date: 2019-02-03
+category: Technical Writing
 summary: First impressions of Twitter's "was this page helpful?" UX.
 ---
-
-<h1 id="title">{{title}}</h1>
-
-<p id="time">
-  <time datetime="2019-02-03">2019 February 3</time>
-</p>
-
-<p id="category">Technical Writing</p>
-
-<p id="summary">
-  {{summary}}
-</p>
 
 This is the first of a series of posts where I catalog the various implementations
 of "was this page helpful?" UIs that I encounter across the web.

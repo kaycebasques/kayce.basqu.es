@@ -1,0 +1,26 @@
+---
+layout: base.njk
+---
+
+<h1 id="title">
+  {{title}}
+</h1>
+
+<p id="time">
+  <time datetime="{{date.toLocaleDateString('en-US', {year: 'numeric', month: 'long', day: 'numeric'})}}">
+    {{date.toLocaleDateString('en-US', {year: 'numeric', month: 'long', day: 'numeric'})}}
+  </time>
+</p>
+
+<p id="category">{{category}}</p>
+
+<p id="summary">{{summary}}</p>
+
+{{content | safe}}
+
+{%- for post in collections.docs -%}
+  {% if page.url == post.url %}
+    {% include "feedback.html" %}
+    {% include "subscribe.html" %}
+  {% endif %}
+{%- endfor -%}

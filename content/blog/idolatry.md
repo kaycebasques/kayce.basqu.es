@@ -1,26 +1,15 @@
 ---
-layout: base.njk
+layout: blog.njk
 title: Idolatry
 tags: post
 date: 2018-03-28
+category: Politics
 summary: |
   Idolatry is alive and well in modern society. We created our
   economies and our governments, but now we worship them as forces greater
   than humanity. If we want to change society, we can begin by challenging
   any thoughts that treat it as a force greater than us.
 ---
-
-<h1 id="title">{{title}}</h1>
-
-<p id="time">
-  <time datetime="2018-03-28">2018 March 28</time>
-</p>
-
-<p id="category">Politics</p>
-
-<p id="summary">
-{{summary}}
-</p>
 
 I'm reading a fascinating critique on capitalism by the psychologist Erich
 Fromm. I first discovered Fromm via his other book, [The Art Of Loving][love]. It's

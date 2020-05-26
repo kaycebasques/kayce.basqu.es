@@ -1,26 +1,15 @@
 ---
-layout: base.njk
+layout: blog.njk
 title: The Purpose Of Metrics
 tags: 
   - post
   - docs
 date: 2018-04-26
+category: Technical Writing
 summary: |
   The purpose of metrics is to discover insights about how we can help users
   accomplish tasks as quickly and effectively as possible.
 ---
-
-<h1 id="title">{{title}}</h1>
-
-<p id="time">
-  <time datetime="2018-04-26">2018 April 26</time>
-</p>
-
-<p id="category">Technical Writing</p>
-
-<p id="summary">
-{{summary}}
-</p>
 
 God help me, I've finally snapped. I'm actually setting out to develop a comprehensive,
 quantitative picture of docs quality. This post is the first of a series on the topic.

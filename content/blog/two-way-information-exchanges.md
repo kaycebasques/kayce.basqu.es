@@ -1,29 +1,18 @@
 ---
-layout: base.njk
+layout: blog.njk
 title: |
   Documentation websites should be two-way exchanges of information
 tags: 
   - post
   - docs
 date: 2020-01-08
+category: Technical Writing
 summary: |
   Self-assessments just launched on web.dev, bringing us one step closer towards turning that
   documentation website into a two-way exchange of information. The status quo in technical writing
   is a one-way flow, from the author to the reader, where the author has little visibility into
   whether the reader is actually successfully learning.
 ---
-
-<h1 id="title">{{title}}</h1>
-
-<p id="time">
-  <time datetime="2020-01-08">2020 January 8</time>
-</p>
-
-<p id="category">Technical Writing</p>
-
-<p id="summary">
-  {{summary}}
-</p>
 
 Our instructional designer <a href="https://www.linkedin.com/in/mfriesenhahn/">Michael
 Friesenhahn</a> just launched self-assessments on <a href="https://web.dev">web.dev</a> with support

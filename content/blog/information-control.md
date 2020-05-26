@@ -1,10 +1,11 @@
 ---
-layout: base.njk
+layout: blog.njk
 title: A UI That Lets Readers Control How Much Information They See
 tags: 
   - post
   - docs
 date: 2018-12-06
+category: Technical Writing
 summary: |
   Parametric Press enables its readers to control how much information they see via a
   slider that has 4 options: "TL;DR", "Essentials", "Highlights", and "Everything".
@@ -20,20 +21,6 @@ summary: |
     display: none;
   }
 </style>
-
-<h1 id="title">
-  {{title}}
-</h1>
-
-<p id="time">
-  <time datetime="2018-12-06">2018 December 6</time>
-</p>
-
-<p id="category">Technical Writing</p>
-
-<p id="summary">
-{{summary}}
-</p>
 
 Last week, in our team chat, my colleague [Houssein Djirdeh](https://twitter.com/hdjirdeh)
 posted a [GIF of a UI that enables readers to control

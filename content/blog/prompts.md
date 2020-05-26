@@ -1,27 +1,16 @@
 ---
-layout: base.njk
+layout: blog.njk
 title: Results From The Generic/Specific Feedback Prompts Experiment
 tags: 
   - post
   - docs
 date: 2018-07-27
+category: Technical Writing
 summary: |
   I conducted a scientific experiment to find out if specific, more personal requests for feedback
   generate more responses than generic ones. The results reject the hypothesis. More
   personal requests for feedback do not generate more responses than generic ones.
 ---
-
-<h1 id="title">{{title}}</h1>
-
-<p id="time">
-  <time datetime="2018-07-27">2018 July 27</time>
-</p>
-
-<p id="category">Technical Writing</p>
-
-<p id="summary">
-{{summary}}
-</p>
 
 ## The experiment
 

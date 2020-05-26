@@ -1,10 +1,11 @@
 ---
-layout: base.njk
+layout: blog.njk
 title: A Concrete Strategy For Cultivating Empathy In Documentation
 tags: 
   - post
   - docs
 date: 2019-05-13
+category: Technical Writing
 summary: |
   Technical writers talk a lot about being empathetic with readers. I agree that it's a 
   crucial skill but frankly I think that the discussion is starting to
@@ -14,20 +15,6 @@ summary: |
   with other technical writers so that we can see what it's truly like to use documentation when
   in need.
 ---
-
-<h1 id="title">
-  {{title}}
-</h1>
-
-<p id="time">
-  <time datetime="2019-05-13">2019 May 13</time>
-</p>
-
-<p id="category">Technical Writing</p>
-
-<p id="summary">
-{{summary}}
-</p>
 
 <h2 id="mindsets">Work mindset versus task mindset</h2>
 

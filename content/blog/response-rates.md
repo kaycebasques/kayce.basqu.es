@@ -1,27 +1,16 @@
 ---
-layout: base.njk
+layout: blog.njk
 title: Improving Response Rates
 tags: 
   - post
   - docs
 date: 2018-05-08
+category: Technical Writing
 summary: |
   This is my lightning talk from the Write The Docs 2018 conference in Portland. I talk about
   using the scientific method to try to improve the response rates in "was this page
   helpful?" feedback widgets.
 ---
-
-<h1 id="title">{{title}}</h1>
-
-<p id="time">
-  <time datetime="2018-05-08">2018 May 8</time>
-</p>
-
-<p id="category">Technical Writing</p>
-
-<p id="summary">
-{{summary}}
-</p>
 
 On a whim, I decided to give a lightning talk on day 2 of the 2018 Write The Docs conference
 in Portland. A lightning talk is an informal, 5-minute talk on anything related to the
