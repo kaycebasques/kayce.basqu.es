@@ -19,3 +19,4 @@ jobs:
       - run:
           name: Deploy
           command: ./node_modules/.bin/firebase deploy --token=$FIREBASE
+ 
