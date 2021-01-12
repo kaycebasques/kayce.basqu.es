@@ -4,7 +4,7 @@
   --secondary: #ec004b;
   --border: calc(var(--spacing) / 2) solid black;
   --max-width: 800px;
-  --font-family: 'Source Code Pro', system-ui, sans-serif;
+  --font-family: serif;
   --h1-height: 1.5em;
 }
 
@@ -45,7 +45,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   padding: 0;
-  background-color: black;
+  background-color: white;
 }
 
 button, .button {
@@ -112,7 +112,7 @@ header {
 
 html {
   margin: 0;
-  color: white;
+  color: black;
 }
 
 .invisible {

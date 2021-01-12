@@ -80,7 +80,7 @@
   sentiment.textContent = 'Getting sentiment…';
   // Show the paragraph early in order to avoid layout shift.
   summary.insertAdjacentElement('afterend', sentiment);
-  const url = 'https://script.google.com/macros/s/AKfycbxiNJLljXoyojSXBNv7VVvdCarY-NZ5tICSCckK_ZjfkfbQxDY/exec';
+  const url = 'https://script.google.com/macros/s/AKfycbznJxRCmf8xtjxGH_q4A8oDby1KB4SdAzrgFsbx6Nml7ozpHZ04XYGZ/exec';
   const query = `${url}?path=${window.location.pathname}`;
   fetch(query).then(response => response.text()).then(text => {
     const json = JSON.parse(text);
