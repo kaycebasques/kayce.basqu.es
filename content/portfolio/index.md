@@ -23,17 +23,18 @@ writer.
 
 <h3 id="push-notifications">Push notifications</h3>
 
-Note: I was the sole author of these works. If you see 2 or more authors,
-it means I based the content off of earlier work that the other people had created.
+Note: I was the sole author of these documents and example applications.
+If you see 2 or more authors, it means I based the content off of earlier
+work that the other people had created.
 
 * [Overview](https://web.dev/push-notifications-overview/)
   ([PDF](https://drive.google.com/file/d/1y11BEQ1XHMlYhsA5YADPEYTlv-gR9IU6/view?usp=sharing))
 * [Codelab: Build a push notification server](https://web.dev/push-notifications-server-codelab/)
   ([PDF](https://drive.google.com/file/d/1GsEcquutN-ZCrT4Hfg513z_EcOj9JAJZ/view?usp=sharing))
-  * [Source code](https://glitch.com/edit/#!/push-notifications-client-codelab-complete)
+  * [Example application source code](https://glitch.com/edit/#!/push-notifications-client-codelab-complete)
 * [Codelab: Build a push notification client](https://web.dev/push-notifications-client-codelab/)
   ([PDF](https://drive.google.com/file/d/19F-cb4A5bmXIhCZllMNsTQ70Iigg0cpu/view?usp=sharing))
-  * [Source code](https://glitch.com/edit/#!/push-notifications-server-codelab-complete)
+  * [Example application source code](https://glitch.com/edit/#!/push-notifications-server-codelab-complete)
 
 <h3 id="devtools">Chrome DevTools</h3>
 
