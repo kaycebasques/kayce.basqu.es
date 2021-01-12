@@ -1,7 +1,7 @@
 :root {
   --spacing: 10px;
   --spacing-half: calc(var(--spacing) / 2);
-  --secondary: #ec004b;
+  --secondary: #ca0909;
   --border: calc(var(--spacing) / 2) solid black;
   --max-width: 800px;
   --font-family: serif;
@@ -10,6 +10,10 @@
 
 a {
   color: var(--secondary);
+}
+
+.blog--category {
+  margin: var(--spacing-half) 0 var(--spacing-half) 0;
 }
 
 .blog--list {
@@ -40,7 +44,7 @@ a {
 
 body {
   font-family: var(--font-family);
-  font-size: 16px;
+  font-size: 18px;
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;

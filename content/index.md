@@ -4,8 +4,6 @@ title: Home
 summary: The homepage of Kayce Basques.
 ---
 
-<h1>{{title}}</h1>
-
 <style>
   #summary {
     display: none;

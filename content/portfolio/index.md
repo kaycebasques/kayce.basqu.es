@@ -4,8 +4,6 @@ title: Portfolio
 summary: The work portfolio of Kayce Basques.
 ---
 
-# {{title}}
-
 <style>
   #summary {
     display: none;
@@ -23,9 +21,9 @@ writer.
 
 <h3 id="push-notifications">Push notifications</h3>
 
-Note: I was the sole author of these documents and example applications.
+Note: I was the sole author on the latest iteration of these documents.
 If you see 2 or more authors, it means I based the content off of earlier
-work that the other people had created.
+work that other people had created.
 
 * [Overview](https://web.dev/push-notifications-overview/)
   ([PDF](https://drive.google.com/file/d/1y11BEQ1XHMlYhsA5YADPEYTlv-gR9IU6/view?usp=sharing))
