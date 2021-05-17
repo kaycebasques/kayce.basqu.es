@@ -14,29 +14,11 @@ summary: The homepage of Kayce Basques.
   The homepage of Kayce Basques.
 </p>
 
-Greetings. I'm Kayce. Welcome to my little home on the good ol' World Wide Web.
+Howdy! I'm Kayce. Welcome to my little homestead on the good ol' World Wide Web.
+For the last 6 years I have worked as a technical writer at Google. Currently
+(May 2021) I am preparing to take a 1-year sabbatical (June 2021 to June 2022).
+Fill out the form below if you'd like to follow along with my sabbatical adventures :D
 
-Currently I'm reading a lot. I'm also quite engaged in my work right now, which to be honest
-isn't always the case.
-
-I work for Google as a technical writer. For 3 years I primarily wrote most of the docs for
-Chrome DevTools, and also dabbled in videos. I also wrote a lot of the Lighthouse docs. These
-days I manage the Web DevRel technical writer team. I'm also "content lead" for
-[web.dev](https://web.dev), meaning that I'm responsible for setting a
-direction for the site's content and making sure that all of our content aligns with that
-direction.
-
-I write here and there on [my blog](/blog/) about whatever topics strike my fancy. I mostly write
-about technical writing.
-
-Here are some of my other profiles across the web:
-
-* [Stack Overflow](https://stackoverflow.com/users/1669860/kayce-basques)
-* [GitHub](https://github.com/kaycebasques)
-* [Twitter](https://twitter.com/kaycebasques)
-* [Goodreads](https://www.goodreads.com/kaycebasques)
-* [Hacker News](https://news.ycombinator.com/user?id=kaycebasques)
-
-Email me at kayce@google.com for Google-related stuff or kayce@basqu.es for non-Google stuff.
-
-Design inspiration for this site: [Stanford CS253: Web Security](https://web.stanford.edu/class/cs253/)
+<iframe height="100%" width="100%"
+        src="https://docs.google.com/forms/d/e/1FAIpQLSeUweoz_j2mWwMLOJkqoxVNFqIPgJuxfZaivXvtK2RHy-kHOA/viewform?embedded=true"
+        frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
