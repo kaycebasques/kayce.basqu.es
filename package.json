@@ -18,7 +18,7 @@
   },
   "homepage": "https://kayce.basqu.es",
   "devDependencies": {
-    "@11ty/eleventy": "^0.9.0",
+    "@11ty/eleventy": "^0.12.1",
     "firebase-tools": "^7.9.0",
     "luxon": "^1.21.3"
   },
