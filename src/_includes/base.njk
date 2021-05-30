@@ -11,19 +11,16 @@
   </head>
   <body>
     <header>
-      <h1><a href="/">Kayce Basques</a></h1>
+      <nav>
+        <ul class="nav-list">
+          <li class="nav-list--item"><a href="/">Kayce Basques</a></li>
+          <li class="nav-list--item"><a href="/">Home</a></li>
+          <li class="nav-list--item"><a href="/sabbatical/">Sabbatical</a></li>
+          <li class="nav-list--item"><a href="/technical-writing/">Technical writing</a></li>
+          <li class="nav-list--item"><a href="/contact">Contact</a></li>
+        </ul>
+      </nav>
     </header>
-    <main>
-      <h1>
-        {{title}}
-      </h1>
-      {{content | safe}}
-    </main>
-    <nav>
-      <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/sabbatical/">Sabbatical</a></li>
-      </ul>
-    </nav>
+    {{content | safe}}
   </body>
 </html>

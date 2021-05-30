@@ -1,11 +1,36 @@
 ---
-layout: base.njk
+layout: homepage.njk
 title: Home
 summary: The homepage of Kayce Basques.
 ---
 
-Howdy! I'm Kayce. Welcome to my little homestead on the good ol' World Wide Web.
-For the last 6 years I have worked as a technical writer at Google. Currently
-(May 2021) I am preparing to take a 1-year sabbatical (June 2021 to June 2022).
-Check out the [2021 Sabbatical](/sabbatical/) part of my website if you'd
-like to read more about what I'm up to.
+<section class="homepage--section">
+  <h2>Welcome</h2>
+  <p>
+    Howdy! I'm Kayce. Welcome to my little homestead on the good ol' World Wide Web.
+  </p>
+</section>
+<section class="homepage--section">
+  <h2>Technical writing</h2>
+  <p>
+    I have about 9 years of experience as a professional
+    technical writer. Check out
+    the <a href="/technical-writing">Technical writing</a>
+    section of my website to learn more.
+  </p>
+</section>
+<section class="homepage--section">
+  <h2>Inspirational quote</h2>
+  <p>
+    Be rootin, be tootin, and by god be shootin. But most of all, <strong><em>be kind</em></strong>.
+  </p>
+</section>
+<section class="homepage--section">
+  <h2>Sabbatical 2021</h2>
+  <p>
+    I am currently taking a 1-year sabbatical (from June 2021 to June 2022).
+    Check out the <a href="/sabbatical/">Sabbatical 2021</a> section
+    of my website to see what I'm up to.
+  </p>
+</section>
+
