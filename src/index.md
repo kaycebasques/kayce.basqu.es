@@ -16,7 +16,7 @@ summary: The homepage of Kayce Basques.
     I have about 9 years of experience as a professional
     technical writer. Check out
     the <a href="/technical-writing">Technical writing</a>
-    section of my website to learn more.
+    section for my resume, portfolio, blog posts, and more.
   </p>
 </section>
 <section class="homepage--section">
