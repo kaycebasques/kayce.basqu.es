@@ -11,6 +11,12 @@ summary: The homepage of Kayce Basques.
   </p>
 </section>
 <section class="homepage--section">
+  <h2>Blog</h2>
+  <p>
+    I write stuff! Check out my <a href="/blog/">blog</a>.
+  </p>
+</section>
+<section class="homepage--section">
   <h2>Technical writing</h2>
   <p>
     I have about 9 years of experience as a professional

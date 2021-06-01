@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: Blog
-summary: The personal blog of Kayce Basques.
+summary: Kayce Basques's blog.
 ---
 
 <ul class="blog--list">
