@@ -1,11 +1,13 @@
 :root {
   --default-space: 16px;
+  --default-font-size: 16px;
 }
 
 body {
   font-family: system-ui;
   background-color: white;
   max-width: 800px;
+  margin: 0 auto;
 }
 
 h1 {
@@ -25,7 +27,12 @@ h4 {
 }
 
 h5 {
-  font-size: 16px;
+  font-size: var(--default-font-size);
+}
+
+.header--title {
+  display: inline;
+  font-size: var(--default-font-size);
 }
 
 .homepage {
@@ -39,30 +46,57 @@ html {
   background-color: black;
 }
 
+img {
+  max-width: 100%;
+}
+
 main {
   padding: var(--default-space);
 }
 
-nav {
+.nav {
+  display: none;
+}
+
+.nav:target {
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
   width: 100%;
-  background-color: grey;
+  height: 100%;
 }
 
-.nav-list--item {
-  background-color: red;
-  padding: calc(var(--default-space) / 2);
-  margin-right: 1px;
-}
-
-.nav-list {
-  display: flex;
-  justify-content: flex-start;
-  list-style: none;
-  padding: 0;
+.nav--open {
+  display: inline;
 }
 
 p {
-  font-size: 16px;
+  font-size: var(--default-font-size);
+}
+
+@media (min-width: 800px) {
+  .nav {
+    background-color: grey;
+    display: inline;
+  }
+
+  .nav--open {
+    display: none;
+  }
+  
+  .nav-list--item {
+    background-color: red;
+    padding: calc(var(--default-space) / 2);
+    margin-right: 1px;
+  }
+  
+  .nav-list {
+    display: inline-flex;
+    justify-content: flex-start;
+    list-style: none;
+    padding: 0;
+  }
 }
 
 /*

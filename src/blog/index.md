@@ -1,16 +1,23 @@
 ---
-layout: base.njk
+layout: homepage.njk
 title: Blog
 summary: Kayce Basques's blog.
 ---
 
-<ul class="blog--list">
-  {%- for post in collections.post | reverse -%}
-    <li class="blog--post">
-      <h2 class="blog--title"><a href="{{post.url}}">{{post.data.title}}</a></h2>
-      <time class="blog--time">{{post.date.toLocaleDateString('en-US', {year: 'numeric', month: 'long', day: 'numeric'})}}</time>
-      <p class="blog--summary">{{post.data.summary}}</p>
-      <p class="blog--category">Category: {{post.data.category}}</p>
-    </li>
-  {%- endfor -%}
-</ul>
+{%- for post in collections.post | reverse -%}
+
+
+<section class="homepage--section">
+  <h2><a href="{{post.url}}">{{post.data.title}}</a></h2>
+  <p>
+    {{post.data.summary}}
+  </p>
+  <p>
+    Category: {{post.data.category}}
+  </p>
+  <p>
+    Date:
+    {{post.date.toLocaleDateString('en-US', {year: 'numeric', month: 'long', day: 'numeric'})}}
+  </p>
+</section>
+{%- endfor -%}
