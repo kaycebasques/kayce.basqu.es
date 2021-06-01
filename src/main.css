@@ -3,6 +3,13 @@
   --default-font-size: 16px;
 }
 
+.blog {
+  background-color: beige;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: var(--default-space);
+}
+
 body {
   font-family: system-ui;
   background-color: white;
