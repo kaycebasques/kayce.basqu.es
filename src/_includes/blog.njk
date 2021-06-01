@@ -2,22 +2,4 @@
 layout: base.njk
 ---
 
-<!-- TODO(kaycebasques): Missing a main element. And H1. -->
-
-{% if date %}
-  <p>
-    <time datetime="{{date.toLocaleDateString('en-US', {year: 'numeric', month: 'long', day: 'numeric'})}}">
-      {{date.toLocaleDateString('en-US', {year: 'numeric', month: 'long', day: 'numeric'})}}
-    </time>
-  </p>
-{% endif %}
-
-{% if category %}
-  <p>{{category}}</p>
-{% endif %}
-
-{% if summary %}
-  <p>{{summary}}</p>
-{% endif %}
-
 {{content | safe}}

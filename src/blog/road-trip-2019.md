@@ -1,10 +1,12 @@
 ---
 layout: blog.njk
 title: Road Trip 2019
-tags: post
 date: 2019-06-24
 category: Travel
 summary: Photos and stories from my June 2019 road trip across the American Southwest.
+tags:
+  - blog
+  - travel
 ---
 
 To celebrate 30 years of successfully avoiding death I took a month off and

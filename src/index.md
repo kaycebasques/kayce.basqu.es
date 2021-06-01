@@ -11,6 +11,12 @@ summary: The homepage of Kayce Basques.
   </p>
 </section>
 <section class="homepage--section">
+  <h2>Words to live by</h2>
+  <p>
+    Be rootin, be tootin, and by god be shootin. But most of all, <strong><em>be kind</em></strong>.
+  </p>
+</section>
+<section class="homepage--section">
   <h2>Blog</h2>
   <p>
     I write stuff! Check out my <a href="/blog/">blog</a>.
@@ -23,12 +29,6 @@ summary: The homepage of Kayce Basques.
     technical writer. Check out
     the <a href="/technical-writing">Technical writing</a>
     section for my resume, portfolio, blog posts, and more.
-  </p>
-</section>
-<section class="homepage--section">
-  <h2>Inspirational quote</h2>
-  <p>
-    Be rootin, be tootin, and by god be shootin. But most of all, <strong><em>be kind</em></strong>.
   </p>
 </section>
 <section class="homepage--section">

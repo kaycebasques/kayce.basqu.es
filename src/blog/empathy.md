@@ -11,6 +11,9 @@ summary: |
   recording our real-world first experiences with documentation and share these recordings
   with other technical writers so that we can see what it's truly like to use documentation when
   in need.
+tags:
+  - blog
+  - technical-writing
 ---
 
 <h2 id="mindsets">Work mindset versus task mindset</h2>

@@ -6,6 +6,9 @@ category: Technical Writing
 summary: |
   Unless you have explicitly ensured that every FAQ has been contextually addressed in your
   main content, FAQs are a clue that a doc or doc set has organizational problems.
+tags:
+  - blog
+  - technical-writing
 ---
 
 My colleague [Joe Medley](https://github.com/jpmedley) describes FAQs as a code smell.

@@ -8,6 +8,9 @@ summary: |
   release notes into the DevTools UI. The success of this approach has fundamentally changed how I
   approach documentation discovery in general. I now look for ways to contextually link to the 
   documentation from the product.
+tags:
+  - blog
+  - technical-writing
 ---
 
 <figure>

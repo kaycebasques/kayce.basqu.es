@@ -9,6 +9,9 @@ summary: |
   on a doc, you can't trust that the data represents the opinion of your audience at large. I've been
   conducting various experiments to find out how to maximize the response rate. In this experiment, I learned
   that red buttons appear to generate significantly more responses than blue ones.
+tags:
+  - blog
+  - technical-writing
 ---
 
 Thanks to my teammate [Jason Miller](https://twitter.com/_developit) for suggesting this experiment.
