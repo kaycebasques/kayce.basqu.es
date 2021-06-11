@@ -1,35 +1,67 @@
 ---
 layout: blog.njk
-title: Taking a 1-year sabbatical as a 32 year old
+title: Experimenting with a 1-year sabbatical
 date: 2021-06-04
-summary: |
-  TODO
+summary: >
+  For my 32nd birthday I'm leaving Google (after 6 years)
+  and experimenting with a 1-year sabbatical. This post
+  outlines my motivations, plans, hopes, and fears.
 tags:
   - blog
   - sabbatical
 ---
 
-For my 32nd birthday I'm leaving Google (after 6 years)
-and giving myself a 1-year sabbatical. My plans are to
-build stuff, study, and rest. I'm writing this
-post because I have a hunch that a lot of people are
-thinking about doing something similar. I also think
-it'll be interesting to note my thoughts before and
-after the experience.
+<aside>
+  By the way, when I say "sabbatical" I simply mean
+  a period of time to pursue my own interests. In some
+  professions or parts of the world a sabbatical means
+  a paid leave. In my case I have completely exited
+  my job and will be living off savings. The phrase
+  <a href="https://en.wikipedia.org/wiki/Gap_year">gap year</a>
+  is also an accurate description of what I'm doing.
+</aside>
 
+I'm writing this post for a few reasons:
 
-I want to normalize the idea of a gap year for adults.
-
-By the way, when I say "sabbatical" I simply mean
-a period of time to pursue my own interests. In some
-professions or parts of the world a sabbatical means
-a paid leave. In my case I have completely exited
-my job and will be living off savings.
+* Quite a few people have told me that they are considering
+  doing something similar so I figured I should share my situation,
+  thoughts, and experiences to help others
+  decide if a sabbatical is worthwhile for them.
+* It'll be interesting to note my thoughts before and after
+  the experience. I will post a blog at the end of the sabbatical
+  (June 2022) and perhaps one 3 years after the experience (June 2025)
+  to reflect on the long-term effects of the experiment. You
+  can add your email to this
+  <a href="https://forms.gle/Sdn8myogji11GtSz5">form</a> if you'd like to
+  receive emails when I publish these posts.
+* I want to normalize the idea of a regularly recurring gap year
+  for adults. In my case I might try to do this every 10 years or so
+  (9 or 10 years of working and then 1 year of sabbatical).
 
 ## Motivations
 
-It's somewhat now or never to do it if I have kids as planned
-in the next 5 years
+I've been thinking about doing a sabbatical for a few years now.
+Here are the circumstances that finally led me to take the plunge.
+
+### Kids
+
+The biggest factor was kids. I plan on having kids in the
+next 5 years. If/when that happens I will have much more need
+for steady income, benefits, etc. I realized that it was
+somewhat now or never. It would probably never be easier
+to take a sabbatical than it is right now. Not for the next
+20 or 30 years, at least.
+
+### Money & time
+
+Idea 1: I read somewhere that you can summarize the challenges
+of each phase of life in terms of a tradeoff between
+money, energy, and time. Young people have energy and time
+but no money. Middle-aged people have money and energy but no time.
+Old people have money and time but no energy.
+
+Idea 2: Money is important to me.
+
 
 Money, energy, time: pick 2. young people have energy and time
 but no money. middle aged people have money and energy but
@@ -38,6 +70,29 @@ is my most precious commodity. I have enough money. I have
 energy and I realize how much of a blessing it is to wake up
 without pain
 
+
+There are some things that I need to do that I simply do not
+have time/energy to do when I have a full-time job. Grandpa's
+autobiography.
+
+Let me share a couple of independent ideas about money & time
+and then synthesize them at the end of this section.
+
+### Identity & relationships
+
+This sabbatical is also somewhat of an exercise in voluntarily
+giving up my identity. Let me explain this by way of some
+personaly history. When I was a teenager I rollerbladed a lot.
+Grinding rails, jumping stairs, stuff like that. I gave it up
+after college and focused on my career. On social media I still
+follow my old skating friends who have kept at it. It's safe to
+say they have much richer friendships and possibly enjoyment
+of life than I currently have. Anyone who was obsessed with
+skateboarding, rollerblading, skiing, surfing, etc. will know
+what I'm talking about. Hanging out at a beautiful outdoor space, drinking beers,
+barbecuing, challenging your body, getting into that flow state
+that comes with adrenaline and danger
+
 Voluntarily giving up my identity. It's better than having it
 ripped off involuntarily. I used to skate. On social media
 I still follow my old skating friends who have kept at it.
@@ -45,11 +100,17 @@ It's safe to say they have a richer friendships that I currently
 do. Now that I don't have the fancy career, who am I? 
 I de-prioritized friendships and focused on career
 
-There are some things that I need to do that I simply do not
-have time/energy to do when I have a full-time job. Grandpa's
-autobiography.
+
+
 
 ## Fears & costs
+
+If I could travel through time I think I
+Would tell myself from the past
+You'll be fine
+
+What you don't hear is the voice of fear
+When you get past that is when your life appears
 
 Life comes at you, though. A family member lost their job. I'm not
 in a great position to support them anymore. If more stuff like that

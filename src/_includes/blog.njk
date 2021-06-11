@@ -2,4 +2,10 @@
 layout: base.njk
 ---
 
+<h1>{{title}}</h1>
+
+<p>{{date.toLocaleDateString('en-US', {year: 'numeric', month: 'long', day: 'numeric'})}}</p>
+
+<p>Summary: {{summary}}</p>
+
 {{content | safe}}
