@@ -45,29 +45,34 @@ h5 {
   display: flex;
   justify-content: space-between;
   padding: var(--default-space);
-}
-
-.header--title {
-  display: inline;
-  font-size: var(--default-font-size);
-  text-align: center;
+  align-items: center;
   margin: 0;
 }
 
-img {
-  max-width: 100%;
+.header--logo {
+  display: inline;
+  max-height: 125px;
+  width: auto;
 }
 
-main {
-  padding: var(--default-space);
+.header--name {
+  display: inline;
+  font-size: var(--default-font-size);
+  margin: 0;
 }
 
-.nav {
+.header--title {
+  display: flex;
+  align-items: center;
+  margin: 0;
+}
+
+.header--nav {
   display: none;
   background-color: white;
 }
 
-.nav:target {
+.header--nav:target {
   display: block;
   position: absolute;
   left: 0;
@@ -76,8 +81,16 @@ main {
   height: 100vh;
 }
 
-.nav--open {
+.header--nav-open {
   display: inline;
+}
+
+img {
+  max-width: 100%;
+}
+
+main {
+  padding: var(--default-space);
 }
 
 p {
@@ -95,24 +108,25 @@ p {
     padding: calc(var(--default-space) / 2);
   }
 
-  .nav {
-    display: inline;
+  .header--nav {
+    display: inline-flex;
+    align-items: center;
   }
 
-  .nav--close {
+  .header--nav-close {
     display: none;
   }
 
-  .nav--open {
+  .header--nav-open {
     display: none;
   }
   
-  .nav-list--item {
+  .header--nav-list-item {
     padding: calc(var(--default-space) / 2);
     margin-right: 1px;
   }
   
-  .nav-list {
+  .header--nav-list {
     display: inline-flex;
     justify-content: flex-start;
     list-style: none;
