@@ -1,5 +1,5 @@
 ---
-layout: base.njk
+layout: minimal.njk
 title: Contact
 summary: >
   How to contact me (Kayce Basques).
