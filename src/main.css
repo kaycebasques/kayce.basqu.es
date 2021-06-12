@@ -44,26 +44,21 @@ h5 {
 .header {
   display: flex;
   justify-content: space-between;
-  padding: var(--default-space);
+  padding: 0 var(--default-space);
   align-items: center;
   margin: 0;
 }
 
 .header--logo {
   display: inline;
-  max-height: 125px;
+  max-height: 75px;
   width: auto;
+  padding: var(--default-space) var(--default-space) 0 0;
 }
 
 .header--name {
   display: inline;
   font-size: var(--default-font-size);
-  margin: 0;
-}
-
-.header--title {
-  display: flex;
-  align-items: center;
   margin: 0;
 }
 
@@ -73,16 +68,37 @@ h5 {
 }
 
 .header--nav:target {
-  display: block;
-  position: absolute;
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
   left: 0;
   top: 0;
-  width: 100vw;
-  height: 100vh;
+  width: 100%;
+  height: 100%;
+}
+
+.header--nav-close {
+  margin: var(--default-space);
+}
+
+.header--nav-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.header--nav-list-item {
+  margin: var(--default-space);
 }
 
 .header--nav-open {
   display: inline;
+}
+
+.header--title {
+  display: flex;
+  align-items: center;
+  margin: 0;
 }
 
 img {
@@ -128,8 +144,12 @@ p {
   
   .header--nav-list {
     display: inline-flex;
-    justify-content: flex-start;
+    justify-content: flex-end;
     list-style: none;
     padding: 0;
+  }
+
+  .header--nav-list-item:first-of-type {
+    display: none;
   }
 }
