@@ -3,6 +3,10 @@
   --default-font-size: 16px;
 }
 
+aside::before {
+  content: "(Aside) ";
+}
+
 .blog {
   background-color: beige;
   display: grid;
