@@ -1,6 +1,6 @@
 ---
 layout: blog.njk
-title: Leaving Google and taking a 1-year sabbatical/gap year as a 30-something
+title: Taking a 1-year sabbatical / gap year as a 30-something
 date: 2021-06-04
 summary: >
   For my 32nd birthday I'm leaving Google (after 6 years)
@@ -24,9 +24,13 @@ category: Sabbatical
   is also an accurate description of what I'm doing.
 </aside>
 
-I'm writing this post because quite a few people have told me
-that they are considering doing something similar so I figured
-I should share my situation, thoughts, and experiences to help others
+I'm struggling to publish this post because there's a high risk
+I come off as a privileged asshole (here I am voluntarily leaving a
+cushy job when there are so many people who can't find any work that
+treats them with basic respect or covers their cost of living).
+I'm ultimately going through with it because quite a few people have told me
+that they are considering doing something similar. I figure it will be helpful
+to share my situation, thoughts, and experiences to help others
 decide by way of comparison whether or not a sabbatical is right for them.
 I will also post annual follow-up posts (June 2022, June 2023, etc.)
 to reflect on the long-term effects of the experience. You
@@ -90,8 +94,8 @@ while I still have it.
 
 That leaves us with time. Time
 was by far my scarcest commodity leading up to the sabbatical.
-Like many people, I wanted to believe that I could excel
-at a full-time job while also pursuing personal interests.
+Like many people, I wanted to believe that I could do
+a full-time job while also pursuing personal interests.
 After 3 or 4 years of that belief, I finally
 faced the reality that it's very challenging to
 do a full-time job, create personal projects, continue my education,
@@ -106,7 +110,7 @@ take breaks between tasks and I get distracted easily.
 I think of my sabbatical as a conscious decision to draw
 down my money reserves in order to replenish my time reserves
 and to make the most of my finite energy reserves (or maybe
-even replenish my energy reserves by having more time to
+even replenish them by having more time to
 focus on nutrition, exercise, etc.).
 
 ### Money does not equal wealth
@@ -135,15 +139,15 @@ but it is not the same thing as wealth. I think of wealth
 as anything that increases my ability to survive or thrive in life.
 Examples:
 
-* Knowing first aid increases your chances of
+* Knowing first aid increases my chances of
   survival in case of emergency. Having a million in the bank
-  won't mean shit if you're on a nature hike 10 miles from
-  civilization and you just cut your leg badly and don't know how
+  won't mean shit if I'm on a nature hike 10 miles from
+  civilization and I just cut my leg badly and don't know how
   to create a tourniquet.
-* Meditation increases your ability to handle pain (in all its forms)
-  and enjoy life. If you've got 10 million
-  in the bank but you explode in anger when someone cuts you off on the freeway
-  ("anger is like drinking poison and expecting the other person to die") you're not
+* Meditation increases my ability to handle pain (in all its forms)
+  and enjoy life. If I've got 10 million
+  in the bank but I explode in anger when someone cuts me off on the freeway
+  ("anger is like drinking poison and expecting the other person to die") I'm not
   wealthy in my book.
 
 Money is often a very useful tool for acquiring wealth
@@ -294,9 +298,11 @@ I have lots of small projects lined up, and I plan on
 focusing on one each week. Some will take longer than
 a week to finish. I like this approach because it balances
 the need to devote time to focus on a single project with
-my need for variety. The risk
+my enjoyment of variety. The risk
 of course is that I start a bunch of different projects and
-don't finish any of them.
+don't finish any of them. I also have some goals that are essentially
+habits that I want to build, such as calling friends/family every
+week/month, meditating every day, etc.
 
 Although I don't have a single project, I do have a single overarching theme, however:
 [joie de vivre](https://en.wikipedia.org/wiki/Joie_de_vivre).
@@ -310,7 +316,7 @@ I'll still be joyful, so what would it matter anyways?
 
 At the end of the day, when I think about having a year 
 to do whatever the hell I want, I'm full of excitement
-for the possibilities and I don't regret it whatsoever yet.
+for the possibilities and I don't regret it yet.
 
 <blockquote>
   <p>
