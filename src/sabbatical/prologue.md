@@ -1,14 +1,15 @@
 ---
 layout: blog.njk
-title: Taking a 1-year sabbatical as a 30-something
+title: Leaving Google and taking a 1-year sabbatical/gap year as a 30-something
 date: 2021-06-04
 summary: >
   For my 32nd birthday I'm leaving Google (after 6 years)
   and experimenting with a 1-year sabbatical. This post
-  outlines my motivations, plans, hopes, and fears.
+  outlines my motivations, fears, and plans.
 tags:
   - blog
   - sabbatical
+category: Sabbatical
 ---
 
 <aside>
@@ -23,38 +24,23 @@ tags:
   is also an accurate description of what I'm doing.
 </aside>
 
-I'm writing this post for a few reasons:
+I'm writing this post because quite a few people have told me
+that they are considering doing something similar so I figured
+I should share my situation, thoughts, and experiences to help others
+decide by way of comparison whether or not a sabbatical is right for them.
+I will also post annual follow-up posts (June 2022, June 2023, etc.)
+to reflect on the long-term effects of the experience. You
+can add your email to this <a href="https://forms.gle/Sdn8myogji11GtSz5">form</a>
+if you'd like to receive emails when I publish these posts.
 
-* Quite a few people have told me that they are considering
-  doing something similar so I figured I should share my situation,
-  thoughts, and experiences to help others
-  decide if a sabbatical is worthwhile for them.
-* It'll be interesting to note my thoughts before and after
-  the experience. I will post a blog at the end of the sabbatical
-  (June 2022) and perhaps one 3 years after (June 2025)
-  to reflect on the long-term effects of the experience. You
-  can add your email to this
-  <a href="https://forms.gle/Sdn8myogji11GtSz5">form</a> if you'd like to
-  receive emails when I publish these posts.
-* I want to popularize the idea of gap years
-  for adults. In my case I might try to do a sabbatical every 10
-  years or so.
-
-I don't have any "analytics" AKA tracking on this site,
-so if this post helps you make a decision one way or another,
-the only way I will ever know is if we treat each other like
-real humans and you [contact me](/contact)!
+If you're also doing or have done a sabbatical and want to swap notes or if
+this post helps you make a decision one way or another
+please [contact me](/contact)!
 
 ## Motivations
 
 <blockquote>
   <p>
-    I could be right<br>
-    I could be wrong<br>
-    I feel nice when I sing this song<br>
-    And I don't mind<br>
-    Whatever happens is fine<br>
-    Baby likes to keep on playing<br>
     What do I know, what do I know?<br>
     Wilder than the place we live in<br>
     I'll take you there, I'll take you there<br>
@@ -68,21 +54,6 @@ real humans and you [contact me](/contact)!
 
 I've been thinking about doing a sabbatical for a few years now.
 Here are the circumstances that finally led me to go for it.
-
-<!--
-
-Keep?
-
-  To answer myself now,
-  it's because that path is easier said than done. I wanted time
-  to rest and study. I didn't want to spend my whole life "working" in
-  one way or another. Why spend all of my 30s working towards the
-  prospect of taking time off from work, when the reality is I can do it now?
-  And furthermore, the future is not certain. There's no guarantee
-  I will have the time, energy, or even money for that matter, to do this
-  in the future.
-
--->
 
 ### Kids
 
@@ -100,7 +71,7 @@ money, energy, and time. Young people generally have energy and time
 but no money. Middle-aged people: money and energy but no time.
 Old people: money and time but no energy. Whether or not
 this is an accurate description of each phase of life isn't
-really important. The key breakthrough for me was to
+really important. The key exercise for me was to
 think about my life in terms of a tradeoff
 between these 3 resources.
 
@@ -109,13 +80,6 @@ am financially screwing myself over by interrupting my
 career (more on that later), but the fact is that I currently
 have enough money to live off savings for 3 years at minimum,
 maybe 10 years at maximum.
-
-<aside>
-  It's weird for me to talk publicly
-  about my savings but as mentioned before my goal here is
-  to help others compare their situation with mine when deciding
-  whether a sabbatical is appropriate for them.
-</aside>
 
 Next, energy. Although I still have 
 have lots of energy, it's nothing compared to the energy
@@ -128,9 +92,9 @@ That leaves us with time. Time
 was by far my scarcest commodity leading up to the sabbatical.
 Like many people, I wanted to believe that I could excel
 at a full-time job while also pursuing personal interests.
-After 3 or 4 years of that delusional thinking, I finally
+After 3 or 4 years of that belief, I finally
 faced the reality that it's very challenging to
-do a full-time job, create personal projects,
+do a full-time job, create personal projects, continue my education,
 maintain relationships, keep up my health, do household chores,
 and so on, all at the same time.
 Considering that the full-time job took up most of my time,
@@ -141,9 +105,9 @@ take breaks between tasks and I get distracted easily.
 
 I think of my sabbatical as a conscious decision to draw
 down my money reserves in order to replenish my time reserves
-and to make the most of my finite energy reserves (or perhaps
-to replenish them by focusing on nutrition and exercise more and
-giving my body more R&R).
+and to make the most of my finite energy reserves (or maybe
+even replenish my energy reserves by having more time to
+focus on nutrition, exercise, etc.).
 
 ### Money does not equal wealth
 
@@ -172,18 +136,21 @@ as anything that increases my ability to survive or thrive in life.
 Examples:
 
 * Knowing first aid increases your chances of
-  survival in case of emergency.
-* Meditation increases your ability to cope with
-  pain (in all its forms) and enjoy life.
+  survival in case of emergency. Having a million in the bank
+  won't mean shit if you're on a nature hike 10 miles from
+  civilization and you just cut your leg badly and don't know how
+  to create a tourniquet.
+* Meditation increases your ability to handle pain (in all its forms)
+  and enjoy life. If you've got 10 million
+  in the bank but you explode in anger when someone cuts you off on the freeway
+  ("anger is like drinking poison and expecting the other person to die") you're not
+  wealthy in my book.
 
 Money is often a very useful tool for acquiring wealth
 but it is not itself wealth. The most common trap of course
 (as hinted at in that Billy Joel song) is using up all your time
 and energy to acquire money without ever converting that money
-into wealth. Another example: if you have a million in the bank,
-but you've still got anger issues ("anger is like drinking poision
-and expecting the other person to die"), you're not wealthy
-in my book. I'm at a point in my life
+into wealth. I'm at a point in my life
 where it seems most worthwhile to focus on converting some
 of my money into wealth.
 
@@ -203,38 +170,14 @@ Now that I don't have the fancy career, who am I?
 
 ### Business & engineering experience
 
-Although I'm very thankful for my experiences at Google
-I do have 1 grievance to air publicly.
-Before I begin let me make it clear that on the whole I
-continue to believe that the company is a force for good
-and may even attempt to re-join the company after the sabbatical
-(assuming that what I'm about to say doesn't ruin my chances).
-
-Background: I have a couple of modest
-business ideas that I plan on pursuing during my sabbatical.
+I have a couple of modest business ideas that I plan on pursuing
+during my sabbatical.
 I don't think they'll make me a millionaire, but they do have
 the possibility to create a satisfying little income stream
 on the side. Even if they don't, I wager that the overall
 business and engineering experience I get from building them
 will make me a better technical writer (if I continue that career)
 or open up new career paths.
-
-Here's the gripe. Google's approach to IP is creatively stifling.
-The policy is basically "Google's business is so far reaching that
-anything you produce might conflict with our business, so you
-should always get our permission before pursuing something
-on the side, and even if you build it outside of working hours
-with your own resources, we may still claim ownership over it
-if it overlaps with our business." If I recall correctly, they
-have never allowed an employee to own a patent. As hinted at earlier,
-there are channels for getting copyright permission, but I always
-had the fear that they would reject my request and claim ownership over it.
-
-What I'm trying to say is that Google kind-of forced my hand
-to leave the company, which is a loss for them (as evidenced by
-the fact that they apparently thought I was doing well enough
-to promote me to L6 right before I left), and part of me feels
-that it could have been avoided if they had a more flexible IP policy.
 
 ### Supportive friends & family
 
@@ -243,14 +186,7 @@ All of the ideas that you see in this post,
 I bounced off her first. She understands all of the risks and costs 
 of this path for us and still encouraged me to go for it. It's kind of trite,
 but I genuinely see now that having or not having a supportive
-partner can be the deciding factor in any big decision. On the flip side,
-however, if your partner doesn't support a sabbatical, I don't mean
-to say that they're a "bad" person. Maybe they're just more in touch
-with the reality that a sabbatical is not a wise bet for you at the moment.
-But then again, if you're the breadwinner of the family, I do
-think you should question whether your inner circle is selfishly
-resisting your desire to take a sabbatical because you are their
-[meal ticket](https://dictionary.cambridge.org/dictionary/english/meal-ticket).
+partner can be the deciding factor in any big decision like this.
 
 My family was frequently in disbelief about how well Google compensated
 and treated me, so I wasn't expecting them to be as supportive of
@@ -283,26 +219,18 @@ But just because I'm doing it consciously doesn't mean
 it's easy for me. Here are a few loosely related ideas
 around my money fears.
 
-* It's slightly embarrassing to admit, but I really like
-  Secrets of the Millionaire Mind by T. Harv Eker. He shared
-  a simple strategy in that book that has served me well over
-  the last 6 years: regularly track your net worth. Once a month
-  or quarter, add up all of your assets and subtract your debts.
-  If the number isn't regularly growing, something may be off
-  in your overall personal finance strategy. This strategy helped
-  me get to the place where I can now afford to take a sabbatical.
-  But this strategy also makes me risk-averse.
-  For the last 5 years I watched my net worth grew every month,
-  and now I'm going to watch it decline month after month.
+* It will be tough to watch my net worth decline month after month,
+  after watching it grow pretty much every month over the last 5 years.
   I honestly don't know whether my psyche will be able to handle that.
-* An implicit bet behind my sabbatical is that Google or the other
-  Big Tech companies will take me back. If that turns out to be
+* Due to compound interest, choosing to draw down my net worth $50K (for example)
+  as a 32 year old versus continuing to grow it could have a very large effect
+  on my net worth when I'm 65.
+* An implicit bet behind my sabbatical is that Google or another quality
+  company will hire me again. If that turns out to be
   incorrect, then my decision to take a sabbatical will have majorly
   damaged my long-term earnings potential. For the record, I was promoted
-  to Staff Technical Writer (L6) right before I left Google. It
-  feels weird and humblebragging to mention details like this, but again
-  the whole point of this post is to help others compare their situation
-  with mine when deciding whether to go for a sabbatical or not.
+  to Staff Technical Writer (L6) right before I left Google (i.e. I was
+  promoted in May 2021 and I left in June 2021) and I have 9 years of experience.
 * I also think that the writing is on the wall that Big Tech will
   eventually get regulated in the next 5 or 10 years, which probably
   means less overall profitability, which therefore means less
@@ -312,16 +240,34 @@ around my money fears.
   bounds of the market rates for rank-and-file salaries). In other words,
   part of me thinks that there is a finite window of opportunity (5-10 years)
   for earning a high salary in a rank-and-file software job.
+* Assuming that I do get a new job with decent compensation again, I won't
+  be back at my previous earning power for a while. For example,
+  stock grants are a big part of the rank-and-file compensation at Google.
+  But those only kick in after a year. So even if I got a comparable job after
+  the sabbatical (June 2022), my earnings probably won't recover to my pre-sabbatical
+  level (June 2021) until I'm 1 year into the new job (June 2023).
 * Someone close to me lost their job recently.
   I'm no longer in a great position to support them financially.
-  If more misfortune like that happens, I will regret 
 * Shortly after resigning, I had a pang of regret about leaving Google.
   Why didn't I keep the job, put hard limits on my time and energy,
   and work towards other goals, like buying a home?
 * Health insurance. It's a mess in the United States, and I was
-  worried that I would have to pay
-  [out the wazoo](https://dictionary.cambridge.org/us/dictionary/english/out-up-the-wazoo)
-  for mediocre coverage. (As it turns out, 
+  worried that I would have to pay [out the wazoo][wazoo] just to get
+  barebones coverage.
+
+<aside>
+  As luck would have it, global healthcare plans seem reasonably
+  priced. My partner and I got covered under Aetna's MHP Exclusive
+  plan (their most comprehensive package) for under $300 a month total
+  (not $300 per person). We opted for the highest deductible option
+  as a bet that we won't need to use the service and because we have the
+  savings to cover those deductibles if needed. The catch however is
+  that you can only spend up to 6 months in the US.
+  This is fine for me because I'm spending most of my sabbatical
+  outside of the US.
+</aside>
+
+[wazoo]: https://dictionary.cambridge.org/us/dictionary/english/out-up-the-wazoo
 
 ### Career
 
@@ -329,7 +275,7 @@ As mentioned in the last section, my sabbatical is an implicit
 bet that I can put a year-long gap into my career with no major
 harm, and that I will be able to easily find a job in a
 year. If those assumptions are incorrect, future me might
-not be too happy with present me!
+not be too happy with present me's decisions!
 
 ### Lazyness
 
@@ -338,31 +284,33 @@ but I also know that I struggle with lazyness.
 If I don't end up doing much of anything during the
 sabbatical, I may feel that it was a mistake to leave
 my job, because the job forced me to stay productive
-generally throughout life. As Lucille Ball said,
-"If you want something done, ask a busy person to do it.
-The more things you do, the more you can do."
+generally throughout life. As they say,
+"If you want something done, ask a busy person to do it."
 
 ## Plans
 
-What the hell do I plan on doing during this sabbatical, anyways?
-As mentioned before, I don't have a single big project. I
-have lots of smaller projects lined up, and I plan on focusing on
-one each week. I won't be able to finish one every week, but I like
-the idea of having a focus for each week, and being able to change
-focus if needed (variety is the spice of life).
+I don't have a single big project in mind for my sabbatical.
+I have lots of small projects lined up, and I plan on
+focusing on one each week. Some will take longer than
+a week to finish. I like this approach because it balances
+the need to devote time to focus on a single project with
+my need for variety. The risk
+of course is that I start a bunch of different projects and
+don't finish any of them.
 
-I do have a single overarching theme, however:
+Although I don't have a single project, I do have a single overarching theme, however:
 [joie de vivre](https://en.wikipedia.org/wiki/Joie_de_vivre).
 Everything that I do, even the mundane stuff (especially the mundane stuff),
-I'm going to focus on enjoying it more.
-How you do anything is how you do everything.
+I'm going to focus on enjoying it fully.
+How you do anything is how you do everything, as the Buddhists say.
 I have come to believe that the person who can enjoy whatever
 they're doing and make that joy contagious will actually
 end up accomplishing the most. Yet even if I don't accomplish anything,
-I'll still be joyful, so what does it matter anyways?
+I'll still be joyful, so what would it matter anyways?
 
-At the end of the day, when I think about having a year to
-myself, I'm full of excitement for the possibilities.
+At the end of the day, when I think about having a year 
+to do whatever the hell I want, I'm full of excitement
+for the possibilities and I don't regret it whatsoever yet.
 
 <blockquote>
   <p>
@@ -371,15 +319,13 @@ myself, I'm full of excitement for the possibilities.
     Feet on the ground<br>
     Head in the sky<br>
     It's OK I know nothing's wrong, nothing<br>
-    Hi yo I got plenty of time<br>
-    Hi yo you got light in your eyes<br>
-    And you're standing here beside me<br>
-    I love the passing of time<br>
-    Never for money<br>
-    Always for love<br>
-    Cover up and say goodnight, say goodnight<br>
   </p>
   <p>
     <a href="https://youtu.be/fsccjsW8bSY">This Must Be The Place</a> by Talking Heads
   </p>
 </blockquote>
+
+P.S. as mentioned in the intro, I will be posting annual follow-up
+blog posts to reflect on the long-term effects of the sabbatical experience. You
+can add your email to this <a href="https://forms.gle/Sdn8myogji11GtSz5">form</a>
+if you'd like to receive emails when I publish these posts.
