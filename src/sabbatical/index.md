@@ -20,3 +20,12 @@ summary: TODO
     to receive email updates about my sabbatical.
   </p>
 </section>
+{% for post in collections.blog | reverse %}
+  {% if post.data.category == "Sabbatical" %}
+  <section class="homepage--section">
+    <h2><a href="{{post.url}}">{{post.data.title}}</a></h2>
+    <p>{{post.data.summary}}</p>
+    <p>{{post.date.toLocaleDateString('en-US', {year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC'})}}</p>
+  </section>
+  {% endif %}
+{% endfor %}

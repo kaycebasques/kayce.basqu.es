@@ -8,7 +8,7 @@ summary: Kayce Basques's blog.
   <section class="homepage--section">
     <h2><a href="{{post.url}}">{{post.data.title}}</a></h2>
     <p>{{post.data.summary}}</p>
-    <p>{{post.date.toLocaleDateString('en-US', {year: 'numeric', month: 'long', day: 'numeric'})}}</p>
+    <p>{{post.date.toLocaleDateString('en-US', {year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC'})}}</p>
     <p>Category: {{post.data.category}}</p>
   </section>
 {% endfor %}
