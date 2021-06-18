@@ -82,7 +82,7 @@ h5 {
 }
 
 .header--nav-close {
-  margin: var(--default-space);
+  margin: calc(var(--default-space) * 2);
 }
 
 .header--nav-list {
@@ -92,7 +92,7 @@ h5 {
 }
 
 .header--nav-list-item {
-  margin: var(--default-space);
+  margin: calc(var(--default-space) * 2);
 }
 
 .header--nav-open {
