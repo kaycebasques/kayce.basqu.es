@@ -55,8 +55,6 @@ h5 {
 
 .header--logo {
   display: inline;
-  max-height: 75px;
-  width: auto;
   padding: var(--default-space) var(--default-space) 0 0;
 }
 
