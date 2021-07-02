@@ -1,6 +1,6 @@
 ---
 layout: blog.njk
-title: I'm taking a 1-year sabbatical / gap year as a 30-something
+title: Sabbatical prologue
 date: 2021-06-04
 summary: >
   For my 32nd birthday I'm leaving Google (after 6 years)
