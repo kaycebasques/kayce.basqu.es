@@ -67,7 +67,7 @@ steady income, benefits, etc. If I'm ever going to take a sabbatical
 it feels like now or never. In other words, from here on out it will
 probably keep getting harder and harder to take a sabbatical.
 
-### Time, energy, money: pick 2
+<h3 id="tradeoffs">Time, energy, money: pick 2</h3>
 
 I read somewhere that you can summarize the challenges
 of each phase of life in terms of a tradeoff between
