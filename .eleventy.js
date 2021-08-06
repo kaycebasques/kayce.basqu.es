@@ -1,9 +1,14 @@
 const { DateTime } = require('luxon');
+const fs = require('fs');
+const includes = {
+  sabbatical: fs.readFileSync('./src/_includes/sabbatical.html', 'utf-8')
+};
 
-module.exports = function(eleventyConfig) {
-  eleventyConfig.addPassthroughCopy('media');
+module.exports = function(config) {
+  config.addPassthroughCopy('media');
+  config.addNunjucksShortcode('sabbatical', () => includes.sabbatical);
   // https://github.com/11ty/eleventy-base-blog/commit/096ff9f3deeab3b393a496a202f1353f16f81572
-  eleventyConfig.addFilter('htmlDateString', (dateObj) => {
+  config.addFilter('htmlDateString', (dateObj) => {
     return DateTime.fromJSDate(dateObj).toFormat('yyyy-LL-dd');
   });
   return {
