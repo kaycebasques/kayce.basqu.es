@@ -12,7 +12,7 @@ summary: The homepage of Kayce Basques.
   </p>
 </section>
 <section class="homepage--section">
-  <h2>Inspirational quote</h2>
+  <h2>My motto</h2>
   <p>
     Be rootin, be tootin, and by god be shootin. But most of all, <strong><em>be kind</em></strong>.
   </p>
@@ -20,16 +20,16 @@ summary: The homepage of Kayce Basques.
 <section class="homepage--section">
   <h2>Blog</h2>
   <p>
-    I write stuff! Check out my <a href="/blog/">blog</a> to
-    peruse previously aforementioned stuff.
+    I occasionally write about technical writing and my personal
+    life on my <a href="/blog/">blog</a>.
   </p>
 </section>
 <section class="homepage--section">
   <h2>Technical writing</h2>
   <p>
     I have about 9 years of experience as a professional
-    technical writer. Check out
-    my <a href="/technical-writing">Technical writing</a>
+    technical writer. Check out my
+    <a href="/technical-writing">Technical writing</a>
     section for a summary of my experience and my portfolio.
   </p>
 </section>
