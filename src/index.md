@@ -29,7 +29,7 @@ summary: The homepage of Kayce Basques.
   <p>
     I have about 9 years of experience as a professional
     technical writer. Check out my
-    <a href="/technical-writing">Technical writing</a>
+    <a href="/technical-writing/">Technical writing</a>
     section for a summary of my experience and my portfolio.
   </p>
 </section>
@@ -44,7 +44,7 @@ summary: The homepage of Kayce Basques.
 <section class="homepage--section">
   <h2>Contact</h2>
   <p>
-    You are welcome to <a href="/contact">contact me</a>
+    You are welcome to <a href="/contact/">contact me</a>
     about anything.
   </p>
 </section>
