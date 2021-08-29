@@ -14,7 +14,7 @@ summary: The homepage of Kayce Basques.
 <section class="homepage--section">
   <h2>My motto</h2>
   <p>
-    Be rootin, be tootin, and by god be shootin. But most of all, <strong><em>be kind</em></strong>.
+    Ain't no stoppin' that entropy
   </p>
 </section>
 <section class="homepage--section">
