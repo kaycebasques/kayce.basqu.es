@@ -17,7 +17,17 @@ summary: The work portfolio of Kayce Basques.
 This is a comprehensive, roughly chronological list of everything I've created as a technical
 writer.
 
-<h2 id="google">Google (2015 to Present)</h2>
+<h2 id="corrily">Corrily (August 2021)</h2>
+
+I helped Corrily with their docs for 1-month. I worked 3 hours every day, 7 days a week.
+Here is how the docs looked [before][corrilybefore] I worked with the Corrily team, and
+here is how they looked [after][corrilyafter]. I also created a sample app for them.
+Here is a [snapshot](https://glitch.com/edit/#!/corrily-20210901) of the sample app source code.
+
+[corrilybefore](https://drive.google.com/drive/folders/190k32-cnDdD054VjeTYPYU89i5JF9Cgu?usp=sharing)
+[corrilyafter](https://drive.google.com/drive/folders/1296F-xISnyfZ8YUybFf2JJuQUXJXOrRM?usp=sharing)
+
+<h2 id="google">Google (2015 to 2021)</h2>
 
 <h3 id="push-notifications">Push notifications</h3>
 
