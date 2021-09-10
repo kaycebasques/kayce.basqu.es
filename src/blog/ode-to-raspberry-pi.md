@@ -18,6 +18,8 @@ tinker and experiment. If you're looking for a way to rediscover your
 love of computers, I recommend it. It also doesn't hurt to take a
 [sabbatical](/sabbatical/prologue) so that you have ample time to tinker and explore ;D
 
+<aside>Sorry if you're the poetic type and I got your hopes up... this post is not a true ode.</aside>
+
 I was pleasantly surprised to discover that Raspberry Pi and Arduino
 have a mutualistic relationship<sup>++</sup>. I never really understood the
 difference between the 2 projects. It seems pretty simple: Raspberry Pi is better
