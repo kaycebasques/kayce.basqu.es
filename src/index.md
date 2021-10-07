@@ -14,7 +14,7 @@ summary: The homepage of Kayce Basques.
 <section class="homepage--section">
   <h2>My motto</h2>
   <p>
-    Ain't no stoppin' that entropy
+    Not today, Satan!
   </p>
 </section>
 <section class="homepage--section">
