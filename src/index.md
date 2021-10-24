@@ -48,4 +48,13 @@ summary: The homepage of Kayce Basques.
     about anything.
   </p>
 </section>
-
+<section class="homepage--section">
+  <h2>RSS</h2>
+  <p>
+    The people have spoken! All three of them. I now have
+    an <a href="/feed.xml">RSS feed</a> again. It contains
+    all of my blog posts. Please <a href="/contact/">contact me</a>
+    if you're interested in a RSS feed of a single topic only (e.g.
+    technical writing).
+  </p>
+</section>
