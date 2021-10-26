@@ -83,11 +83,11 @@ July 2021. No strong movement higher or lower. We're more likely to have another
 move up rather than down.
 
 There are a few component stocks that might be drags on the DJIA basket. Namely,
-INTC, Cisco, and Boeing. But I don't think they'll mess it up enough to drag down the
+Intel, Cisco, and Boeing. But I don't think they'll mess it up enough to drag down the
 entire basket.
 
 I did an analysis of the earnings surprises for each of the component stocks
-([example](https://www.nasdaq.com/market-activity/stocks/aapl/earnings) over the
+([example](https://www.nasdaq.com/market-activity/stocks/aapl/earnings)) over the
 last 4 quarters. The weighted average surprise was:
 
 * Q2 2021: 28.79%
