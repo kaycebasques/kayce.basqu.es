@@ -1,23 +1,26 @@
 ---
 layout: homepage.njk
-title: Blog
-summary: Kayce Basques's blog.
+title: Bets
+summary: >
+  An index of my content related to decision-making and
+  thinking in bets.
 ---
+
 <section class="homepage--section">
   <h2>Summary</h2>
   <p>
-    This section of my website lists all of my blog posts.
-    Check out the <a href="/technical-writing/">Technical writing</a>,
-    <a href="/bets/">Bets</a>, and <a href="/sabbatical/">Sabbatical</a>
-    index pages if you only want to see my content related to those topics.
-    I also have an <a href="/feed.xml">RSS feed</a>.
+    <a href="https://www.annieduke.com/books/">Thinking in Bets</a>
+    has inspired me to be more systematic with my decision-making.
+    This section of my website contains all of my blog posts related
+    to bets and decision-making.
   </p>
 </section>
 {% for post in collections.blog | reverse %}
+  {% if post.data.category == "Bets" %}
   <section class="homepage--section">
     <h2><a href="{{post.url}}">{{post.data.title}}</a></h2>
     <p>{{post.data.summary}}</p>
     <p>{{post.date.toLocaleDateString('en-US', {year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC'})}}</p>
-    <p>Category: {{post.data.category}}</p>
   </section>
+  {% endif %}
 {% endfor %}

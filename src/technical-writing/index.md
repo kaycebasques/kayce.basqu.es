@@ -1,7 +1,8 @@
 ---
 layout: homepage.njk
 title: Technical writing
-summary: TODO
+summary: >
+  An index of my content related to technical writing.
 ---
 
 <section class="homepage--section">

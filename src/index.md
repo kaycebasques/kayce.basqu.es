@@ -34,6 +34,15 @@ summary: The homepage of Kayce Basques.
   </p>
 </section>
 <section class="homepage--section">
+  <h2>Bets</h2>
+  <p>
+    <a href="https://www.annieduke.com/books/">Thinking in Bets</a>
+    has inspired me to be more systematic with my decision-making.
+    Check out the <a href="/bets">Bets</a> section to see my content
+    related to bets and decision-making.
+  </p>
+</section>
+<section class="homepage--section">
   <h2>Sabbatical 2021</h2>
   <p>
     I am currently taking a 1-year sabbatical (from June 2021 to June 2022).
