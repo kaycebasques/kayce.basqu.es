@@ -1,7 +1,7 @@
 ---
 layout: blog.njk
 title: January 2022 Federal Funds Rate
-date: 2021-10-25
+date: 2021-11-03
 category: Bets
 summary: |
   A bet on where the Federal Funds Rate will be
@@ -11,7 +11,24 @@ tags:
   - bets
 ---
 
+[cme]: https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html
+
 ## Updates
+
+<h3 id="2021-november-3">2021 November 3</h3>
+
+* 0% chance the rate will be lower
+* 98% chance the rate will be the same
+* 2% chance the rate will be higher
+
+The [CME tool][cme] now has the odds at 2.5%.
+
+[oct2015]: https://www.federalreserve.gov/newsevents/pressreleases/monetary20151028a.htm
+
+The last time that the Fed raised rates was December 2015.
+In the meeting before that, [October 2015][oct2015], the Fed
+mentioned that they were thinking about raising rates in the next
+meeting. They did not make any mention like that this time.
 
 <h3 id="2021-october-25">2021 October 25</h3>
 
@@ -21,7 +38,7 @@ tags:
 
 Jim Bianco put out a [thread](https://twitter.com/biancoresearch/status/1452808415894556679)
 with some links to tools that supposedly show how the market is
-pricing in hikes. The [CME tool](https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html)
+pricing in hikes. The [CME tool][cme]
 puts the odds at 7%. I'm updating my forecast accordingly to account
 for the small possibility.
 
