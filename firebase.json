@@ -27,6 +27,11 @@
         "source" : "/blog/self-assessments/",
         "destination" : "/blog/two-way-information-exchanges/",
         "type" : 301
+      },
+      {
+        "source": "/bets/january-2022-fed-rate-hike/",
+        "destination": "/bets/january-2022-fed-funds-rate/",
+        "type": 301
       }
     ]
   }
