@@ -14,7 +14,8 @@ summary: The homepage of Kayce Basques.
 <section class="homepage--section">
   <h2>My motto</h2>
   <p>
-    Not today, Satan!
+    Well, well, well. If it isn't the consequences of
+    my own actions.
   </p>
 </section>
 <section class="homepage--section">
