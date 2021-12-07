@@ -32,6 +32,21 @@ the outcome.
 
 ## Updates
 
+<h3 id="20211207">2021 December 7</h3>
+
+* Lower than 33000: 1%
+* Between 33000 and 34000, inclusive: 3%
+* Higher than 34000 but lower than 35000: 5%
+* Between 35000 and 36000, inclusive: 11%
+* Higher than 36000 but lower than 37000: 60%
+* 37000 or more: 20%
+
+The recent volatility/downturn reduces the odds of +37K. Other than
+that I still think the index is trending up.
+
+My DIA trade hit its trailing stop target and sold automatically. My P&L
+shows a 3% loss. So I guess I set the trailing stop at 3%?
+
 <h3 id="2021-october-26">2021 October 26</h3>
 
 * Lower than 33000: 1%
