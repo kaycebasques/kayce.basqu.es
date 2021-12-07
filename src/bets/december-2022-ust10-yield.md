@@ -63,11 +63,12 @@ We saw the 10-year yield fall to 60 BPS during the pandemic panic. And the long-
 trend is lower yields. I do however agree that yields higher than 3% are
 unlikely because there's too much debt in the system to handle rates that
 high. So I will bet against the market a bit here and increase the odds of
-lower rates a bit:
+lower rates a bit. And it's not *impossible* for rates to be lower than 0%
+or higher than 3% so I'll assign very small probabilities to those events.
 
-* Lower than 0%: 0%
-* Between 0% and 1%, inclusive: 10%
-* Higher than 1% but lower than 2%: 25%
-* Between 2% and 3%, inclusive: 65%
-* Higher than 3% but lower than 4%: 0%
-* 4% or higher: 0%
+* Lower than 0%: 1%
+* Between 0% and 1%, inclusive: 9%
+* Higher than 1% but lower than 2%: 23%
+* Between 2% and 3%, inclusive: 64%
+* Higher than 3% but lower than 4%: 2%
+* 4% or higher: 1%
