@@ -32,6 +32,17 @@ the outcome.
 
 ## Updates
 
+<h3 id="20211223">2021 December 23</h3>
+
+* Lower than 33000: 0%
+* Between 33000 and 34000, inclusive: 0%
+* Higher than 34000 but lower than 35000: 0%
+* Between 35000 and 36000, inclusive: 25%
+* Higher than 36000 but lower than 37000: 75%
+* 37000 or more: 0%
+
+I think it's much more likely that we end the year in an uptrend rather than a downtrend.
+
 <h3 id="20211207">2021 December 7</h3>
 
 * Lower than 33000: 1%
