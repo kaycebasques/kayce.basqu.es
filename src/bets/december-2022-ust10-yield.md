@@ -23,6 +23,22 @@ tags:
 
 ## Updates
 
+<h3 id="20211223">2022 December 23</h3>
+
+* Lower than 0%: 1%
+* Between 0% and 1%, inclusive: 30%
+* Higher than 1% but lower than 2%: 50%
+* Between 2% and 3%, inclusive: 12%
+* Higher than 3% but lower than 4%: 5%
+* 4% or higher: 2%
+
+Today the rate is 149 BPS. We are equal distance from 100 BPS and 200 BPS.
+The most likely scenario to me is 2022 being relatively boring and therefore
+the 10-year yield floating between 100-200 BPS. Lower than 0% is not impossible
+but highly, highly unlikey. Having a growth scare and dropping between 0-100 BPS
+seems slightly more likely to me. Moves to 200 BPS and higher are possible though
+given all the talk about inflation.
+
 <h3 id="20211207">2022 December 7</h3>
 
 Today the rate is at 146 BPS.
