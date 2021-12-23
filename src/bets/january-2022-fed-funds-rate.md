@@ -15,6 +15,15 @@ tags:
 
 ## Updates
 
+<h3 id="2021-december-23">2021 December 23</h3>
+
+* 0% chance the rate will be lower
+* 95% chance the rate will be the same
+* 5% chance the rate will be higher
+
+The [CME tool][cme] now has the odds at 5%. The current crowd forecast
+on GJ Open is 92% same rate. That's way too low.
+
 <h3 id="2021-november-3">2021 November 3</h3>
 
 * 0% chance the rate will be lower
