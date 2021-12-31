@@ -1,7 +1,7 @@
 ---
 layout: blog.njk
 title: January 2022 Federal Funds Rate
-date: 2021-11-03
+date: 2021-12-31
 category: Bets
 summary: |
   A bet on where the Federal Funds Rate will be
@@ -14,6 +14,16 @@ tags:
 [cme]: https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html
 
 ## Updates
+
+<h3 id="2021-december-31">2021 December 31</h3>
+
+* 0% chance the rate will be lower
+* 97% chance the rate will be the same
+* 3% chance the rate will be higher
+
+The GJ Open crowd forecast is 95% "same" and 5% "higher", which
+was the same as my last forecast. I am attempting to game my GJ Open
+Brier Score by pushing my forecast slightly beyond the crowd consensus.
 
 <h3 id="2021-december-23">2021 December 23</h3>
 
