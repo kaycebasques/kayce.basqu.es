@@ -17,17 +17,86 @@ summary: The work portfolio of Kayce Basques.
 This is a comprehensive, roughly chronological list of everything I've created as a technical
 writer.
 
-<h2 id="corrily">Corrily (August 2021)</h2>
+<h2 id="talks">Talks</h2>
 
-I helped Corrily with their docs for a little less than 1 month. I worked 3 hours every day, 7 days a week.
-Here is how the docs looked [before][corrilybefore] I worked with the Corrily team, and
-here is how they looked [after][corrilyafter]. I also created a sample app for them.
-Here is a [snapshot](https://glitch.com/edit/#!/corrily-20210901) of the sample app source code.
+* [Improving Response Rates](https://youtu.be/d_ZXFqG39hc). My lightning talk
+  from Write The Docs 2018 (Portland). I discuss using experimentation and
+  the scientific method to improve engagement on "was this page helpful?"
+  widgets.
+
+<h2 id="corrily">Corrily (August 2021)</h2>
 
 [corrilybefore]: https://drive.google.com/drive/folders/190k32-cnDdD054VjeTYPYU89i5JF9Cgu?usp=sharing
 [corrilyafter]: https://drive.google.com/drive/folders/1296F-xISnyfZ8YUybFf2JJuQUXJXOrRM?usp=sharing
 
+I helped Corrily with their docs for a little less than 1 month. I worked 21 hours
+per week. I also created a sample app for them. Here is how the docs looked
+[before][corrilybefore] I worked with the team.
+
+* [Homepage](http://web.archive.org/web/20220215040848/https://docs.corrily.com/)
+  ([PDF](https://drive.google.com/file/d/1918XardFBOkTasTCAmQ6yEt3nIjQLANo/view?usp=sharing))
+* Basics
+  * [Quickstart guide](http://web.archive.org/web/20220215041000/https://docs.corrily.com/docs/quickstart-guide)
+    ([PDF](https://drive.google.com/file/d/17tI-Z9G__I30h8kdVlNl9WcXZdSG-BgC/view?usp=sharing))
+  * [Setup](http://web.archive.org/web/20220215041326/https://docs.corrily.com/docs/setup)
+    ([PDF](https://drive.google.com/file/d/10vcQaC7HxlwMaifabNsrBTfXaDWYuDi4/view?usp=sharing))
+* Users
+  * [User IDs](http://web.archive.org/web/20220215041429/https://docs.corrily.com/docs/user-ids)
+    ([PDF](https://drive.google.com/file/d/1m1PQLNegWhVK5kWyBRxr1y0guJjQZWHB/view?usp=sharing))
+  * [User characteristics](http://web.archive.org/web/20220215041508/https://docs.corrily.com/docs/user-characteristics)
+    ([PDF](https://drive.google.com/file/d/1RempdsNG1dQMDa2rLqrhruUFeyQSXC0A/view?usp=sharing))
+* Pricing
+  * [Price optimization overview](http://web.archive.org/web/20220215041553/https://docs.corrily.com/docs/price-optimization-overview)
+    ([PDF](https://drive.google.com/file/d/1OvIvdU__zSolrvAW3xjPl-7PMZbGrApt/view?usp=sharing))
+  * [Pricing page integration guide](http://web.archive.org/web/20220215041807/https://docs.corrily.com/docs/pricing-page-integration-guide)
+    ([PDF](https://drive.google.com/file/d/1v1iN8j8znpMbD6jdFbUBfJLaDEyEg_e4/view?usp=sharing))
+  * [Calculate price API examples](http://web.archive.org/web/20220215041643/https://docs.corrily.com/docs/calculate-price-api-examples)
+    ([PDF](https://drive.google.com/file/d/1pLuOexI2Rsv0R4AH5KNwl-_PI8Fnw5s3/view?usp=sharing))
+* Payment gateways
+  * [Payment gateway overview](http://web.archive.org/web/20220215041730/https://docs.corrily.com/docs/payment-gateway-overview)
+    ([PDF](https://drive.google.com/file/d/13p4BycHpHXjr-vIFj7ie6ztMEB7zk-El/view?usp=sharing))
+  * [Payment gateway integration guide](http://web.archive.org/web/20220215041937/https://docs.corrily.com/docs/payment-gateway-integration-guide)
+    ([PDF](https://drive.google.com/file/d/1k2pmhsE7qFBeL1WqgVvaQjADlrqloTZ6/view?usp=sharing))
+  * [Sample app guide](http://web.archive.org/web/20220215042020/https://docs.corrily.com/docs/sample-app-guide)
+    ([PDF](https://drive.google.com/file/d/16zJBPsgX7EQq-w_Vnaj6pEbrpf_k-Xto/view?usp=sharing))
+  * [Sample app source code](https://github.com/kaycebasques/corrily)
+* API reference
+  * [Calculate price](http://web.archive.org/web/20220215042730/https://docs.corrily.com/reference/calculate-price)
+    ([PDF](https://drive.google.com/file/d/1JMZSc4Waoocorgr08rvFs4OdwFsCNLkQ/view?usp=sharing))
+  * [Calculate price response](http://web.archive.org/web/20220215052116/https://docs.corrily.com/reference/calculate-price-response)
+    ([PDF](https://drive.google.com/file/d/1NGTDwKy8Ytt9Sk5ikweX-HYcE3Cq7ym0/view?usp=sharing))
+  * [Set user characteristics](http://web.archive.org/web/20220215052230/https://docs.corrily.com/reference/set-user-characteristics)
+    ([PDF](https://drive.google.com/file/d/1PKonNJNqYXQ_04IktLnlbxIp7DMS4TW8/view?usp=sharing))
+  * [Create subscription](http://web.archive.org/web/20220215052645/https://docs.corrily.com/reference/create-subscription)
+    ([PDF](https://drive.google.com/file/d/1-oEV1mJ1o8nsB_D5pFEF7SvSQocJvQ_x/view?usp=sharing))
+  * [Get subscription](http://web.archive.org/web/20220215053029/https://docs.corrily.com/reference/get-subscription)
+    ([PDF](https://drive.google.com/file/d/1paQKYCb_zk9nv2ND3R-lDFwN6e890e4x/view?usp=sharing))
+  * [Update subscription](http://web.archive.org/web/20220215053119/https://docs.corrily.com/reference/update-subscription)
+    ([PDF](https://drive.google.com/file/d/1VJV7tzfH5MdIw8gFlVBSjGKZQGK2rRVG/view?usp=sharing))
+  * [Delete subscription](http://web.archive.org/web/20220215053540/https://docs.corrily.com/reference/delete-subscription)
+    ([PDF](https://drive.google.com/file/d/1p349WM57VnpGq2HxnVVQBZRSB3MBVi-Q/view?usp=sharing))
+  * [Create charge](http://web.archive.org/web/20220215053647/https://docs.corrily.com/reference/create-charge)
+    ([PDF](https://drive.google.com/file/d/1-RrF4gnGYaFVRw7S0icsKLrj0PS_zX1R/view?usp=sharing))
+  * [Get charge](http://web.archive.org/web/20220215053734/https://docs.corrily.com/reference/get-charge)
+    ([PDF](https://drive.google.com/file/d/1fXcoE1Z0qCH8GY9GpCYQkBM9W8b8Tr_9/view?usp=sharing))
+  * [Update charge](http://web.archive.org/web/20220215053859/https://docs.corrily.com/reference/update-charge)
+    ([PDF](https://drive.google.com/file/d/1aeGpFnB4Hxr3jiZWGyNS96XHLPU7HWGb/view?usp=sharing))
+  * [Delete charge](http://web.archive.org/web/20220215053934/https://docs.corrily.com/reference/delete-charge)
+    ([PDF](https://drive.google.com/file/d/14NmnVE7PA9psxH1vzehZx70D_UzNFXy_/view?usp=sharing))
+
 <h2 id="google">Google (2015 to 2021)</h2>
+
+<h3 id="google__tools">Tools</h3>
+
+* [docs-migration-tool](https://github.com/kaycebasques/docs-migration-tool).
+  A tool that I wrote to automate most of the migration from the old
+  developer.chrome.com site to the new one. The old site used templated HTML,
+  whereas we wanted Markdown on the new one. I used Puppeteer to scrape the
+  old site's HTML content and convert it to Markdown. The tool also did
+  lots of normalization transformations on the content.
+* [chrome-devrel-review-bot](https://github.com/GoogleChromeLabs/chrome-devrel-review-bot).
+  A GitHub bot that did automated content quality reviews on https://web.dev
+  pull requests.
 
 <h3 id="push-notifications">Push notifications</h3>
 
