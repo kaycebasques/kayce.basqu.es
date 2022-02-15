@@ -27,7 +27,6 @@ writer.
 <h2 id="corrily">Corrily (August 2021)</h2>
 
 [corrilybefore]: https://drive.google.com/drive/folders/190k32-cnDdD054VjeTYPYU89i5JF9Cgu?usp=sharing
-[corrilyafter]: https://drive.google.com/drive/folders/1296F-xISnyfZ8YUybFf2JJuQUXJXOrRM?usp=sharing
 
 I helped Corrily with their docs for a little less than 1 month. I worked 21 hours
 per week. I also created a sample app for them. Here is how the docs looked
@@ -63,8 +62,7 @@ per week. I also created a sample app for them. Here is how the docs looked
 * API reference
   * [Calculate price](http://web.archive.org/web/20220215042730/https://docs.corrily.com/reference/calculate-price)
     ([PDF](https://drive.google.com/file/d/1JMZSc4Waoocorgr08rvFs4OdwFsCNLkQ/view?usp=sharing))
-  * [Calculate price response](http://web.archive.org/web/20220215052116/https://docs.corrily.com/reference/calculate-price-response)
-    ([PDF](https://drive.google.com/file/d/1NGTDwKy8Ytt9Sk5ikweX-HYcE3Cq7ym0/view?usp=sharing))
+  * [Calculate price response](https://drive.google.com/file/d/1NGTDwKy8Ytt9Sk5ikweX-HYcE3Cq7ym0/view?usp=sharing)
   * [Set user characteristics](http://web.archive.org/web/20220215052230/https://docs.corrily.com/reference/set-user-characteristics)
     ([PDF](https://drive.google.com/file/d/1PKonNJNqYXQ_04IktLnlbxIp7DMS4TW8/view?usp=sharing))
   * [Create subscription](http://web.archive.org/web/20220215052645/https://docs.corrily.com/reference/create-subscription)
