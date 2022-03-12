@@ -53,11 +53,6 @@ h5 {
   margin: 0;
 }
 
-.header--logo {
-  display: inline;
-  padding: var(--default-space) var(--default-space) 0 0;
-}
-
 .header--name {
   display: inline;
   font-size: var(--default-font-size);
@@ -120,10 +115,6 @@ p {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: var(--default-space);
-  }
-
-  .homepage--section {
-    padding: calc(var(--default-space) / 2);
   }
 
   .header--nav {
