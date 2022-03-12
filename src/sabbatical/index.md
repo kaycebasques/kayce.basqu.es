@@ -7,9 +7,10 @@ summary: TODO
 <section class="homepage--section">
   <h2>Summary</h2>
   <p>
-    I'm currently on a 1-year sabbatical (June 2021 to June 2022).
+    From June 2021 to February 2022 I was on a sabbatical.
     Check out my <a href="/sabbatical/prologue">sabbatical prologue</a>
-    blog post to read about my motivations, plans, hopes, and fears.
+    blog post to read about my initial motivations, plans, hopes,
+    and fears.
   </p>
 </section>
 <section class="homepage--section">

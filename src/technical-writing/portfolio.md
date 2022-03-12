@@ -1,5 +1,5 @@
 ---
-layout: base.njk
+layout: portfolio.njk
 title: Portfolio
 summary: The work portfolio of Kayce Basques.
 ---
