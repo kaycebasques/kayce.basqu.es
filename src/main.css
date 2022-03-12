@@ -48,7 +48,7 @@ h5 {
 .header {
   display: flex;
   justify-content: space-between;
-  padding: 0 var(--default-space);
+  padding: var(--default-space);
   align-items: center;
   margin: 0;
 }
