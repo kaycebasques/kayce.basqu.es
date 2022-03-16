@@ -24,6 +24,12 @@ writer.
   the scientific method to improve engagement on "was this page helpful?"
   widgets.
 
+<h2 id="open-source">Open source contributions</h2>
+
+<h3 id="docusaurus">Docusaurus</h3>
+
+* [Clarified the usage of `slug`](https://github.com/facebook/docusaurus/pull/6926)
+
 <h2 id="corrily">Corrily (August 2021)</h2>
 
 [corrilybefore]: https://drive.google.com/drive/folders/190k32-cnDdD054VjeTYPYU89i5JF9Cgu?usp=sharing
