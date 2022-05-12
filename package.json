@@ -1,0 +1,10 @@
+{
+  "name": "kayce.basqu.es",
+  "version": "2.0.0",
+  "scripts": {
+    "build": "npx @11ty/eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "1.0.1"
+  }
+}
