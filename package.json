@@ -6,6 +6,7 @@
     "dev": "npx @11ty/eleventy --serve"
   },
   "devDependencies": {
-    "@11ty/eleventy": "1.0.1"
+    "@11ty/eleventy": "1.0.1",
+    "@playwright/test": "^1.22.0"
   }
 }
