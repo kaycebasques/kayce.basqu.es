@@ -1,7 +1,6 @@
 ---
 layout: base.njk
+title: Home
 ---
-
-# Home
 
 Hello, world!

@@ -3,9 +3,13 @@
   "version": "2.0.0",
   "scripts": {
     "build": "npx @11ty/eleventy",
-    "dev": "npx @11ty/eleventy --serve"
+    "dev": "npm run clean; npx @11ty/eleventy --serve",
+    "serve": "npm run clean; npx @11ty/eleventy --serve --port=7777",
+    "test": "npm run clean; npm run build; npx playwright test",
+    "clean": "rm -rf _site"
   },
   "devDependencies": {
-    "@11ty/eleventy": "1.0.1"
+    "@11ty/eleventy": "1.0.1",
+    "@playwright/test": "1.22.0"
   }
 }
