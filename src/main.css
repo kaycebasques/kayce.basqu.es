@@ -1,0 +1,148 @@
+:root {
+  --default-space: 16px;
+  --default-font-size: 16px;
+}
+
+aside::before {
+  content: "(Aside) ";
+}
+
+.blog {
+  background-color: beige;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: var(--default-space);
+}
+
+body {
+  font-family: system-ui;
+  background-color: white;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+footer p {
+  text-align: center;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+h2 {
+  font-size: 22px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+h4 {
+  font-size: 18px;
+}
+
+h5 {
+  font-size: var(--default-font-size);
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: var(--default-space);
+  align-items: center;
+  margin: 0;
+}
+
+.header--name {
+  display: inline;
+  font-size: var(--default-font-size);
+  margin: 0;
+}
+
+.header--nav {
+  display: none;
+  background-color: white;
+}
+
+.header--nav:target {
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.header--nav-close {
+  margin: calc(var(--default-space) * 2);
+}
+
+.header--nav-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.header--nav-list-item {
+  margin: calc(var(--default-space) * 2);
+}
+
+.header--nav-open {
+  display: inline;
+}
+
+.header--title {
+  display: flex;
+  align-items: center;
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+main {
+  padding: var(--default-space);
+}
+
+p {
+  font-size: var(--default-font-size);
+}
+
+@media (min-width: 800px) {
+  .homepage {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: var(--default-space);
+  }
+
+  .header--nav {
+    display: inline-flex;
+    align-items: center;
+  }
+
+  .header--nav-close {
+    display: none;
+  }
+
+  .header--nav-open {
+    display: none;
+  }
+  
+  .header--nav-list-item {
+    padding: 0;
+    margin: 0 0 0 var(--default-space);
+  }
+  
+  .header--nav-list {
+    display: inline-flex;
+    justify-content: flex-end;
+    list-style: none;
+    padding: 0;
+  }
+
+  .header--nav-list-item:first-of-type {
+    display: none;
+  }
+}

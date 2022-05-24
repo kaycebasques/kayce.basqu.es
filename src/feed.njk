@@ -1,0 +1,30 @@
+---json
+{
+  "permalink": "feed.xml",
+  "eleventyExcludeFromCollections": true
+}
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kayce Basques</title>
+  <subtitle>The RSS feed for all of my blog posts.</subtitle>
+  <link href="{{site.origin}}/feed.xml" rel="self"/>
+  <link href="{{site.origin}}"/>
+  <updated>{{collections.posts | getNewestCollectionItemDate | dateToRfc3339}}</updated>
+  <id>{{site.origin}}</id>
+  <icon>{{site.origin}}/media/android-chrome-192x192.png</icon>
+  <logo>{{site.origin}}/media/logo.jpg</logo>
+  <author>
+    <name>Kayce Basques</name>
+    <email>kayce@basqu.es</email>
+  </author>
+  {%- for post in collections.blog | reverse %}
+  <entry>
+    <title>{{post.data.title}}</title>
+    <link href="{{site.origin}}{{post.url}}"/>
+    <updated>{{post.date | dateToRfc3339}}</updated>
+    <id>{{site.origin}}{{post.url}}</id>
+    <summary>{{post.data.summary}}</summary>
+  </entry>
+  {%- endfor %}
+</feed>

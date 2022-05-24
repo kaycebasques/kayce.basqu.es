@@ -1,5 +1,6 @@
+out
 node_modules
+.DS_Store
+.firebase
 _site
-/test-results/
-/playwright-report/
-/playwright/.cache/
+*.swp

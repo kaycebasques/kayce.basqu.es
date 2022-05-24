@@ -1,0 +1,10 @@
+---
+layout: base.njk
+---
+
+<main>
+  <h1>{{title}}</h1>
+  <p>{{date.toLocaleDateString('en-US', {year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC'})}}</p>
+  <p>Summary: {{summary}}</p>
+  {{content | safe}}
+</main>
