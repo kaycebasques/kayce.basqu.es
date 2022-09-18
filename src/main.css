@@ -3,6 +3,31 @@
   src: url('/fonts/atkinson/WOFF2/Atkinson-Hyperlegible-Regular-102a.woff2') format('woff2');
 }
 
-body {
+:root {
+  --space: 16px;
   font-family: 'Atkinson';
+}
+
+body {
+  padding: var(--space);
+}
+
+h1 {
+  margin: 0 0 var(--space) 0;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+}
+
+.nav {
+  display: flex;
+  list-style: none;
+  margin: 0 0 var(--space) 0;
+  padding: 0;
+}
+
+.nav li {
+  margin: 0 calc(var(--space) / 2) 0 0;
 }
