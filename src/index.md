@@ -1,7 +1,11 @@
 ---
 layout: 'base.njk'
+title: 'Home'
 ---
 
-# Hello, world!
+# {{title}}
 
-Welcome to my home on the world wide web.
+Hello, world! Welcome to my home on the world wide web.
+
+I am currently in the process of updating my site.
+Check back soon for updates.
