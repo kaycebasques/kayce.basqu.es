@@ -5,7 +5,8 @@ title: 'Home'
 
 # {{title}}
 
-Hello, world! Welcome to my home on the world wide web.
+Hello, world! I am Kayce Basques. Welcome to my home on the
+world wide web.
 
 I am currently in the process of updating my site.
 Check back soon for updates.
