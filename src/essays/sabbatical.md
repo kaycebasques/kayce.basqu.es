@@ -1,5 +1,5 @@
 ---
-layout: blog.njk
+layout: base.njk
 title: Sabbatical prologue
 date: 2021-06-04
 summary: >
