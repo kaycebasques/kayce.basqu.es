@@ -5,8 +5,6 @@ title: 'Home'
 
 # {{title}}
 
-Hello, world! I'm Kayce. Welcome to my home on the
-world wide web.
-
-I am currently in the process of updating my site.
-Check back soon for updates.
+Hello! I'm Kayce. Welcome to my humble abode on the world wide web.
+I like to imagine this site like the Millenium Falcon: it
+doesn't look that pretty but its fast!

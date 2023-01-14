@@ -5,4 +5,6 @@ title: 'Essays'
 
 # {{title}}
 
-Nothing to see here.
+{% for essay in collections.essays %}
+<p><a href="{{ essay.url }}">{{ essay.data.title }}</a></p>
+{% endfor %}

@@ -2,15 +2,15 @@
 layout: base.njk
 title: Sabbatical prologue
 date: 2021-06-04
-summary: >
+description: >
   For my 32nd birthday I'm leaving Google (after 6 years)
   and experimenting with a 1-year sabbatical. This post
   outlines my motivations, fears, and plans.
 tags:
-  - blog
-  - sabbatical
-category: Sabbatical
+  - essays
 ---
+
+# {{ title }}
 
 <aside>
   When I say "sabbatical" I simply mean
