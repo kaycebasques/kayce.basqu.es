@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: 'Contact'
+description: 'How to contact Kayce Basques'
 ---
 
 # {{title}}

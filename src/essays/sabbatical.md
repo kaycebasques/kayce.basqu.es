@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Sabbatical prologue
+title: Why I'm taking a sabbatical
 date: 2021-06-04
 description: >
   For my 32nd birthday I'm leaving Google (after 6 years)
