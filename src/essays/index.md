@@ -1,6 +1,6 @@
 ---
 layout: 'base.njk'
-title: 'Blog'
+title: 'Essays'
 ---
 
 # {{title}}
