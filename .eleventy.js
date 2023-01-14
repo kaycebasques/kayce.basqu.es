@@ -5,6 +5,7 @@ module.exports = config => {
     dir: {
       input: 'src',
       layouts: '_layouts'
-    }
+    },
+    htmlTemplateEngine: 'njk'
   };
 };

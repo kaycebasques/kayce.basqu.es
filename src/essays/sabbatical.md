@@ -12,6 +12,8 @@ tags:
 
 # {{ title }}
 
+Date: {{date}}
+
 <aside>
   When I say "sabbatical" I simply mean
   a period of time to pursue my own interests. In some

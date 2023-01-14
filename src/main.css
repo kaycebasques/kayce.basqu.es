@@ -32,3 +32,9 @@ header {
 .nav li {
   margin: 0 calc(var(--space) / 2) 0 0;
 }
+
+@media screen and (min-width: 800px) {
+  body {
+    max-width: 800px;
+  }
+}
