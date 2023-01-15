@@ -1,18 +1,21 @@
 ---
 layout: 'base.njk'
 title: 'Technical Writing'
-description: 'TODO'
+description: 'An overview of my technical writing career'
 ---
 
 # {{title}}
 
-My trade is technical writing.
+I am a professional technical writer. By "professional" I just
+mean that I have somehow convinced people to pay me to do it for
+going on 10 years now.
 
-Here's a brief summary of my career. I studied history at UC
-Berkeley. I got my initial technical writing experience taking
-contracts on oDesk (now Upwork). During this time I also took a lot
-of CS classes at community college. I did that for about a year and
-then got a full-time job at Arrayent, an internet of things platform.
+## Career summary
+
+I studied history at UC Berkeley. I got my initial technical writing
+experience taking contracts on oDesk (now Upwork). During this time I also
+took a lot of CS classes at community college. I did that for about a year
+and then got a full-time job at Arrayent, an internet of things platform.
 I wrote docs for their web service API, embedded libraries, and web
 apps. I did that for about 3 years and then went to Google to work
 for their web developer relations team. I wrote a lot of the
