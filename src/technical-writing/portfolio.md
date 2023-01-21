@@ -4,8 +4,23 @@ title: Portfolio
 description: My technical writing portfolio.
 ---
 
+# {{ title }}
+
+## Complete portfolio
+
 This is a comprehensive, roughly chronological list of everything I've
 created as a technical writer.
+
+<h2 id="fuchsia">Fuchsia (May 2022 to Present)</h2>
+
+* [audio-driver-ctl reference](https://fuchsia.dev/fuchsia-src/reference/tools/hardware/audio-driver-ctl)
+* [Device setup guides index](https://fuchsia.dev/fuchsia-src/development/hardware/setup)
+* [gpioutil reference](https://fuchsia.dev/fuchsia-src/reference/tools/hardware/gpioutil)
+* [Hardware requirements](https://fuchsia.dev/fuchsia-src/reference/hardware/summary)
+* [Hardware testing guide](https://fuchsia.dev/fuchsia-src/development/testing/hardware/guide)
+* [i2cutil](https://fuchsia.dev/fuchsia-src/reference/tools/hardware/i2cutil)
+* [lights-cli](https://fuchsia.dev/fuchsia-src/reference/tools/hardware/lights-cli)
+* [VIM3 setup guide](https://fuchsia.dev/fuchsia-src/development/hardware/khadas-vim3)
 
 <h2 id="talks">Talks</h2>
 
@@ -78,7 +93,7 @@ Here is how the docs looked [before][corrilybefore] I worked with the team.
   * [Delete charge](http://web.archive.org/web/20220215053934/https://docs.corrily.com/reference/delete-charge)
     ([PDF](https://drive.google.com/file/d/14NmnVE7PA9psxH1vzehZx70D_UzNFXy_/view?usp=sharing))
 
-<h2 id="google">Google (2015 to 2021)</h2>
+<h2 id="google">Google Web DevRel (2015 to 2021)</h2>
 
 <h3 id="google__tools">Tools</h3>
 
@@ -93,10 +108,6 @@ Here is how the docs looked [before][corrilybefore] I worked with the team.
   pull requests.
 
 <h3 id="push-notifications">Push notifications</h3>
-
-Note: I was the sole author on the latest iteration of these documents.
-If you see 2 or more authors, it means I based the content off of earlier
-work that other people had created.
 
 * [Overview](https://web.dev/push-notifications-overview/)
   ([PDF](https://drive.google.com/file/d/1y11BEQ1XHMlYhsA5YADPEYTlv-gR9IU6/view?usp=sharing))

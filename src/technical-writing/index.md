@@ -9,6 +9,15 @@ description: Information about my technical writing career.
 I am a professional technical writer with over 10 years of experience
 in the software industry.
 
+## Portfolio
+
+See [Portfolio](/technical-writing/portfolio).
+
+## Resume
+
+My [LinkedIn](https://www.linkedin.com/in/kaycebasques/)
+is publicly viewable.
+
 ## Career summary
 
 [degree]: http://catalog.collegeofsanmateo.edu/current/programs/computer-science-applications-and-development-as.php
