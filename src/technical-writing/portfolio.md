@@ -13,13 +13,16 @@ created as a technical writer.
 
 <h2 id="fuchsia">Fuchsia (May 2022 to Present)</h2>
 
+My biggest work in this role is confidential but here
+is some public documentation that I can share.
+
 * [audio-driver-ctl reference](https://fuchsia.dev/fuchsia-src/reference/tools/hardware/audio-driver-ctl)
 * [Device setup guides index](https://fuchsia.dev/fuchsia-src/development/hardware/setup)
 * [gpioutil reference](https://fuchsia.dev/fuchsia-src/reference/tools/hardware/gpioutil)
 * [Hardware requirements](https://fuchsia.dev/fuchsia-src/reference/hardware/summary)
 * [Hardware testing guide](https://fuchsia.dev/fuchsia-src/development/testing/hardware/guide)
-* [i2cutil](https://fuchsia.dev/fuchsia-src/reference/tools/hardware/i2cutil)
-* [lights-cli](https://fuchsia.dev/fuchsia-src/reference/tools/hardware/lights-cli)
+* [i2cutil reference](https://fuchsia.dev/fuchsia-src/reference/tools/hardware/i2cutil)
+* [lights-cli reference](https://fuchsia.dev/fuchsia-src/reference/tools/hardware/lights-cli)
 * [VIM3 setup guide](https://fuchsia.dev/fuchsia-src/development/hardware/khadas-vim3)
 
 <h2 id="talks">Talks</h2>
