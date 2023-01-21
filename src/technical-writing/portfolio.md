@@ -1,21 +1,11 @@
 ---
-layout: portfolio.njk
+layout: base.njk
 title: Portfolio
 description: My technical writing portfolio.
 ---
 
-<style>
-  #summary {
-    display: none;
-  }
-</style>
-
-<p id="summary">
-  The technical writing portfolio of Kayce Basques.
-</p>
-
-This is a comprehensive, roughly chronological list of everything I've created as a technical
-writer.
+This is a comprehensive, roughly chronological list of everything I've
+created as a technical writer.
 
 <h2 id="talks">Talks</h2>
 
@@ -34,9 +24,9 @@ writer.
 
 [corrilybefore]: https://drive.google.com/drive/folders/190k32-cnDdD054VjeTYPYU89i5JF9Cgu?usp=sharing
 
-I helped Corrily with their docs for a little less than 1 month. I worked 21 hours
-per week. I also created a sample app for them. Here is how the docs looked
-[before][corrilybefore] I worked with the team.
+I helped Corrily with their docs for a little less than 1 month.
+I worked 21 hours per week. I also created a sample app for them.
+Here is how the docs looked [before][corrilybefore] I worked with the team.
 
 * [Homepage](http://web.archive.org/web/20220215040848/https://docs.corrily.com/)
   ([PDF](https://drive.google.com/file/d/1918XardFBOkTasTCAmQ6yEt3nIjQLANo/view?usp=sharing))
