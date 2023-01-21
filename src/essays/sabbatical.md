@@ -12,7 +12,7 @@ tags:
 
 # {{ title }}
 
-Date: {{date}}
+Date: {{date.toLocaleDateString('en-US', {year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC'})}}
 
 <aside>
   When I say "sabbatical" I simply mean
@@ -262,7 +262,7 @@ around my money fears.
   barebones coverage.
 
 <aside>
-  As luck would have it, global healthcare plans seem reasonably
+  (Aside) As luck would have it, global healthcare plans seem reasonably
   priced. My partner and I got covered under Aetna's MHP Exclusive
   plan (their most comprehensive package) for under $300 a month total
   (not $300 per person). We opted for the highest deductible option
@@ -303,8 +303,8 @@ the need to devote time to focus on a single project with
 my enjoyment of variety. The risk
 of course is that I start a bunch of different projects and
 don't finish any of them. I also have some goals that are essentially
-habits that I want to build, such as calling friends/family every
-week/month, meditating every day, etc.
+habits that I want to build, such as calling family every
+week, meditating every day, etc.
 
 Although I don't have a single project, I do have a single overarching theme, however:
 [joie de vivre](https://en.wikipedia.org/wiki/Joie_de_vivre).

@@ -6,6 +6,7 @@ module.exports = config => {
       input: 'src',
       layouts: '_layouts'
     },
-    htmlTemplateEngine: 'njk'
+    htmlTemplateEngine: 'njk',
+    markdownTemplateEngine: 'njk'
   };
 };
