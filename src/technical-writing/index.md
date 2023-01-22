@@ -15,9 +15,9 @@ See [Portfolio](/technical-writing/portfolio).
 
 ## Resume
 
-See [Resume](/technical-writing/resume.pdf). Also,
-[my LinkedIn profile](https://www.linkedin.com/in/kaycebasques/)
-is publicly viewable.
+My LinkedIn profile is publicly viewable: https://www.linkedin.com/in/kaycebasques
+
+If you'd like a PDF of my resume please [email me](/contact).
 
 ## Career summary
 
