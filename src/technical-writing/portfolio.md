@@ -6,6 +6,19 @@ description: My technical writing portfolio.
 
 # {{ title }}
 
+<!--
+
+## Highlights
+
+Here is some of my best work:
+
+* Tutorials
+* Guides
+* References
+* Explanations
+
+-->
+
 ## Complete portfolio
 
 This is a comprehensive, roughly chronological list of everything I've
