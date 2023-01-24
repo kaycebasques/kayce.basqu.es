@@ -6,8 +6,7 @@ description: Information about my technical writing career.
 
 # {{title}}
 
-I am a professional technical writer with over 10 years of experience
-in the software industry.
+Technically, I'm a writer.
 
 ## Portfolio
 
