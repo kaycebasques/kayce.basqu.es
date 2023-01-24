@@ -10,15 +10,33 @@
 
 body {
   padding: var(--space);
+  background-color: white;
 }
 
 h1 {
   margin: 0 0 var(--space) 0;
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 26px;
+}
+
+h3 {
+  font-size: 22px;
+}
+
+h4 {
+  font-size: 18px;
 }
 
 header {
   display: flex;
   flex-direction: column;
+}
+
+html {
+  background-color: lightgrey;
 }
 
 .nav {
@@ -31,6 +49,10 @@ header {
 
 .nav li {
   margin: 0 calc(var(--space) / 2) 0 0;
+}
+
+p {
+  font-size: 14px;
 }
 
 @media screen and (min-width: 800px) {
