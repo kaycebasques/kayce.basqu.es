@@ -1,6 +1,6 @@
 ---
 layout: 'base.njk'
-title: 'The symbolism of cyborgs in the Star Wars universe'
+title: 'A treatise on Star Wars cyborgs'
 description: 'TODO'
 ---
 
