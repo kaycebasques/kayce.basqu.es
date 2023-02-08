@@ -33,26 +33,35 @@ rm -rf .git
 The `.s` file extension indicates [assembly language] source code.
 
 ```
-// SPDX-License-Identifier: MIT OR Apache-2.0
-//
-// Copyright (c) 2021-2022 Andre Richter <andre.o.richter@gmail.com>
-
-//--------------------------------------------------------------------------------------------------
-// Public Code
-//--------------------------------------------------------------------------------------------------
+// `section` seems to be a section of memory. `text` seems to
+// be a keyword for program code. I think we're just setting aside space
+// for the program code.
+// https://stackoverflow.com/a/60403929
+// https://stackoverflow.com/a/9809711
+// https://sourceware.org/binutils/docs/as/Section.html
+// https://sourceware.org/binutils/docs/as/Text.html
 .section .text._start
 
-//------------------------------------------------------------------------------
-// fn _start()
-//------------------------------------------------------------------------------
+// Presumably `L_parking_loop` is also part of `_start` which is why it
+// loops indefinitely.
 _start:
 	// Infinitely wait for events (aka "park the core").
 .L_parking_loop:
+        // wait for event is an Arm assembly opcode
+        // https://developer.arm.com/documentation/ddi0602/2022-12/Base-Instructions/WFE--Wait-For-Event-
 	wfe
+        // branch is also an Arm opcode
+        // https://developer.arm.com/documentation/ddi0602/2022-12/Base-Instructions/B--Branch-
 	b	.L_parking_loop
 
+// Couldn't find this one on Arm site...
 .size	_start, . - _start
+// Mark `_start` as a function rather than an object
+// https://developer.arm.com/documentation/101754/0619/armclang-Reference/armclang-Integrated-Assembler/Type-directive
 .type	_start, function
+// Mark `_start` as a global symbol
+// https://developer.arm.com/documentation/101754/0619/armclang-Reference/armclang-Integrated-Assembler/Symbol-binding-directives
+// https://developer.arm.com/documentation/107829/0100/Calling-an-assembly-function-from-C-code
 .global	_start
 ```
 
