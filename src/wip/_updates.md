@@ -1,19 +1,14 @@
 ---
 layout: base.njk
 title: Sabbatical updates
-
-
-  (4 June 2021 to 10 June 2021) Exploring Jericoacoara, updating my website, reading
-  Trickster Makes This World, finding a useful habit tracking app.
-
-
 ---
 
 # {{title}}
 
 ## Sabbatical Update (Week 1)
 
-
+(4 June 2021 to 10 June 2021) Exploring Jericoacoara, updating my website, reading
+Trickster Makes This World, finding a useful habit tracking app.
 
 ### Jericoaocoara
 
@@ -78,11 +73,6 @@ is a big life change and should be celebrated a bit.
 for chronicling my sabbatical, and still reading Trickster Makes
 This World.
 
-
-
-
-
-
 This week I finished laying the foundation for chronicling
 my sabbatical. I [finished some big updates for my website][PR],
 published the [sabbatical prologue](/sabbatical/prologue),
@@ -114,14 +104,8 @@ currently in Brazil and Gabi is from here.
 
 ## "Sabbatical Update (Week 3)"
 
-
 (18 June 2021 to 24 June 2021) Learning Portuguese,
 and finishing Trickster Makes This World.
-
-
-
-
-
 
 My focus for week 3 was learning Portuguese. My partner is
 from Brazil and I've been down here for about 2 months and her
@@ -151,14 +135,8 @@ investments and macroeconomics.
 
 ## "Sabbatical Update (Week 4)"
 
-
 (25 June 2021 to 1 July 2021) Reading Liminal Thinking
 and updating my investment portfolio.
-
-
-
-
-
 
 ### Reading
 
