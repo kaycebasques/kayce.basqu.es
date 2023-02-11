@@ -66,7 +66,7 @@ it easy since this was my birthday week and since taking a sabbatical
 is a big life change and should be celebrated a bit.
 
 
-## "Sabbatical Update (Week 2)"
+## Week 2
 
 
 (11 June 2021 to 17 June 2021) Finishing laying the foundation
@@ -102,7 +102,7 @@ currently in Brazil and Gabi is from here.
 [PR]: https://github.com/kaycebasques/kayce.basqu.es/pull/99
 
 
-## "Sabbatical Update (Week 3)"
+## Week 3
 
 (18 June 2021 to 24 June 2021) Learning Portuguese,
 and finishing Trickster Makes This World.
@@ -133,7 +133,7 @@ Next week I will be working on various things related to my
 investments and macroeconomics.
 
 
-## "Sabbatical Update (Week 4)"
+## Week 4
 
 (25 June 2021 to 1 July 2021) Reading Liminal Thinking
 and updating my investment portfolio.
@@ -174,7 +174,7 @@ content (such as old images of San Francisco, where my grandpa
 grew up).
 
 
-## "Sabbatical Update (Week 5)"
+## Week 5
 
 
 (2 July 2021 to 8 July 2021) Continuing work on Grandpa's autobiography,
@@ -235,7 +235,7 @@ interesting experiment to spend a week specifically focused on chores,
 though. Let's see how it goes!
 
 
-## "Sabbatical Update (Week 6)"
+## Week 6
 
 
 (9 July 2021 to 15 July 2021) Medium/long-term life planning,
@@ -267,7 +267,7 @@ for a few years now, and this week I'm going to start hacking
 on it!
 
 
-## "Sabbatical Update (Week 7)"
+## Week 7
 
 
 (16 July 2021 to 22 July 2021) Building the Bookworm Club,
@@ -303,7 +303,7 @@ where I'll discuss interesting ideas from books that I've read.
 I'm going to continue working on the Bookworm Club.
 
 
-## "Sabbatical Update (Week 8)"
+## Week 8
 
 
 (23 July 2021 to 29 July 2021) Still building the Bookworm Club,
@@ -358,7 +358,7 @@ I've already decided to go for it if we can agree on terms.
 In the meantime I'm going to continue working on the Bookworm Club.
 
 
-## "Sabbatical Update (Week 9)"
+## Week 9
 
 
 (30 July 2021 to 5 August 2021) Paused Bookworm Club development,
@@ -398,7 +398,7 @@ connections in the startup world and helping some other people increase their
 odds of success. And it's comforting to replenish my money reserves.
 
 
-## "Sabbatical Update (Week 10)"
+## Week 10
 
 
 (6 August 2021 to 12 August 2021) Continued the technical writing
@@ -434,7 +434,7 @@ with it. I've probably got lots of chores to take care of, also. Such as
 getting an FBI background check so that I can establish Brazilian residency.
 
 
-## "Sabbatical Update (Week 11)"
+## Week 11
 
 
 (13 August 2021 to 19 August 2021) Continued the technical writing
@@ -463,7 +463,7 @@ which I mentioned last week.
 I'll be continuing the contract and the Python class.
 
 
-## "Sabbatical Update (Week 12)"
+## Week 12
 
 
 (20 August 2021 to 26 August 2021) Continued the technical writing
@@ -505,7 +505,7 @@ This is a reminder to myself that next week will mark 3 months of sabbatical!
 I should do some introspection on how it's going.
 
 
-## "Sabbatical Update (Week 13)"
+## Week 13
 
 
 (27 August 2021 to 2 September 2021) Finished the technical writing
@@ -572,7 +572,7 @@ career and I'm helping out there where I can.
   practice even after the sabbatical.
 
 
-## "Sabbatical Update (Week 14)"
+## Week 14
 
 
 (3 September 2021 to 9 September 2021) Continuing the Python class,
@@ -607,7 +607,7 @@ to Thursday. This year marks 10 consecutive years! I'm just going to focus
 the next couple of days around getting ready for that.
 
 
-## "Sabbatical Update (Week 15)"
+## Week 15
 
 
 (10 September 2021 to 16 September 2021) Camping, continuing
@@ -652,7 +652,7 @@ the autobiography as a tool for discovering new insights about
 life. I'll also need to do some homework for the Python class.
 
 
-## "Sabbatical Update (Week 16)"
+## Week 16
 
 
 (17 September 2021 to 23 September 2021) A failed attempt
@@ -689,7 +689,7 @@ yet finished an MVP for the Bookworm Club. I am trying to break
 the habit of starting projects and never finishing them.
 
 
-## "Sabbatical Update (Week 17)"
+## Week 17
 
 
 (24 September 2021 to 30 September 2021) Developing the
@@ -732,7 +732,7 @@ to enjoy each other's company, explore San Francisco, and
 tidy up our new temporary home.
 
 
-## "Sabbatical Update (Week 18)"
+## Week 18
 
 
 (1 October 2021 to 7 October 2021) Quality time with
@@ -777,7 +777,7 @@ a quiz for the Python class.
 I'll keep working on the Bookworm Club.
 
 
-## "Sabbatical Update (Week 19)"
+## Week 19
 
 
 (8 October 2021 to 14 October 2021) Reading Joshua Tree: The Complete Guide,
@@ -811,7 +811,7 @@ On Thursday we watched it at Anchor Public Taps.
 </aside>
 
 
-## "Sabbatical Update (Week 20)"
+## Week 20
 
 
 (15 October 2021 to 21 October 2021) Reading The Elements of Rhetoric
@@ -847,7 +847,7 @@ I got the Bookworm Club close to a [minimum viable product][mvp].
 I am going to finish up the Bookworm Club MVP and ship it!
 
 
-## "Sabbatical Update (Week 21)"
+## Week 21
 
 
 (22 October 2021 to 28 October 2021) Reading Thinking in Bets and M.L.K. Jr.,
@@ -893,7 +893,7 @@ After that I'm going to work on a couple technical writing projects
 I've been kicking around.
 
 
-## "Sabbatical Update (Week 22)"
+## Week 22
 
 
 (29 October 2021 to 4 November 2021) Reading Where Do We Go From Here,
@@ -932,7 +932,7 @@ It's time to start planning our wedding! I'll also continue working
 on my technical writing projects.
 
 
-## "Sabbatical Update (Week 23)"
+## Week 23
 
 
 (5 November 2021 to 11 November 2021) Finished reading
@@ -974,7 +974,7 @@ I will continue working on the template and guide projects and kick
 our wedding planning into high gear.
 
 
-## "Sabbatical Update (Week 24)"
+## Week 24
 
 
 (12 November 2021 to 18 November 2021) Python class homework,
@@ -1018,7 +1018,7 @@ back to our home in the Panhandle.
 I need to go deep into wedding planning!
 
 
-## "Sabbatical Update (Week 25)"
+## Week 25
 
 
 (19 November 2021 to 25 November 2021) Reading The Maya,
@@ -1060,7 +1060,7 @@ I will continue planning the wedding and resume work on the Bookworm
 Club.
 
 
-## "Sabbatical Update (Week 26)"
+## Week 26
 
 
 (26 November 2021 to 2 December 2021) Dogsitting,
@@ -1098,7 +1098,7 @@ I'll be in Tahoe from Friday to Sunday, celebrating my brother's
 birthday. I'll continue wedding planning.
 
 
-## "Sabbatical Update (Week 27)"
+## Week 27
 
 
 (3 December 2021 to 9 December 2021) Learning
@@ -1135,7 +1135,7 @@ planning.
 Wedding planning!
 
 
-## "Sabbatical Update (Week 28)"
+## Week 28
 
 
 (10 December 2021 to 16 December 2021) Routine tasks and chores,
@@ -1166,7 +1166,7 @@ workflows related to my macroeconomic investing.
 Wedding planning and Christmas preparations.
 
 
-## "Sabbatical Update (Week 29)"
+## Week 29
 
 
 (17 December 2021 to 23 December 2021) Reading First Aid Manual
@@ -1206,7 +1206,7 @@ will probably spend most of Friday (Christmas Eve) and Saturday
 with my family. I'll continue learning Flutter development.
 
 
-## "Sabbatical Update (Week 30)"
+## Week 30
 
 
 (24 December 2021 to 30 December 2021) Wedding planning,
@@ -1246,7 +1246,7 @@ Wedding planning! I am going to try out being more rigorous with
 scheduling. I.e. 1 hour for exercise, 1 for programming, etc.
 
 
-## "Sabbatical Update (Week 31)"
+## Week 31
 
 
 (31 December 2021 to 6 January 2022) Studying mycology,
@@ -1279,7 +1279,7 @@ It's the last week before the wedding. That will probably take up
 most of my time.
 
 
-## "Sabbatical Update (Week 32)"
+## Week 32
 
 
 (7 January 2022 to 14 January 2022) Studying mycology
@@ -1307,7 +1307,7 @@ about mycology and search for mushrooms in the parks around our home.
 The wedding and our honeymoon in Tahoe!
 
 
-## "Sabbatical Update (Week 33)"
+## Week 33
 
 
 (14 January 2022 to 20 January 2022) Getting married!
@@ -1340,7 +1340,7 @@ Relaxing in Tahoe, visiting family in Lodi, attending a mushroom
 foraging class, and returning to San Francisco.
 
 
-## "Sabbatical Update (Week 34)"
+## Week 34
 
 
 (21 January 2022 to 27 January 2022) Honeymoon!
@@ -1369,7 +1369,7 @@ Finishing our honeymoon and wrapping up wedding-related tasks (such as
 thank you cards).
 
 
-## "Sabbatical Update (Week 34)"
+## Week 34
 
 
 (28 January 2022 to 3 February 2022) Honeymoon,
@@ -1401,7 +1401,7 @@ Wrapping up the final wedding-related tasks and working towards
 re-entering the workforce.
 
 
-## "Sabbatical Update (Week 35)"
+## Week 35
 
 
 (4 February 2022 to 10 February 2022) Read Power vs. Force
