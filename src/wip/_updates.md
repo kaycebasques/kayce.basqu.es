@@ -1,17 +1,19 @@
 ---
-layout: blog.njk
-title: Sabbatical Update (Week 1)
+layout: base.njk
+title: Sabbatical updates
 date: 2021-06-11
 summary: >
   (4 June 2021 to 10 June 2021) Exploring Jericoacoara, updating my website, reading
   Trickster Makes This World, finding a useful habit tracking app.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
+
+
 ---
 
-{% sabbatical %}
+# {{title}}
+
+# Sabbatical Update (Week 1)
+
+
 
 ## Jericoaocoara
 
@@ -67,21 +69,19 @@ everything I want and nothing I don't: [Strides](https://www.stridesapp.com/).
 Although it wasn't the best start, I had also consciously decided to take
 it easy since this was my birthday week and since taking a sabbatical
 is a big life change and should be celebrated a bit.
----
-layout: blog.njk
-title: "Sabbatical Update (Week 2)"
+
+
+# "Sabbatical Update (Week 2)"
 date: 2021-06-18
 summary: >
   (11 June 2021 to 17 June 2021) Finishing laying the foundation
   for chronicling my sabbatical, and still reading Trickster Makes
   This World.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 This week I finished laying the foundation for chronicling
 my sabbatical. I [finished some big updates for my website][PR],
@@ -110,20 +110,18 @@ Next week I am going to focus on studying Portuguese. I am
 currently in Brazil and Gabi is from here.
 
 [PR]: https://github.com/kaycebasques/kayce.basqu.es/pull/99
----
-layout: blog.njk
-title: "Sabbatical Update (Week 3)"
+
+
+# "Sabbatical Update (Week 3)"
 date: 2021-06-25
 summary: >
   (18 June 2021 to 24 June 2021) Learning Portuguese,
   and finishing Trickster Makes This World.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 My focus for week 3 was learning Portuguese. My partner is
 from Brazil and I've been down here for about 2 months and her
@@ -149,20 +147,18 @@ Now I'm reading *Liminal Thinking* by Dave Gray.
 
 Next week I will be working on various things related to my
 investments and macroeconomics.
----
-layout: blog.njk
-title: "Sabbatical Update (Week 4)"
+
+
+# "Sabbatical Update (Week 4)"
 date: 2021-07-02
 summary: >
   (25 June 2021 to 1 July 2021) Reading Liminal Thinking
   and updating my investment portfolio.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -198,20 +194,18 @@ but the website style and UI is bare-bones. This week I'll be
 sprucing up the style/UI and looking for more supplementary
 content (such as old images of San Francisco, where my grandpa
 grew up).
----
-layout: blog.njk
-title: "Sabbatical Update (Week 5)"
+
+
+# "Sabbatical Update (Week 5)"
 date: 2021-07-09
 summary: >
   (2 July 2021 to 8 July 2021) Continuing work on Grandpa's autobiography,
   finishing Modern China: A Very Short Introduction, and starting The Deficit Myth.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -261,20 +255,18 @@ scheduling dentist appointments, adding an RSS feed to this site,
 etc. Hopefully they won't take all week. I think it's an
 interesting experiment to spend a week specifically focused on chores,
 though. Let's see how it goes!
----
-layout: blog.njk
-title: "Sabbatical Update (Week 6)"
+
+
+# "Sabbatical Update (Week 6)"
 date: 2021-07-16
 summary: >
   (9 July 2021 to 15 July 2021) Medium/long-term life planning,
   and continuing to read The Deficit Myth.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -295,20 +287,18 @@ on lots of this stuff that I would eventually have had to do anyways.
 I've been kicking around a business/app idea related to reading
 for a few years now, and this week I'm going to start hacking
 on it!
----
-layout: blog.njk
-title: "Sabbatical Update (Week 7)"
+
+
+# "Sabbatical Update (Week 7)"
 date: 2021-07-23
 summary: >
   (16 July 2021 to 22 July 2021) Building the Bookworm Club,
   and reading Infinite Powers.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -333,21 +323,19 @@ where I'll discuss interesting ideas from books that I've read.
 ## What's next
 
 I'm going to continue working on the Bookworm Club.
----
-layout: blog.njk
-title: "Sabbatical Update (Week 8)"
+
+
+# "Sabbatical Update (Week 8)"
 date: 2021-07-30
 summary: >
   (23 July 2021 to 29 July 2021) Still building the Bookworm Club,
   still reading Infinite Powers, possibly taking on a 1-month
   technical writing contract.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -390,21 +378,19 @@ Cons:
 I've already decided to go for it if we can agree on terms.
 
 In the meantime I'm going to continue working on the Bookworm Club.
----
-layout: blog.njk
-title: "Sabbatical Update (Week 9)"
+
+
+# "Sabbatical Update (Week 9)"
 date: 2021-08-06
 summary: >
   (30 July 2021 to 5 August 2021) Paused Bookworm Club development,
   finished reading Infinite Powers, started reading Water: A Very
   Short Introduction, started a 1-month technical writing contract.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -432,21 +418,19 @@ pretty fun to dig into a new product. I like that the project is constrained to 
 single month and that the daily workload is manageable. I like that I'm making
 connections in the startup world and helping some other people increase their
 odds of success. And it's comforting to replenish my money reserves.
----
-layout: blog.njk
-title: "Sabbatical Update (Week 10)"
+
+
+# "Sabbatical Update (Week 10)"
 date: 2021-08-13
 summary: >
   (6 August 2021 to 12 August 2021) Continued the technical writing
   contract, finished Water: A Very Short Introduction, started The
   City & The City, and returned to San Francisco.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -470,21 +454,19 @@ in computer science applications and development. I started that degree years
 ago and never finished it. One of my sabbatical goals is to finally be done
 with it. I've probably got lots of chores to take care of, also. Such as
 getting an FBI background check so that I can establish Brazilian residency.
----
-layout: blog.njk
-title: "Sabbatical Update (Week 11)"
+
+
+# "Sabbatical Update (Week 11)"
 date: 2021-08-20
 summary: >
   (13 August 2021 to 19 August 2021) Continued the technical writing
   contract, continued reading The City & The City, and started a Python
   class.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -501,21 +483,19 @@ which I mentioned last week.
 ## What's next
 
 I'll be continuing the contract and the Python class.
----
-layout: blog.njk
-title: "Sabbatical Update (Week 12)"
+
+
+# "Sabbatical Update (Week 12)"
 date: 2021-08-27
 summary: >
   (20 August 2021 to 26 August 2021) Continued the technical writing
   contract, finished The City & The City, started A Matter Of Degrees,
   and continued the Python class.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -545,20 +525,18 @@ them and start writing my autobiography.
 
 This is a reminder to myself that next week will mark 3 months of sabbatical!
 I should do some introspection on how it's going.
----
-layout: blog.njk
-title: "Sabbatical Update (Week 13)"
+
+
+# "Sabbatical Update (Week 13)"
 date: 2021-09-03
 summary: >
   (27 August 2021 to 2 September 2021) Finished the technical writing
   contract, continued A Matter Of Degrees, and continued the Python class.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -614,20 +592,18 @@ career and I'm helping out there where I can.
 * These weekly updates are super helpful. It's great to be able to look
   back and see what was happening week-by-week. Maybe I'll continue this
   practice even after the sabbatical.
----
-layout: blog.njk
-title: "Sabbatical Update (Week 14)"
+
+
+# "Sabbatical Update (Week 14)"
 date: 2021-09-10
 summary: >
   (3 September 2021 to 9 September 2021) Continuing the Python class,
   reading Energy and Civilization, and tinkering with Raspberry Pi and Arduino.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -651,21 +627,19 @@ to learn.
 I've got my yearly camping trip with my brother and friends next week, Monday
 to Thursday. This year marks 10 consecutive years! I'm just going to focus
 the next couple of days around getting ready for that.
----
-layout: blog.njk
-title: "Sabbatical Update (Week 15)"
+
+
+# "Sabbatical Update (Week 15)"
 date: 2021-09-17
 summary: >
   (10 September 2021 to 16 September 2021) Camping, continuing
   to read Energy and Civilization, and continuing the
   Python class.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -698,21 +672,19 @@ intentions of publicly publishing it. I mainly just want to
 remember interesting stories and events from my life and use
 the autobiography as a tool for discovering new insights about
 life. I'll also need to do some homework for the Python class.
----
-layout: blog.njk
-title: "Sabbatical Update (Week 16)"
+
+
+# "Sabbatical Update (Week 16)"
 date: 2021-09-24
 summary: >
   (17 September 2021 to 23 September 2021) A failed attempt
   at an autobiography, continuing to read Energy and Civilization,
   and continuing the Python class.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -737,22 +709,20 @@ I think I couldn't motivate myself to work deeply on the
 autobiography because of the nagging awareness that I haven't
 yet finished an MVP for the Bookworm Club. I am trying to break
 the habit of starting projects and never finishing them.
----
-layout: blog.njk
-title: "Sabbatical Update (Week 17)"
+
+
+# "Sabbatical Update (Week 17)"
 date: 2021-10-01
 summary: >
   (24 September 2021 to 30 September 2021) Developing the
   Bookworm Club, preparing for my partner's return,
   continuing to read Energy and Civilization, and continuing
   the Python class.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -782,22 +752,20 @@ I don't expect to get much work done next week. I haven't
 seen my partner in over a month so we'll probably just want
 to enjoy each other's company, explore San Francisco, and
 tidy up our new temporary home.
----
-layout: blog.njk
-title: "Sabbatical Update (Week 18)"
+
+
+# "Sabbatical Update (Week 18)"
 date: 2021-10-08
 summary: >
   (1 October 2021 to 7 October 2021) Quality time with
   my partner, enjoying San Francisco, visiting Joshua Tree,
   continuing to read Energy and Civilization, and continuing
   the Python class.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -829,20 +797,18 @@ a quiz for the Python class.
 ## What's next
 
 I'll keep working on the Bookworm Club.
----
-layout: blog.njk
-title: "Sabbatical Update (Week 19)"
+
+
+# "Sabbatical Update (Week 19)"
 date: 2021-10-15
 summary: >
   (8 October 2021 to 14 October 2021) Reading Joshua Tree: The Complete Guide,
   hanging out in San Francisco, and I'm not sure what else.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -865,21 +831,19 @@ On Thursday we watched it at Anchor Public Taps.
   to publish an update! It seems a bit silly to fill out this
   "what's next" section now.
 </aside>
----
-layout: blog.njk
-title: "Sabbatical Update (Week 20)"
+
+
+# "Sabbatical Update (Week 20)"
 date: 2021-10-22
 summary: >
   (15 October 2021 to 21 October 2021) Reading The Elements of Rhetoric
   and Thinking in Bets, exploring San Francisco, and continuing work on
   the Bookworm Club.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -903,20 +867,18 @@ I got the Bookworm Club close to a [minimum viable product][mvp].
 ## What's next
 
 I am going to finish up the Bookworm Club MVP and ship it!
----
-layout: blog.njk
-title: "Sabbatical Update (Week 21)"
+
+
+# "Sabbatical Update (Week 21)"
 date: 2021-10-29
 summary: >
   (22 October 2021 to 28 October 2021) Reading Thinking in Bets and M.L.K. Jr.,
   enjoying San Francisco, working on the Bookworm Club and a technical writing project.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -951,21 +913,19 @@ On Friday Gabi and I are going to Outside Lands. Saturday is Gabi's
 birthday. Sunday is Halloween. I doubt I'll work much those days.
 After that I'm going to work on a couple technical writing projects
 I've been kicking around.
----
-layout: blog.njk
-title: "Sabbatical Update (Week 22)"
+
+
+# "Sabbatical Update (Week 22)"
 date: 2021-11-05
 summary: >
   (29 October 2021 to 4 November 2021) Reading Where Do We Go From Here,
   enjoying Outside Lands & Gabi's birthday & Halloween, working on the
   Bookworm Club & a few technical writing projects.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -992,22 +952,20 @@ birthday.
 
 It's time to start planning our wedding! I'll also continue working
 on my technical writing projects.
----
-layout: blog.njk
-title: "Sabbatical Update (Week 23)"
+
+
+# "Sabbatical Update (Week 23)"
 date: 2021-11-12
 summary: >
   (5 November 2021 to 11 November 2021) Finished reading
   Where Do We Go From Here, started reading The Maya,
   worked on 2 technical writing projects, and continued
   wedding planning.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -1036,21 +994,19 @@ Gabi and I went out with a few of my friends.
 
 I will continue working on the template and guide projects and kick
 our wedding planning into high gear.
----
-layout: blog.njk
-title: "Sabbatical Update (Week 24)"
+
+
+# "Sabbatical Update (Week 24)"
 date: 2021-11-19
 summary: >
   (12 November 2021 to 18 November 2021) Python class homework,
   exploring San Francisco, some initial Bookworm Club success,
   working on Technical Writing Guide, and planning the wedding.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -1082,21 +1038,19 @@ back to our home in the Panhandle.
 ## What's next
 
 I need to go deep into wedding planning!
----
-layout: blog.njk
-title: "Sabbatical Update (Week 25)"
+
+
+# "Sabbatical Update (Week 25)"
 date: 2021-11-26
 summary: >
   (19 November 2021 to 25 November 2021) Reading The Maya,
   visiting friends and family, planning the wedding, and
   exploring San Francisco.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -1126,21 +1080,19 @@ explored San Francisco Botanical Garden. Thursday was Thanksgiving.
 
 I will continue planning the wedding and resume work on the Bookworm
 Club.
----
-layout: blog.njk
-title: "Sabbatical Update (Week 26)"
+
+
+# "Sabbatical Update (Week 26)"
 date: 2021-12-03
 summary: >
   (26 November 2021 to 2 December 2021) Dogsitting,
   reviewing/updating my investment portfolio, and wedding
   planning.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -1166,21 +1118,19 @@ and reviewed/updated my investment portfolio.
 
 I'll be in Tahoe from Friday to Sunday, celebrating my brother's
 birthday. I'll continue wedding planning.
----
-layout: blog.njk
-title: "Sabbatical Update (Week 27)"
+
+
+# "Sabbatical Update (Week 27)"
 date: 2021-12-10
 summary: >
   (3 December 2021 to 9 December 2021) Learning
   first aid, wedding planning, and Python class
   homework.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -1205,21 +1155,19 @@ planning.
 ## What's next
 
 Wedding planning!
----
-layout: blog.njk
-title: "Sabbatical Update (Week 28)"
+
+
+# "Sabbatical Update (Week 28)"
 date: 2021-12-17
 summary: >
   (10 December 2021 to 16 December 2021) Routine tasks and chores,
   reading First Aid Manual, new Ghostbusters movie, de Young museum,
   automating workflows related to macroeconomic investing.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -1238,22 +1186,20 @@ workflows related to my macroeconomic investing.
 ## What's next
 
 Wedding planning and Christmas preparations.
----
-layout: blog.njk
-title: "Sabbatical Update (Week 29)"
+
+
+# "Sabbatical Update (Week 29)"
 date: 2021-12-24
 summary: >
   (17 December 2021 to 23 December 2021) Reading First Aid Manual
   and Entangled Life, continuing development of the Python scripts
   that automate some of my macroeconomic investing workflows, mushroom
   hunting in Golden Gate Park, and learning how to build apps with Flutter.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -1280,21 +1226,19 @@ Later I continued learning how to develop apps with Flutter.
 I don't know! More wedding planning, probably. Gabi and I
 will probably spend most of Friday (Christmas Eve) and Saturday
 with my family. I'll continue learning Flutter development.
----
-layout: blog.njk
-title: "Sabbatical Update (Week 30)"
+
+
+# "Sabbatical Update (Week 30)"
 date: 2021-12-31
 summary: >
   (24 December 2021 to 30 December 2021) Wedding planning,
   Christmas with family, learning Flutter, admiring mushrooms,
   reading First Aid Manual and Entangled Life.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -1322,20 +1266,18 @@ and look for mushrooms. I did that a few times this week.
 
 Wedding planning! I am going to try out being more rigorous with
 scheduling. I.e. 1 hour for exercise, 1 for programming, etc.
----
-layout: blog.njk
-title: "Sabbatical Update (Week 31)"
+
+
+# "Sabbatical Update (Week 31)"
 date: 2022-01-07
 summary: >
   (31 December 2021 to 6 January 2022) Studying mycology,
   learning Flutter, and preparing for the wedding.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -1357,20 +1299,18 @@ mycology. And of course I continued random tasks related to the wedding.
 
 It's the last week before the wedding. That will probably take up
 most of my time.
----
-layout: blog.njk
-title: "Sabbatical Update (Week 32)"
+
+
+# "Sabbatical Update (Week 32)"
 date: 2022-01-14
 summary: >
   (7 January 2022 to 14 January 2022) Studying mycology
   and preparing for the wedding.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -1387,19 +1327,17 @@ about mycology and search for mushrooms in the parks around our home.
 ## What's next
 
 The wedding and our honeymoon in Tahoe!
----
-layout: blog.njk
-title: "Sabbatical Update (Week 33)"
+
+
+# "Sabbatical Update (Week 33)"
 date: 2022-01-21
 summary: >
   (14 January 2022 to 20 January 2022) Getting married!
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -1422,19 +1360,17 @@ Friday we finally relaxed a bit in Tahoe!
 
 Relaxing in Tahoe, visiting family in Lodi, attending a mushroom
 foraging class, and returning to San Francisco.
----
-layout: blog.njk
-title: "Sabbatical Update (Week 34)"
+
+
+# "Sabbatical Update (Week 34)"
 date: 2022-01-28
 summary: >
   (21 January 2022 to 27 January 2022) Honeymoon!
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -1453,21 +1389,19 @@ in San Francisco.
 
 Finishing our honeymoon and wrapping up wedding-related tasks (such as
 thank you cards).
----
-layout: blog.njk
-title: "Sabbatical Update (Week 34)"
+
+
+# "Sabbatical Update (Week 34)"
 date: 2022-02-04
 summary: >
   (28 January 2022 to 3 February 2022) Honeymoon,
   wrapping up the final wedding-related tasks, and
   getting ready to re-enter the workforce.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
@@ -1487,20 +1421,18 @@ workforce.
 
 Wrapping up the final wedding-related tasks and working towards
 re-entering the workforce.
----
-layout: blog.njk
-title: "Sabbatical Update (Week 35)"
+
+
+# "Sabbatical Update (Week 35)"
 date: 2022-02-11
 summary: >
   (4 February 2022 to 10 February 2022) Read Power vs. Force
   and worked on immigration and workforce re-entry stuff.
-tags:
-  - blog
-  - sabbatical
-category: Sabbatical
----
 
-{% sabbatical %}
+
+
+
+
 
 ## Reading
 
