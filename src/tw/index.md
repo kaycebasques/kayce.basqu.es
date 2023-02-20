@@ -10,11 +10,12 @@ Technically, I'm a writer.
 
 ## Portfolio
 
-See [Portfolio](/technical-writing/portfolio).
+See [Portfolio](/tw/portfolio).
 
 ## Resume
 
-My LinkedIn profile is publicly viewable: <https://www.linkedin.com/in/kaycebasques>
+[My LinkedIn profile](https://www.linkedin.com/in/kaycebasques) is publicly
+viewable.
 
 If you'd like a PDF of my resume please [email me](/contact).
 
@@ -24,7 +25,7 @@ If you'd like a PDF of my resume please [email me](/contact).
 [Chrome DevTools]: https://developer.chrome.com/docs/devtools
 [Lighthouse]: https://developer.chrome.com/docs/lighthouse/overview
 [web.dev]: https://web.dev
-[sabbatical]: /essays/sabbatical
+[sabbatical]: /blog/sabbatical
 [Fuchsia]: https://fuchsia.dev
 
 I studied history at UC Berkeley. After job hunting for a few months

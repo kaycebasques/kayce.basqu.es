@@ -120,11 +120,10 @@ loop:
 ```
 
 I'm an assembly n00b. I can only verify that this program is correct in the
-sense that I can see the LED on my Uno blinking on and off. Also I kept the
-Uno connected to my laptop overnight and nothing blew up.
+sense that I can see the LED on my Uno blinking on and off. Also when I left
+the Uno running overnight nothing blew up.
 
 Resources for figuring out how this code works:
-
 
 [Programming Arduino Uno (ATmega328P) in assembly]: https://gist.github.com/mhitza/8a4608f4dfdec20d3879
 [AVR Instruction Set Manual]: https://ww1.microchip.com/downloads/en/devicedoc/atmel-0856-avr-instruction-set-manual.pdf
