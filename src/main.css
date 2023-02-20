@@ -3,15 +3,25 @@
   src: url('/fonts/atkinson/WOFF2/Atkinson-Hyperlegible-Regular-102a.woff2') format('woff2');
 }
 
+@font-face {
+  font-family: Hackerman;
+  src: url('/fonts/ubuntu/UbuntuMono-Regular.ttf') format('truetype');
+}
+
 :root {
   --space: 16px;
   font-family: 'Atkinson';
   --font-size: 16px;
+  --code-color: whitesmoke;
 }
 
 body {
   padding: var(--space);
   background-color: white;
+}
+
+code {
+  font-family: 'Hackerman';
 }
 
 h1 {
@@ -44,6 +54,11 @@ li {
   font-size: var(--font-size);
 }
 
+li code {
+  background-color: var(--code-color);
+  padding: calc(var(--space) / 4);
+}
+
 .nav {
   display: flex;
   flex-wrap: wrap;
@@ -60,7 +75,14 @@ p {
   font-size: var(--font-size);
 }
 
-pre code {
+p code {
+  background-color: var(--code-color);
+  padding: calc(var(--space) / 4);
+}
+
+pre {
+  background-color: var(--code-color);
+  padding: calc(var(--space) / 2);
   text-overflow: clip;
 }
 
