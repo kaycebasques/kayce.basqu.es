@@ -24,6 +24,10 @@ Here is some of my best work:
 This is a comprehensive, roughly chronological list of everything I've
 created as a technical writer.
 
+<h2 id="personal">Personal</h2>
+
+* [How to program an Arduino Uno in assembly](/blog/arduino-assembly)
+
 <h2 id="fuchsia">Fuchsia (May 2022 to Present)</h2>
 
 My biggest work in this role is confidential but here

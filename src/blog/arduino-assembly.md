@@ -7,9 +7,13 @@ description: >
   LED (pin 13) on and off.
 tags:
   - blog
+date: 2023-02-20
 ---
 
 # {{title}}
+
+{{date.toLocaleDateString('en-US',
+    {year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC'})}}
 
 {{description}}
 

@@ -12,7 +12,8 @@ tags:
 
 # {{ title }}
 
-Date: {{date.toLocaleDateString('en-US', {year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC'})}}
+{{date.toLocaleDateString('en-US',
+    {year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC'})}}
 
 <aside>
   When I say "sabbatical" I simply mean
