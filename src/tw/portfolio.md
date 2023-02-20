@@ -390,15 +390,18 @@ one-line description. I researched and drafted each guide myself. The subject ma
 experts reviewed my guides.
 
 <figure>
-  <img src="/media/quantifiedcode.png" 
+  <img src="/img/quantifiedcode.png" 
        loading="lazy" 
-       alt="We were completely happy with Kayce's work. He was a great, professional communicator and he knows how 
-            to manage and deliver projects. He wrote about 100 technical articles for us. Especially, as the 
-            programming language he was writing about, was new to him, we were impressed by the quality and the 
-            thoroughness of his investigations. Also, Kayce should flexibility when we were busy and had to pause the 
-            assignment for a bit. Fully recommended. Happy to work with him again."/>
+       alt="We were completely happy with Kayce's work. He was a great,
+            professional communicator and he knows how to manage and deliver
+            projects. He wrote about 100 technical articles for us. Especially,
+            as the programming language he was writing about, was new to him,
+            we were impressed by the quality and the thoroughness of his
+            investigations. Also, Kayce showed flexibility when we were busy
+            and had to pause the assignment for a bit. Fully recommended.
+            Happy to work with him again."/>
   <figcaption>
-    Figure 1. The review that the Quantified Code people left me.
+    The review that the Quantified Code people left me.
   </figcaption>
 </figure>
 
