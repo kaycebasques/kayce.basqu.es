@@ -94,7 +94,7 @@ p code {
 pre {
   background-color: var(--code-color);
   padding: calc(var(--space) / 2);
-  text-overflow: clip;
+  overflow: scroll;
 }
 
 @media screen and (min-width: 800px) {
