@@ -6,6 +6,7 @@
 :root {
   --space: 16px;
   font-family: 'Atkinson';
+  --font-size: 16px;
 }
 
 body {
@@ -15,7 +16,7 @@ body {
 
 h1 {
   margin: 0 0 var(--space) 0;
-  font-size: 30px;
+  font-size: 32px;
 }
 
 h2 {
@@ -23,11 +24,11 @@ h2 {
 }
 
 h3 {
-  font-size: 22px;
+  font-size: 20px;
 }
 
 h4 {
-  font-size: 18px;
+  font-size: 14px;
 }
 
 header {
@@ -37,6 +38,10 @@ header {
 
 html {
   background-color: ghostwhite;
+}
+
+li {
+  font-size: var(--font-size);
 }
 
 .nav {
@@ -52,7 +57,7 @@ html {
 }
 
 p {
-  font-size: 14px;
+  font-size: var(--font-size);
 }
 
 @media screen and (min-width: 800px) {

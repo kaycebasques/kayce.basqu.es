@@ -7,7 +7,7 @@ description: >
   and experimenting with a 1-year sabbatical. This post
   outlines my motivations, fears, and plans.
 tags:
-  - essays
+  - blog
 ---
 
 # {{ title }}
