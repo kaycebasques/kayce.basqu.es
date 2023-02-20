@@ -22,6 +22,7 @@ body {
 
 code {
   font-family: 'Hackerman';
+  overflow: scroll;
 }
 
 footer {
