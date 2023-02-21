@@ -127,29 +127,7 @@ I'm an assembly n00b. I can only verify that this program is correct in the
 sense that I can see the LED on my Uno blinking on and off. Also when I left
 the Uno running overnight nothing blew up.
 
-Resources for figuring out how this code works:
-
-[Programming Arduino Uno (ATmega328P) in assembly]: https://gist.github.com/mhitza/8a4608f4dfdec20d3879
-[AVR Instruction Set Manual]: https://ww1.microchip.com/downloads/en/devicedoc/atmel-0856-avr-instruction-set-manual.pdf
-[AVR Assembler Reference]: https://ww1.microchip.com/downloads/en/DeviceDoc/40001917A.pdf
-[`m328Pdef.inc`]: https://raw.githubusercontent.com/DarkSector/AVR/master/asm/include/m328Pdef.inc
-[ATmega328P datasheet]: https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
-[ATmega328P]: https://en.wikipedia.org/wiki/ATmega328
-[AVR Delay Loop Calculator]: http://darcy.rsgc.on.ca/ACES/TEI4M/AVRdelay.html
-[AVR-Assembly-Tutorial]: http://www.avr-asm-tutorial.net/index.html
-
-* [Programming Arduino Uno (ATmega328P) in assembly]
-* [AVR Instruction Set Manual] explains the instructions (e.g. `jmp`, `sbi`,
-  `clr`, and so on)
-* [AVR Assembler Reference] explains AVR Assembly syntax and keywords (e.g.
-  `.device`, `.equ`, `.org`, and so on)
-* [`m328Pdef.inc`] is the source of the hardware definitions (e.g. `PORTB` and
-  `DDRB`)
-* [ATmega328P Datasheet] provides details on how exactly the instructions need
-  to be constructed in order to work with the Uno's MCU (the [ATmega328P])
-* [AVR Delay Loop Calculator] was the source of the delay and loop code
-* [AVR-Assembly-Tutorial] seems like a comprehensive, approachable,
-  and delightfully old-school-internet walkthrough of AVR Assembly programming
+See [Resources](#resources) to figure out how this code works.
 
 ### `~/uno/Makefile`
 
@@ -180,8 +158,37 @@ cd ~/uno
 make program=blink upload
 ```
 
+You should see the built-in LED labeled **L** blink on for about 1 second
+and then off for about 1 second.
+
 ## Conclusion
 
 The [insect overlords](https://www.youtube.com/watch?v=8lcUHQYhPTE) are surely
 [watching your (assembly) career with great interest](https://www.youtube.com/watch?v=67h8GyNgEmA)
 now.
+
+<h2 id="resources">Resources</h2>
+
+Resources for figuring out how the `blink.asm` code works:
+
+[Programming Arduino Uno (ATmega328P) in assembly]: https://gist.github.com/mhitza/8a4608f4dfdec20d3879
+[AVR Instruction Set Manual]: https://ww1.microchip.com/downloads/en/devicedoc/atmel-0856-avr-instruction-set-manual.pdf
+[AVR Assembler Reference]: https://ww1.microchip.com/downloads/en/DeviceDoc/40001917A.pdf
+[`m328Pdef.inc`]: https://raw.githubusercontent.com/DarkSector/AVR/master/asm/include/m328Pdef.inc
+[ATmega328P datasheet]: https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
+[ATmega328P]: https://en.wikipedia.org/wiki/ATmega328
+[AVR Delay Loop Calculator]: http://darcy.rsgc.on.ca/ACES/TEI4M/AVRdelay.html
+[AVR-Assembly-Tutorial]: http://www.avr-asm-tutorial.net/index.html
+
+* [Programming Arduino Uno (ATmega328P) in assembly]
+* [AVR Instruction Set Manual] explains the instructions (e.g. `jmp`, `sbi`,
+  `clr`, and so on)
+* [AVR Assembler Reference] explains AVR Assembly syntax and keywords (e.g.
+  `.device`, `.equ`, `.org`, and so on)
+* [`m328Pdef.inc`] is the source of the hardware definitions (e.g. `PORTB` and
+  `DDRB`)
+* [ATmega328P Datasheet] provides details on how exactly the instructions need
+  to be constructed in order to work with the Uno's MCU (the [ATmega328P])
+* [AVR Delay Loop Calculator] was the source of the delay and loop code
+* [AVR-Assembly-Tutorial] seems like a comprehensive, approachable,
+  and delightfully old-school-internet walkthrough of AVR Assembly programming
