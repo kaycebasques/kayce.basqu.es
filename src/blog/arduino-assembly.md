@@ -28,7 +28,7 @@ a tough time completing this tutorial.
 ### Equipment
 
 * Arduino Uno R3
-* Debian-based Linux laptop
+* Debian-based Linux laptop that supports `apt`
 * USB-A to USB-B cable
 
 ### Experience
