@@ -18,6 +18,7 @@
 body {
   padding: var(--space);
   background-color: white;
+  margin: 0;
 }
 
 code {
@@ -53,10 +54,6 @@ h4 {
 header {
   display: flex;
   flex-direction: column;
-}
-
-html {
-  background-color: ghostwhite;
 }
 
 img {
