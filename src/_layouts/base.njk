@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>{{title}} | Kayce Basques</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="Description" content="{{description}}">
+    <link rel="stylesheet" type="text/css" href="/main.css">
+    <link rel="icon" type="image/x-icon" href="/img/favicon.png">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul class="nav">
+          <li><a href="/">Home</a></li>
+          <li><a href="/blog">Blog</a></li>
+          <li><a href="/tw">Technical Writing</a></li>
+          <li><a href="/contact">Contact</a></li>
+          <li><a href="/questions">Questions</a></li>
+        </ul>
+      </nav>
+    </header>
+    {{content | safe}}
+    <footer>
+      <img alt="My logo (a drawing of a trickster spirit)" 
+           height="75" width="75" src="/img/logo.jpg" loading="lazy">
+    </footer>
+  </body>
+</html>

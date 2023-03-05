@@ -1,12 +1,20 @@
 ---
-layout: minimal.njk
+layout: base.njk
 title: Contact
-summary: >
-  How to contact me (Kayce Basques).
+description: How to contact me.
 ---
 
-# Contact
+# {{title}}
 
-You are welcome to email me at
-<a href="mailto:kayce@basqu.es">kayce@basqu.es</a>
-or fill out this <a href="https://forms.gle/qR2p365E9sYrb8Af8">form</a>.
+## Email
+
+My email address is my first name (Kayce) followed by my last name (Basques)
+followed by the usual ending for Gmail accounts. For example, if my name was
+John Smith, my email address would be `johnsmith@gmail.com`.
+
+## Social profiles
+
+* [LinkedIn](https://www.linkedin.com/in/kaycebasques)
+* [Twitter](https://twitter.com/kaycebasques)
+* [GitHub](https://github.com/kaycebasques)
+* [Stack Overflow](https://stackoverflow.com/users/1669860)

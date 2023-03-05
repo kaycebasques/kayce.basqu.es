@@ -1,27 +1,13 @@
 {
-  "name": "kaycebasques",
-  "private": true,
+  "name": "kayce.basqu.es",
+  "version": "2.0.0",
   "scripts": {
-    "dev": "npx @11ty/eleventy --serve",
-    "start": "npm run dev",
-    "build": "npx @11ty/eleventy",
+    "build": "npx @11ty/eleventy;",
+    "dev": "npx @11ty/eleventy --serve;",
     "deploy": "npm run build; npx firebase deploy;"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kaycebasques/kaycebasques.git"
-  },
-  "author": "Kayce Basques",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/kaycebasques/kaycebasques/issues"
-  },
-  "homepage": "https://kayce.basqu.es",
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
-    "@11ty/eleventy-plugin-rss": "^1.1.2",
-    "firebase-tools": "^7.9.0",
-    "luxon": "^1.21.3"
-  },
-  "dependencies": {}
+    "@11ty/eleventy": "^1.0.2",
+    "firebase-tools": "^11.9.0"
+  }
 }
