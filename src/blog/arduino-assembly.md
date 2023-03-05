@@ -50,11 +50,7 @@ touch ~/uno/Makefile
 ### Install `avra`
 
 ```
-cd /tmp
-git clone git@github.com:Ro5bert/avra.git
-cd avra
-make
-cp src/avra ~/uno/avra
+sudo apt install avra
 ```
 
 [assembler]: https://en.wikipedia.org/wiki/Assembly_language#Assembler
@@ -64,7 +60,7 @@ cp src/avra ~/uno/avra
 ### Install `avrdude`
 
 ```
-sudo apt-get install avrdude
+sudo apt install avrdude
 ```
 
 [`avrdude`]: https://github.com/avrdudes/avrdude/
