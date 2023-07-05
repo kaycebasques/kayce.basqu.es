@@ -1,7 +1,10 @@
 module.exports = config => {
   return {
     dir: {
-      includes: 'layouts',
+      input: 'src',
+      layouts: 'layouts',
+      output: 'out',
     },
+    markdownTemplateEngine: 'njk',
   };
 };

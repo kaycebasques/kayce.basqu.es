@@ -3,5 +3,8 @@
   "version": "3.0.0",
   "devDependencies": {
     "@11ty/eleventy": "2.0.1"
+  },
+  "scripts": {
+    "dev": "npx @11ty/eleventy --serve"
   }
 }
