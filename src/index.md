@@ -1,8 +1,12 @@
 ---
 layout: base.njk
-title: Hello, world!
+title: Home
 ---
 
 # {{ title }}
 
-This is my homepage.
+## Projects
+
+* <https://technicalwriting.tools>
+* <https://technicalwriting.guide>
+* [Pigweed AI](https://github.com/kaycebasques/pigweedai)
