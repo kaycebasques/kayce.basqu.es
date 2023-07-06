@@ -5,12 +5,12 @@ title: Home
 
 # {{ title }}
 
-Hello! Welcome to my website. I live in San Francisco. I'm married to [Gabi]. We
-have a little dog named Cheese.
+Hello! I'm Kayce. Welcome to my website. I live in San Francisco. I'm married
+to [Gabi](https://gabjoart.com). We have a little dog named Cheese. I work on
+[Pigweed](https://pigweed.dev) and [Fuchsia](https://fuchsia.dev) as a
+technical writer.
 
 ## Projects
 
 * <https://technicalwriting.tools>
-* [Pigweed AI](https://github.com/kaycebasques/pigweedai)
-
-[Gabi]: https://gabjoart.com
+* [Pigweed AI](https://kaycebasques.github.io/pigweedai/docs/ask_pigweed_ai.html)
