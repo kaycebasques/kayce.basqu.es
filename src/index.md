@@ -10,6 +10,10 @@ to [Gabi](https://gabjoart.com). We have a little dog named Cheese. I work on
 [Pigweed](https://pigweed.dev) and [Fuchsia](https://fuchsia.dev) as a
 technical writer.
 
+## Blog
+
+* [My favorite words and phrases](/blog/favorite-words-and-phrases/)
+
 ## Projects
 
 * <https://technicalwriting.tools>
