@@ -3,24 +3,14 @@ layout: base.njk
 title: My favorite words and phrases
 ---
 
-<style>
-  table {
-    border-spacing: 0;
-  }
-  th, td {
-    border-bottom: 1px solid black;
-    padding: 1em;
-  }
-</style>
-
 # {{ title }}
 
 This page is a running list of my favorite words and phrases.
 
 * **Bochecha**. *Cheek* (Brazilian Portuguese). Sounds nice. Pronounced
-  "bo-shay-shah".
+  "bo-shay-shuh".
 * **Jacaré**. *Alligator* (Brazilian Portuguese). Fun to say. Pronounced
-  "jah-kah-ray". Pronounce the J like "Jacques (Cousteau)".
+  "jah-kuh-ray". Pronounce the J like "Jacques (Cousteau)".
 * **Malaphor**. *A blending of idioms and cliches* (English). E.g.
   "it's not rocket surgery".
 * **Morta na farofa**. *Tired* (Brazilian Portuguese). Literally
