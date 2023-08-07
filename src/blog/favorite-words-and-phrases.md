@@ -15,54 +15,20 @@ title: My favorite words and phrases
 
 # {{ title }}
 
-This page is an evergreen list of my favorite words and phrases.
+This page is a running list of my favorite words and phrases.
 
-<table>
-  <tr>
-    <th>Favorite word / prhase</th>
-    <th>Meaning</th>
-    <th>Language</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>Bochecha</td>
-    <td>Cheek</td>
-    <td>Brazilian Portuguese</td>
-    <td>Sounds nice.</td>
-  </tr>
-  <tr>
-    <td>Jacaré</td>
-    <td>Alligator</td>
-    <td>Brazilian Portuguese</td>
-    <td>Sounds appropriately badass.</td>
-  </tr>
-  <tr>
-    <td>Morta na farofa</td>
-    <td>Tired</td>
-    <td>Brazilian Portuguese</td>
-    <td>Literally "dead in the <a href="https://en.wikipedia.org/wiki/Farofa">farofa</a>".</td>
-  </tr>
-  <tr>
-    <td>Piker</td>
-    <td>A gambler who only makes small bets.</td>
-    <td>American English</td>
-    <td>Don't know where I heard this definition. etymonline's description is very different.</td>
-  </tr>
-  <tr>
-    <td>Samfai</td>
-    <td>Con man</td>
-    <td>Jamaican</td>
-    <td>Sounds fitting.</td>
-  </tr>
-<!--
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
--->
-</table>
+* **Bochecha**. *Cheek* (Brazilian Portuguese). Sounds nice. Pronounced
+  "bo-shay-shah".
+* **Jacaré**. *Alligator* (Brazilian Portuguese). Fun to say. Pronounced
+  "jah-kah-ray". Pronounce the J like "Jacques (Cousteau)".
+* **Malaphor**. *A blending of idioms and cliches* (English). E.g.
+  "it's not rocket surgery".
+* **Morta na farofa**. *Tired* (Brazilian Portuguese). Literally
+  "dead in the <a href="https://en.wikipedia.org/wiki/Farofa">farofa</a>".
+* **Piker**. *A gambler who only makes small bets* (American English).
+* **Quebra cabeça**. *Jigsaw puzzle* (Brazilian Portuguese). Literally
+  "breaks head".
+* **Samfai**. *Con man* (Jamaican).
 
 <!--
 
@@ -72,7 +38,6 @@ Devaneio: dream, daydream
 Pas de deux: a dance for two people (lit. step of two)
 Agua que Passarinho não bebe: alcohol (the water that birds don't drink)
 Verboten: German word for forbidden 
-Quebra cabeça: puzzle (break head)
 Bem te ve: The little Brazilian bird that makes a sound similar to these 3 words 
 Estilingue: slingshot
 Chara: person who has same name as you
@@ -82,7 +47,6 @@ Mao de vaxa: someone who doesn't share
 Scrumping: taking fruit without permission 
 Popozuda: big butt
 Da nem pro cheiro: Not even enough to smell
-Malaphors: blending of idioms and cliches. It's not rocket surgery. 
 Aquarela: watercolor
 Um cara bom de garfo: a guy who likes his food (good with a fork)
 zangada: angry
