@@ -9,6 +9,8 @@ This page is a running list of my favorite words and phrases.
 
 * **Bochecha**. *Cheek* (Brazilian Portuguese). Sounds nice. Pronounced
   "bo-shay-shuh".
+* **Dealybob**. *The thingamajigger that you use to get the whatchamacallit working*
+  (American English).
 * **Jacaré**. *Alligator* (Brazilian Portuguese). Fun to say. Pronounced
   "jah-kuh-ray". Pronounce the J like "Jacques (Cousteau)".
 * **Malaphor**. *A blending of idioms and cliches* (English). E.g.
