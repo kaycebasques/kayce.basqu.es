@@ -13,6 +13,7 @@ technical writer.
 ## Blog
 
 * [My favorite words and phrases](/blog/favorite-words-and-phrases/)
+* [Notes on the origin(s) of life](/notes/life/)
 
 ## Projects
 
