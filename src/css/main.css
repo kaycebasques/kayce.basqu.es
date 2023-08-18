@@ -7,6 +7,10 @@ body {
   padding: 1em;
 }
 
+footer {
+  margin: 1em auto 0 auto;
+}
+
 nav {
   display: flex;
   justify-content: flex-end;
