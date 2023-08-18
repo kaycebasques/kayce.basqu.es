@@ -19,3 +19,7 @@ nav {
   display: flex;
   justify-content: flex-end;
 }
+
+ul li {
+  margin-bottom: 0.5em;
+}
