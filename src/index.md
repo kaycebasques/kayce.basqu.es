@@ -13,9 +13,4 @@ technical writer.
 ## Blog
 
 * [My favorite words and phrases](/blog/favorite-words-and-phrases/)
-* [Notes on the origin(s) of life](/notes/life/)
-
-## Projects
-
-* <https://technicalwriting.tools>
-* [Pigweed AI](https://kaycebasques.github.io/pigweedai/docs/ask_pigweed_ai.html)
+* [Proper Full Moon songs](/blog/moon/)
