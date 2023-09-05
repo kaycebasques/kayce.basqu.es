@@ -9,9 +9,9 @@ It's natural for me to think about lineages from the perspective of the
 ancestor. E.g. my grandpa had 5 kids; those 5 kids produced 9 grandkids; those
 9 grandkids produced 3 great-grandkids (so far); 17 descendants in total.
 
-Over the last few days, I've been getting a big kick out of thinking about
-the situation in reverse, from the perspective of the descendant. Here's a quote
-from *Genes: A Very Short Introduction* by Jonathan Slack:
+Over the last few days, I've been having fun thinking about the situation in
+reverse, from the perspective of the descendant. Here's a quote from *Genes:
+A Very Short Introduction* by Jonathan Slack:
 
 > Also, when considering 'roots', some of the basic mathematics of inheritance
 > needs to be borne in mind. With fully random matings the number of your
@@ -24,3 +24,180 @@ from *Genes: A Very Short Introduction* by Jonathan Slack:
 > they are still ancestors on the lineage. So, even though we all have an
 > ancestry running back to the origin of life on Earth, we do not necessarily
 > have any DNA variants from most of our ancestors.
+
+There's probably a point when the numbers get nonsensical, right? We double
+the number of ancestors every generation. At what point does the number of
+ancestors exceed the number of humans that were probably alive at that point
+in time? I will probably mess up the math, but let's give it a shot. Slack
+(the author, not the knowledge blackhole) says that ten generations ago is
+250-300 years, so let's take the low value (250) and assume 25 years between
+each generation. We'll also assume that you were born today (happy birthday!).
+
+<table>
+  <thead>
+    <tr>
+      <th>Year of birth</th>
+      <th># of generations before you</th>
+      <th># of ancestors</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1998</td>
+      <td>1 (parents)</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>1973</td>
+      <td>2 (grandparents)</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>1948</td>
+      <td>3 (great-grandparents)</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>1923</td>
+      <td>4</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td>1898</td>
+      <td>5</td>
+      <td>32</td>
+    </tr>
+    <tr>
+      <td>1873</td>
+      <td>6</td>
+      <td>64</td>
+    </tr>
+    <tr>
+      <td>1848</td>
+      <td>7</td>
+      <td>128</td>
+    </tr>
+    <tr>
+      <td>1823</td>
+      <td>8</td>
+      <td>256</td>
+    </tr>
+    <tr>
+      <td>1798</td>
+      <td>9</td>
+      <td>512</td>
+    </tr>
+    <tr>
+      <td>1773</td>
+      <td>10</td>
+      <td>1024</td>
+    </tr>
+    <tr>
+      <td>1748</td>
+      <td>11</td>
+      <td>2048</td>
+    </tr>
+    <tr>
+      <td>1723</td>
+      <td>12</td>
+      <td>4096</td>
+    </tr>
+    <tr>
+      <td>1698</td>
+      <td>13</td>
+      <td>8192</td>
+    </tr>
+    <tr>
+      <td>1673</td>
+      <td>14</td>
+      <td>16384</td>
+    </tr>
+    <tr>
+      <td>1648</td>
+      <td>15</td>
+      <td>32768</td>
+    </tr>
+    <tr>
+      <td>1623</td>
+      <td>16</td>
+      <td>65536</td>
+    </tr>
+    <tr>
+      <td>1598</td>
+      <td>17</td>
+      <td>131072</td>
+    </tr>
+    <tr>
+      <td>1573</td>
+      <td>18</td>
+      <td>262144</td>
+    </tr>
+    <tr>
+      <td>1548</td>
+      <td>19</td>
+      <td>524288</td>
+    </tr>
+    <tr>
+      <td>1523</td>
+      <td>20</td>
+      <td>1048576</td>
+    </tr>
+    <tr>
+      <td>1498</td>
+      <td>21</td>
+      <td>2097152</td>
+    </tr>
+    <tr>
+      <td>1473</td>
+      <td>22</td>
+      <td>4194304</td>
+    </tr>
+    <tr>
+      <td>1448</td>
+      <td>23</td>
+      <td>8388608</td>
+    </tr>
+    <tr>
+      <td>1423</td>
+      <td>24</td>
+      <td>16777216</td>
+    </tr>
+    <tr>
+      <td>1398</td>
+      <td>25</td>
+      <td>33554432</td>
+    </tr>
+    <tr>
+      <td>1373</td>
+      <td>26</td>
+      <td>67108864</td>
+    </tr>
+    <tr>
+      <td>1348</td>
+      <td>27</td>
+      <td>134217728</td>
+    </tr>
+    <tr>
+      <td>1323</td>
+      <td>28</td>
+      <td>268435456</td>
+    </tr>
+    <tr>
+      <td>1298</td>
+      <td>29</td>
+      <td>536870912</td>
+    </tr>
+    <tr>
+      <td>1273</td>
+      <td>30</td>
+      <td>1073741824</td>
+    </tr>
+  </tbody>
+</table>
+
+If my calculations are correct, which they surely are not, then it seems like
+the calculation stops making sense around 1300. [Estimates of historical
+world population](https://en.wikipedia.org/wiki/Estimates_of_historical_world_population)
+says that the world population around 1300 was between 300M and 500M, whereas my
+hilariously flawed logic says that I should have around 1.1B ancestors at that
+point. What am I holding wrong here?
