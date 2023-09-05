@@ -206,6 +206,6 @@ point.
 Regardless, I'm pretty sure the basic premise holds: you've got a lot of ancestors.
 
 Edit: Updated the title from `You have thousands of ancestors from the 1600s`
-to `You (maybe?) have thousands of ancestors from the 1600s` to reflect what
-I've learned in the [Hacker News discussion](https://news.ycombinator.com/item?id=37387341)
-of this post.
+to `You (maybe?) have thousands of ancestors from the 1600s` to reflect multiple
+comments from the [Hacker News discussion of this post](https://news.ycombinator.com/item?id=37387341)
+along the lines of "the real world situation is much more complicated".
