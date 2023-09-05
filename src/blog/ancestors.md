@@ -203,4 +203,4 @@ says that the world population around 1300 was between 300M and 500M, whereas my
 hilariously flawed logic says that I should have more than 1B ancestors at that
 point.
 
-Nonetheless, the basic premise holds: you've got a lot of ancestors.
+Regardless, I'm pretty sure the basic premise holds: you've got a lot of ancestors.
