@@ -22,6 +22,10 @@ nav {
   justify-content: flex-end;
 }
 
+table {
+  width: 100%;
+}
+
 ul li {
   margin-bottom: 0.5em;
 }
