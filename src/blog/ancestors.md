@@ -90,107 +90,107 @@ each generation. We'll also assume that you were born today (happy birthday!).
     <tr>
       <td>1773</td>
       <td>10</td>
-      <td>1024</td>
+      <td>1,024</td>
     </tr>
     <tr>
       <td>1748</td>
       <td>11</td>
-      <td>2048</td>
+      <td>2,048</td>
     </tr>
     <tr>
       <td>1723</td>
       <td>12</td>
-      <td>4096</td>
+      <td>4,096</td>
     </tr>
     <tr>
       <td>1698</td>
       <td>13</td>
-      <td>8192</td>
+      <td>8,192</td>
     </tr>
     <tr>
       <td>1673</td>
       <td>14</td>
-      <td>16384</td>
+      <td>16,384</td>
     </tr>
     <tr>
       <td>1648</td>
       <td>15</td>
-      <td>32768</td>
+      <td>32,768</td>
     </tr>
     <tr>
       <td>1623</td>
       <td>16</td>
-      <td>65536</td>
+      <td>65,536</td>
     </tr>
     <tr>
       <td>1598</td>
       <td>17</td>
-      <td>131072</td>
+      <td>131,072</td>
     </tr>
     <tr>
       <td>1573</td>
       <td>18</td>
-      <td>262144</td>
+      <td>262,144</td>
     </tr>
     <tr>
       <td>1548</td>
       <td>19</td>
-      <td>524288</td>
+      <td>524,288</td>
     </tr>
     <tr>
       <td>1523</td>
       <td>20</td>
-      <td>1048576</td>
+      <td>1,048,576</td>
     </tr>
     <tr>
       <td>1498</td>
       <td>21</td>
-      <td>2097152</td>
+      <td>2,097,152</td>
     </tr>
     <tr>
       <td>1473</td>
       <td>22</td>
-      <td>4194304</td>
+      <td>4,194,304</td>
     </tr>
     <tr>
       <td>1448</td>
       <td>23</td>
-      <td>8388608</td>
+      <td>8,388,608</td>
     </tr>
     <tr>
       <td>1423</td>
       <td>24</td>
-      <td>16777216</td>
+      <td>16,777,216</td>
     </tr>
     <tr>
       <td>1398</td>
       <td>25</td>
-      <td>33554432</td>
+      <td>33,554,432</td>
     </tr>
     <tr>
       <td>1373</td>
       <td>26</td>
-      <td>67108864</td>
+      <td>67,108,864</td>
     </tr>
     <tr>
       <td>1348</td>
       <td>27</td>
-      <td>134217728</td>
+      <td>134,217,728</td>
     </tr>
     <tr>
       <td>1323</td>
       <td>28</td>
-      <td>268435456</td>
+      <td>268,435,456</td>
     </tr>
     <tr>
       <td>1298</td>
       <td>29</td>
-      <td>536870912</td>
+      <td>536,870,912</td>
     </tr>
     <tr>
       <td>1273</td>
       <td>30</td>
-      <td>1073741824</td>
+      <td>1,073,741,824</td>
     </tr>
   </tbody>
 </table>
@@ -199,5 +199,5 @@ If my calculations are correct, which they surely are not, then it seems like
 the calculation stops making sense around 1300. [Estimates of historical
 world population](https://en.wikipedia.org/wiki/Estimates_of_historical_world_population)
 says that the world population around 1300 was between 300M and 500M, whereas my
-hilariously flawed logic says that I should have around 1.1B ancestors at that
-point. What am I holding wrong here?
+hilariously flawed logic says that I should have more than 1B ancestors at that
+point.
