@@ -31,7 +31,7 @@ ancestors exceed the number of humans that were probably alive at that point
 in time? I will surely mess up the math, but let's give it a shot. Slack
 (the author, not the blackhole of knowledge) says that ten generations ago is
 250-300 years, so let's take the low value (250) and assume 25 years between
-each generation. We'll also assume that you were born today (happy birthday!).
+each generation. We'll also assume that you were born today (happy birthday!):
 
 <table>
   <thead>
