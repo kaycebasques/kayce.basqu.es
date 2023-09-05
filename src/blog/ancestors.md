@@ -1,13 +1,13 @@
 ---
 layout: base.njk
-title: You have thousands of ancestors from the 1700s
+title: You have thousands of ancestors from the 1600s
 ---
 
 # {{ title }}
 
-It's natural for me to think about lineages from the perspective of the
-ancestor. E.g. my grandpa had 5 kids; those 5 kids produced 9 grandkids; those
-9 grandkids produced 3 great-grandkids (so far); 17 descendants in total.
+I usually think about lineages from the perspective of the ancestor. E.g. my
+grandpa had 5 kids; those 5 kids produced 9 grandkids; those 9 grandkids
+produced 3 great-grandkids (so far); 17 descendants in total.
 
 Over the last few days, I've been having fun thinking about the situation in
 reverse, from the perspective of the descendant. Here's a quote from *Genes:
@@ -195,7 +195,7 @@ each generation. We'll also assume that you were born today (happy birthday!).
   </tbody>
 </table>
 
-If my calculations are correct, which they definitely are not, then it seems like
+If my calculations are correct, which they surely are not, then it seems like
 the math [stops making sense](https://www.youtube.com/watch?v=9r7X3f2gFz4&t=239s)
 around 1300. [Estimates of historical world
 population](https://en.wikipedia.org/wiki/Estimates_of_historical_world_population)
@@ -203,8 +203,4 @@ says that the world population around 1300 was between 300M and 500M, whereas my
 hilariously flawed logic says that I should have more than 1B ancestors at that
 point.
 
-Nonetheless, the basic premise holds: you've got a lot of ancestors. So when
-your DNA test tells you that you descend from your favorite type of people
-from your favorite country, that could very well be true. But it's probably
-true as well that you also descend from your least-favorite type of people
-from your least-favorite country, too!
+Nonetheless, the basic premise holds: you've got a lot of ancestors.
