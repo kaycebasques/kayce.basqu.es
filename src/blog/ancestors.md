@@ -28,8 +28,8 @@ A Very Short Introduction* by Jonathan Slack:
 There's probably a point when the numbers get nonsensical, right? We double
 the number of ancestors every generation. At what point does the number of
 ancestors exceed the number of humans that were probably alive at that point
-in time? I will probably mess up the math, but let's give it a shot. Slack
-(the author, not the knowledge blackhole) says that ten generations ago is
+in time? I will surely mess up the math, but let's give it a shot. Slack
+(the author, not the blackhole of knowledge) says that ten generations ago is
 250-300 years, so let's take the low value (250) and assume 25 years between
 each generation. We'll also assume that you were born today (happy birthday!).
 
@@ -195,9 +195,16 @@ each generation. We'll also assume that you were born today (happy birthday!).
   </tbody>
 </table>
 
-If my calculations are correct, which they surely are not, then it seems like
-the calculation stops making sense around 1300. [Estimates of historical
-world population](https://en.wikipedia.org/wiki/Estimates_of_historical_world_population)
+If my calculations are correct, which they definitely are not, then it seems like
+the math [stops making sense](https://www.youtube.com/watch?v=9r7X3f2gFz4&t=239s)
+around 1300. [Estimates of historical world
+population](https://en.wikipedia.org/wiki/Estimates_of_historical_world_population)
 says that the world population around 1300 was between 300M and 500M, whereas my
 hilariously flawed logic says that I should have more than 1B ancestors at that
 point.
+
+Nonetheless, the basic premise holds: you've got a lot of ancestors. So when
+your DNA test tells you that you descend from your favorite type of people
+from your favorite country, that could very well be true. But it's probably
+true as well that you also descend from your least-favorite type of people
+from your least-favorite country, too!
