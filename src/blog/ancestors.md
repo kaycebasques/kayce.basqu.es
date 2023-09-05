@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: You (maybe?) have thousands of ancestors from the 1600s
+title: "You (maybe?) have thousands of ancestors from the 1600s"
 ---
 
 # {{ title }}
