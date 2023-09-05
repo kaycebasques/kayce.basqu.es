@@ -14,3 +14,4 @@ technical writer.
 
 * [My favorite words and phrases](/blog/favorite-words-and-phrases/)
 * [Proper Full Moon songs](/blog/moon/)
+* [You have thousands of ancestors from the 1700s](/blog/ancestors/)
