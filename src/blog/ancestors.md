@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: You have thousands of ancestors from the 1600s
+title: You (maybe?) have thousands of ancestors from the 1600s
 ---
 
 # {{ title }}
@@ -204,3 +204,8 @@ hilariously flawed logic says that I should have more than 1B ancestors at that
 point.
 
 Regardless, I'm pretty sure the basic premise holds: you've got a lot of ancestors.
+
+Edit: Updated the title from `You have thousands of ancestors from the 1600s`
+to `You (maybe?) have thousands of ancestors from the 1600s` to reflect what
+I've learned in the [Hacker News discussion](https://news.ycombinator.com/item?id=37387341)
+of this post.
