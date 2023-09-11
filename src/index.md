@@ -12,6 +12,9 @@ technical writer.
 
 ## Blog
 
-* [My favorite words and phrases](/blog/favorite-words-and-phrases/)
 * [Proper Full Moon songs](/blog/moon/)
 * [You (maybe?) have thousands of ancestors from the 1600s](/blog/ancestors/)
+
+## A few of my favorite things
+
+* [My favorite words (and phrases)](/favorites/words/)

@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: My favorite words and phrases
+title: My favorite words (and phrases)
 ---
 
 # {{ title }}
