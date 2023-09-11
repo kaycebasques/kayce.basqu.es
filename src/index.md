@@ -15,6 +15,9 @@ technical writer.
 * [Proper Full Moon songs](/blog/moon/)
 * [You (maybe?) have thousands of ancestors from the 1600s](/blog/ancestors/)
 
-## A few of my favorite things
+## Favorites
 
-* [My favorite words (and phrases)](/favorites/words/)
+My favorite...
+
+* [Words (and phrases)](/favorites/words/)
+* [Lyrics](/favorites/lyrics/)
