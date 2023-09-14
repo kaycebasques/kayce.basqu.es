@@ -14,6 +14,7 @@ technical writer.
 
 * [Proper Full Moon songs](/blog/moon/)
 * [You (maybe?) have thousands of ancestors from the 1600s](/blog/ancestors/)
+* [Vim cheatsheet](/blog/vim/)
 
 ## Favorites
 
