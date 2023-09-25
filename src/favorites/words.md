@@ -21,6 +21,7 @@ This page is a running list of my favorite words and phrases.
 * **Quebra cabeça**. *Jigsaw puzzle* (Brazilian Portuguese). Literally
   "breaks head".
 * **Samfai**. *Con man* (Jamaican).
+* **Vertrouwen komt te voet en gaat te paard**. *Trust arrives on foot and leaves on horseback* (Dutch). [Source](https://news.ycombinator.com/item?id=37649699).
 
 <!--
 
