@@ -15,6 +15,7 @@ technical writer.
 * [Proper Full Moon songs](/blog/moon/)
 * [You (maybe?) have thousands of ancestors from the 1600s](/blog/ancestors/)
 * [Vim cheatsheet](/blog/vim/)
+* [Why I'm taking a sabbatical](/blog/sabbatical/)
 
 ## Favorites
 
