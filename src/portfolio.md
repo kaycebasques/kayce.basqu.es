@@ -8,6 +8,26 @@ title: Portfolio
 This is a comprehensive, roughly chronological list of everything I've created as a technical
 writer.
 
+<h2 id="highlights">Highlights</h2>
+
+* [Facades and backends](https://web.archive.org/web/20231019225819/https://pigweed.dev/docs/facades.html).
+  I am proud of this one because it represents my ability to collaborate, to grasp
+  technically challenging concepts, and to get stuff done. After I joined I realized
+  that this was one of those situations where the team knew they desperately needed
+  a doc but could never prioritize the time and energy needed to create it. I knew
+  it was desperately needed because I had heard that many customers were confused by
+  these concepts and had explicitly requested docs on the topics. I got
+  the team lead and a few engineers together to brainstorm how to explain these ideas.
+  I am very thankful that I remembered to record the conversation, because I needed to
+  refer back to that meeting many times while drafting the doc. After [a couple rounds
+  of reviews](https://pigweed-review.googlesource.com/c/pigweed/pigweed/+/170602) the
+  doc published and now we have a solid explanation on the site for some absolutely
+  critical concepts!
+
+<h2 id="pigweed">Pigweed (Feb 2023 to Present)</h2>
+
+* [Facades and backends](https://web.archive.org/web/20231019225819/https://pigweed.dev/docs/facades.html).
+
 <h2 id="talks">Talks</h2>
 
 * [Improving Response Rates](https://youtu.be/d_ZXFqG39hc). My lightning talk
