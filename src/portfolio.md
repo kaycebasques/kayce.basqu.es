@@ -10,19 +10,24 @@ writer.
 
 <h2 id="highlights">Highlights</h2>
 
-* [Facades and backends](https://web.archive.org/web/20231019225819/https://pigweed.dev/docs/facades.html).
-  I am proud of this one because it represents my ability to collaborate, to grasp
-  technically challenging concepts, and to get stuff done. After I joined I realized
-  that this was one of those situations where the team knew they desperately needed
-  a doc but could never prioritize the time and energy needed to create it. I knew
-  it was desperately needed because I had heard that many customers were confused by
-  these concepts and had explicitly requested docs on the topics. I got
-  the team lead and a few engineers together to brainstorm how to explain these ideas.
-  I am very thankful that I remembered to record the conversation, because I needed to
-  refer back to that meeting many times while drafting the doc. After [a couple rounds
-  of reviews](https://pigweed-review.googlesource.com/c/pigweed/pigweed/+/170602) the
-  doc published and now we have a solid explanation on the site for some absolutely
-  critical concepts!
+[Facades and backends]: https://web.archive.org/web/20231019225819/https://pigweed.dev/docs/facades.html
+[Case study guidelines]: https://web.archive.org/web/20230314030711/https://web.dev/handbook/case-study-guidelines/
+[review]: https://pigweed-review.googlesource.com/c/pigweed/pigweed/+/170602
+
+* [Facades and backends]. I am proud of this because it required deep collaboration
+  and ability to understand and explain complex concepts. As I was ramping up on
+  Pigweed I kept hearing how customers were confused about facades and backends. The
+  team knew we needed a doc on these concepts but just couldn't find the time to
+  prioritize the work. I got the team lead and a few engineers together to explain
+  these ideas and brainstorm how to document them. I'm thankful I recorded the
+  conversation because I referred back to that recording many times while drafting
+  the doc. Given that the engineers didn't request drastic rewrites during my [review]
+  I infer that I grokked the concepts pretty well. A key part of my grokking process is
+  to build prototypes myself: in this case I built a small embedded app that made use
+  of facades and backends.
+* [Case study guidelines](https://web.archive.org/web/20230314030711/https://web.dev/handbook/case-study-guidelines/).
+  I created these guidelines for web.dev contributors back when I was content lead
+  for that site.
 
 <h2 id="pigweed">Pigweed (Feb 2023 to Present)</h2>
 
@@ -100,6 +105,14 @@ per week. I also created a sample app for them. Here is how the docs looked
     ([PDF](https://drive.google.com/file/d/14NmnVE7PA9psxH1vzehZx70D_UzNFXy_/view?usp=sharing))
 
 <h2 id="google">Google (2015 to 2021)</h2>
+
+<h3 id="google__content-lead">Content lead</h3>
+
+These are content guidelines that I created for contributors to web.dev and
+developer.chrome.com back when I was content lead for those sites.
+
+* [Case study guidelines](https://web.archive.org/web/20230314030711/https://web.dev/handbook/case-study-guidelines/)
+* [Content quality guidelines](https://web.archive.org/web/20230329155818/https://web.dev/handbook/quality/)
 
 <h3 id="google__tools">Tools</h3>
 
