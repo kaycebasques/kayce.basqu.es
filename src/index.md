@@ -6,7 +6,7 @@ title: Home
 # {{ title }}
 
 Hello! I'm Kayce. Welcome to my website. I live in San Francisco. I'm married
-to [Gabi](https://gabjoart.com). We have a little dog named Cheese. 
+to [Gabi](https://gabjoart.com). We have a little dog named [Cheese](/img/cheebo.jpg).
 
 ## Work
 
