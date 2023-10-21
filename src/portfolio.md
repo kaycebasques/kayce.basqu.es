@@ -27,6 +27,7 @@ writer.
   to build prototypes myself: in this case I built a small embedded app that made use
   of facades and backends.
 * [Optimize website speed](https://web.archive.org/web/20190405102112/https://developers.google.com/web/tools/chrome-devtools/speed/get-started).
+  Note that the archived version of this page is a bit buggy.
   This tutorial is an example of my ability to do holistic, user-focused thinking.
   Chrome DevTools is a complex product with many, many features. In this tutorial I
   focused on a real user need (figuring out how to make a website faster) and explained
@@ -35,7 +36,8 @@ writer.
   users could get hands-on experience with all the tools. I hosted the sample app on an
   free and easy-to-use hosting service (Glitch) to ensure that all users could access
   the hands-on experience. Last, I made the tutorial fun! Check out the story about
-  Tony the cat to see for yourself.
+  Tony the cat to see for yourself. I also created a [video version of the tutorial](https://www.youtube.com/watch?v=5fLW5Q5ODiE).
+  Based on the YouTube comments, the feedback is overwhelmingly positive!
 * [Case study guidelines]. I created these guidelines for web.dev contributors back
   when I was content lead for that site. Case studies were very important for getting
   enterprise partners to adopt new web platform technologies. A lot of Googlers in
