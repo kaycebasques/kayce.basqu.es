@@ -1,11 +1,11 @@
 ---
 layout: base.njk
-title: My favorite words (and phrases)
+title: My favorite words
 ---
 
 # {{ title }}
 
-This page is a running list of my favorite words and phrases.
+This page is a running list of my favorite words.
 
 * **Bochecha**. *Cheek* (Brazilian Portuguese). Sounds nice. Pronounced
   "bo-shay-shuh".
@@ -15,15 +15,19 @@ This page is a running list of my favorite words and phrases.
   "jah-kuh-ray". Pronounce the J like "Jacques (Cousteau)".
 * **Malaphor**. *A blending of idioms and cliches* (English). E.g.
   "it's not rocket surgery".
-* **Morta na farofa**. *Tired* (Brazilian Portuguese). Literally
-  "dead in the <a href="https://en.wikipedia.org/wiki/Farofa">farofa</a>".
 * **Piker**. *A gambler who only makes small bets* (American English).
-* **Quebra cabeça**. *Jigsaw puzzle* (Brazilian Portuguese). Literally
-  "breaks head".
 * **Samfai**. *Con man* (Jamaican).
-* **Vertrouwen komt te voet en gaat te paard**. *Trust arrives on foot and leaves on horseback* (Dutch). [Source](https://news.ycombinator.com/item?id=37649699).
 
 <!--
+
+* **Morta na farofa**. *Tired* (Brazilian Portuguese). Literally
+  "dead in the <a href="https://en.wikipedia.org/wiki/Farofa">farofa</a>".
+
+
+* **Quebra cabeça**. *Jigsaw puzzle* (Brazilian Portuguese). Literally
+  "breaks head".
+
+* **Vertrouwen komt te voet en gaat te paard**. *Trust arrives on foot and leaves on horseback* (Dutch). [Source](https://news.ycombinator.com/item?id=37649699).
 
 de cor - by heart - "know it by heart"
 dormi dormi - plant that curls up
