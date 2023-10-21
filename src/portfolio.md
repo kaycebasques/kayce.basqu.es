@@ -13,6 +13,7 @@ writer.
 [Facades and backends]: https://web.archive.org/web/20231019225819/https://pigweed.dev/docs/facades.html
 [Case study guidelines]: https://web.archive.org/web/20230314030711/https://web.dev/handbook/case-study-guidelines/
 [review]: https://pigweed-review.googlesource.com/c/pigweed/pigweed/+/170602
+[Optimize website speed]: https://web.archive.org/web/20190405102112/https://developers.google.com/web/tools/chrome-devtools/speed/get-started
 
 * [Facades and backends]. I am proud of this because it required deep collaboration
   and ability to understand and explain complex concepts. As I was ramping up on
@@ -25,9 +26,23 @@ writer.
   I infer that I grokked the concepts pretty well. A key part of my grokking process is
   to build prototypes myself: in this case I built a small embedded app that made use
   of facades and backends.
-* [Case study guidelines](https://web.archive.org/web/20230314030711/https://web.dev/handbook/case-study-guidelines/).
-  I created these guidelines for web.dev contributors back when I was content lead
-  for that site.
+* [Optimize website speed](https://web.archive.org/web/20190405102112/https://developers.google.com/web/tools/chrome-devtools/speed/get-started).
+  This tutorial is an example of my ability to do holistic, user-focused thinking.
+  Chrome DevTools is a complex product with many, many features. In this tutorial I
+  focused on a real user need (figuring out how to make a website faster) and explained
+  all the features within DevTools that can help users achieve that goal, tying all the
+  features together into a holistic workflow. I created a sample app in React so that
+  users could get hands-on experience with all the tools. I hosted the sample app on an
+  free and easy-to-use hosting service (Glitch) to ensure that all users could access
+  the hands-on experience. Last, I made the tutorial fun! Check out the story about
+  Tony the cat to see for yourself.
+* [Case study guidelines]. I created these guidelines for web.dev contributors back
+  when I was content lead for that site. Case studies were very important for getting
+  enterprise partners to adopt new web platform technologies. A lot of Googlers in
+  partner-interfacing roles wanted to write case studies, but the writing quality was
+  all across the board. I created these guidelines to set quality expectations and
+  help potential contributors figure out how to create high-quality case studies. This
+  is one of many examples of my experience with scaling up docs quality beyond myself.
 
 <h2 id="pigweed">Pigweed (Feb 2023 to Present)</h2>
 
