@@ -33,10 +33,10 @@ writer.
   focused on a real user need (figuring out how to make a website faster) and explained
   all the features within DevTools that can help users achieve that goal, tying all the
   features together into a holistic workflow. I created a sample app in React so that
-  users could get hands-on experience with all the tools. I hosted the sample app on an
+  users could get hands-on experience with all the tools. I hosted the sample app on a
   free and easy-to-use hosting service (Glitch) to ensure that all users could access
-  the hands-on experience. Last, I made the tutorial fun! Check out the story about
-  Tony the cat to see for yourself. I also created a [video version of the tutorial](https://www.youtube.com/watch?v=5fLW5Q5ODiE).
+  the hands-on experience. Last, I made the tutorial fun! See the stuff about Tony the cat
+  to see what I mean. I also created a [video version of the tutorial](https://www.youtube.com/watch?v=5fLW5Q5ODiE).
   Based on the YouTube comments, the feedback is overwhelmingly positive!
 * [Case study guidelines]. I created these guidelines for web.dev contributors back
   when I was content lead for that site. Case studies were very important for getting
