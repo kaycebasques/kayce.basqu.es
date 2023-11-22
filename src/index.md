@@ -11,11 +11,17 @@ to [Gabi](https://instagram.com/gabjoart). We have a little dog named
 
 ## Work
 
-My career is technical writing. My higher calling in this work is to share
-knowledge effectively and to help others do the same. I've been doing it for
-more than 10 years now. I currently work on [Pigweed](https://pigweed.dev).
+I'm a technical writer. I've been slangin' words for going on 10 years now.
+I'm currently docs lead for [Pigweed](https://pigweed.dev).
 
+* [Resume](/resume.pdf)
 * [Portfolio](/portfolio/)
+
+# Projects
+
+* [technicalwriting.tools](https://technicalwriting.tools)
+* [technicalwriting.guide](https://technicalwriting.guide)
+* [biodigitaljazz.net](https://biodigitaljazz.net)
 
 ## Blog
 
