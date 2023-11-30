@@ -11,5 +11,5 @@ layout: base.njk
 </noscript>
 
 <script>
-  window.location.replace('https://storage.googleapis.com/pigweed-docs-try/8764421309469306785/index.html?gerrit_name=pigweed&change=180631&patchset=27');
+  window.location.replace('https://storage.googleapis.com/pigweed-docs-try/8763040504265972865/index.html?gerrit_name=pigweed&change=180631&patchset=29');
 </script>
