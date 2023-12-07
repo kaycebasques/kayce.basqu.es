@@ -46,6 +46,21 @@ writer.
   help potential contributors figure out how to create high-quality case studies. This
   is one of many examples of my experience with scaling up docs quality beyond myself.
 
+<h2 id="technicalwritingtools">technicalwriting.tools</h2>
+
+My personal blog about the technology of technical writing.
+
+* [Generating page summaries with HuggingFace summarization models](https://technicalwriting.tools/posts/huggingface-summarization-models/)
+* [Evaluating the quality of my retrieval-augmented generation system](https://technicalwriting.tools/posts/evals/)
+* [Wrangling verbatim text in a Doxygen + Breathe + Sphinx system](https://technicalwriting.tools/posts/verbatim-wrangling/)
+* [Software engineers want offline docs](https://technicalwriting.tools/posts/offline-docs/)
+* [Fine-tuning an LLM into a style guide editor](https://technicalwriting.tools/posts/style-guide-fine-tuning/)
+* [Response to Tom's "10 principles for writing for AI"](https://technicalwriting.tools/posts/ten-principles-response/)
+* [Positioning your docs to play nicely with generative AI](https://technicalwriting.tools/posts/playing-nicely-with-generative-ai/)
+* [The role of web service API reference documentation in ChatGPT Plugins](https://technicalwriting.tools/posts/chatgpt-plugins/)
+* [The curious case of the missing link text automation feature](https://technicalwriting.tools/posts/link-text-automation/)
+* [Initial thoughts about the potential impact of generative AI on technical writing](https://technicalwriting.tools/posts/generative-ai/)
+
 <h2 id="pigweed">Pigweed (Feb 2023 to Present)</h2>
 
 * [Facades and backends](https://web.archive.org/web/20231019225819/https://pigweed.dev/docs/facades.html).
