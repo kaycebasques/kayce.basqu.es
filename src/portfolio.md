@@ -63,7 +63,11 @@ My personal blog about the technology of technical writing.
 
 <h2 id="pigweed">Pigweed (Feb 2023 to Present)</h2>
 
-* [Facades and backends](https://web.archive.org/web/20231019225819/https://pigweed.dev/docs/facades.html).
+* [Get started with Bazel](https://pigweed.dev/docs/get_started/bazel.html)
+* [Facades and backends](https://web.archive.org/web/20231019225819/https://pigweed.dev/docs/facades.html)
+* [Changelog](https://pigweed.dev/docs/contributing/module_docs.html)
+* [Changelog guidelines & automation tool](https://pigweed.dev/docs/contributing/changelog.html)
+* [Glossary](https://pigweed.dev/docs/glossary.html)
 
 <h2 id="talks">Talks</h2>
 
