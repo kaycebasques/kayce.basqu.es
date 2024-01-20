@@ -17,7 +17,7 @@ I'm currently docs lead for [Pigweed](https://pigweed.dev).
 * [Resume](/resume.pdf)
 * [Portfolio](/portfolio/)
 
-# Projects
+## Projects
 
 * [Pigweed Assistant](/pigweed-assistant/)
 * [technicalwriting.tools](https://technicalwriting.tools)
