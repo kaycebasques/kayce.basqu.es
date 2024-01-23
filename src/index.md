@@ -27,6 +27,5 @@ I'm currently docs lead for [Pigweed](https://pigweed.dev).
 ## Blog
 
 * [Proper Full Moon songs](/blog/moon/)
-* [You have thousands of ancestors from the 1500s](/blog/ancestors/)
 * [Why I'm taking a sabbatical](/blog/sabbatical/)
 * [My favorite words](/blog/words/)
