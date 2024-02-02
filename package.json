@@ -7,6 +7,6 @@
   "scripts": {
     "build": "npx @11ty/eleventy",
     "dev": "npx @11ty/eleventy --serve",
-    "deploy": "npm ci && npm run build"
+    "deploy": "npm ci && npm run build && firebase deploy"
   }
 }
