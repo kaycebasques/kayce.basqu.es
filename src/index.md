@@ -27,3 +27,11 @@ I'm currently docs lead for [Pigweed](https://pigweed.dev).
 * [Proper Full Moon songs](/blog/moon/)
 * [Why I'm taking a sabbatical](/blog/sabbatical/)
 * [My favorite words](/blog/words/)
+
+## Profiles
+
+* [Lobsters](https://lobste.rs/~kaycebasques)
+* [Hacker News](https://news.ycombinator.com/user?id=kaycebasques)
+* [GitHub](https://github.com/kaycebasques)
+* [Twitter](https://twitter.com/kaycebasques)
+* [LinkedIn](https://www.linkedin.com/in/kaycebasques)
