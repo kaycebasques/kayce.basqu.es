@@ -6,8 +6,7 @@ title: Home
 # {{ title }}
 
 Hello! I'm Kayce. Welcome to my website. I live in San Francisco. I'm married
-to [Gabi](https://instagram.com/gabjoart). We have a little dog named
-[Cheese](/img/cheebo.jpg).
+to [Gabi](https://gabjo.art). We have a little dog named [Cheese](/img/cheebo.jpg).
 
 ## Work
 
@@ -35,3 +34,4 @@ I'm currently docs lead for [Pigweed](https://pigweed.dev).
 * [GitHub](https://github.com/kaycebasques)
 * [Twitter](https://twitter.com/kaycebasques)
 * [LinkedIn](https://www.linkedin.com/in/kaycebasques)
+* [Reddit](https://www.reddit.com/user/kaycebasques/)
