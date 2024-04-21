@@ -17,6 +17,10 @@ footer p {
   text-align: center;
 }
 
+img {
+  max-width: 100%;
+}
+
 nav {
   display: flex;
   justify-content: flex-end;

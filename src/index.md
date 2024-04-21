@@ -18,9 +18,9 @@ I'm currently docs lead for [Pigweed](https://pigweed.dev).
 
 ## Projects
 
-* [technicalwriting.tools](https://technicalwriting.tools)
-* [technicalwriting.guide](https://technicalwriting.guide)
+* [technicalwriting.dev](https://technicalwriting.dev)
 * [biodigitaljazz.net](https://biodigitaljazz.net)
+* [Photos](/photos/)
 
 ## Blog
 
