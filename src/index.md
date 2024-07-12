@@ -23,9 +23,7 @@ I'm currently docs lead for [Pigweed](https://pigweed.dev).
 
 ## Blog
 
-* [Proper Full Moon songs](/blog/moon/)
 * [Why I'm taking a sabbatical](/blog/sabbatical/)
-* [My favorite words](/blog/words/)
 
 ## Profiles
 
