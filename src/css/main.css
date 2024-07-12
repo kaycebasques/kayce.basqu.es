@@ -1,3 +1,31 @@
+@font-face {
+  font-family: "Atkinson";
+  src: url(/fonts/atkinson/regular.woff2);
+}
+
+@font-face {
+  font-family: "Atkinson";
+  src: url(/fonts/atkinson/bold.woff2);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Atkinson";
+  src: url(/fonts/atkinson/bolditalic.woff2);
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Atkinson";
+  src: url(/fonts/atkinson/italic.woff2);
+  font-style: italic;
+}
+
+* {
+  font-family: "Atkinson", serif;
+}
+
 body {
   margin-bottom: 0;
   margin-left: auto;
