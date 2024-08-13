@@ -2,7 +2,8 @@
   "name": "kayce.basqu.es",
   "version": "3.0.0",
   "devDependencies": {
-    "@11ty/eleventy": "2.0.1"
+    "@11ty/eleventy": "2.0.1",
+    "firebase-tools": "13.13.2"
   },
   "scripts": {
     "build": "npx @11ty/eleventy",
