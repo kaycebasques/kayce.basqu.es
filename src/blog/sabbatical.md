@@ -5,18 +5,10 @@ title: "Why I'm taking a sabbatical"
 
 # {{ title }}
 
-I'm struggling to publish this post because there's a high risk
-I come off as a privileged asshole (here I am voluntarily leaving a
-cushy job when there are so many people who can't find any work that
-treats them with basic respect or covers their cost of living).
-I'm ultimately going through with it because quite a few people have told me
-that they are considering doing something similar. I figure it will be helpful
-to share my situation, thoughts, and experiences to help others
-decide by way of comparison whether or not a sabbatical is right for them.
-
-If you're also doing or have done a sabbatical and want to swap notes or if
-this post helps you make a decision one way or another please
-[contact me](/contact)!
+I'm taking a sabbatical. Quite a few people have told me that they are
+considering doing something similar. In this post I share my situation,
+thoughts, and experiences to help others decide by way of comparison whether
+or not a sabbatical is right for them.
 
 ## Motivations
 
@@ -110,30 +102,15 @@ focus on nutrition, exercise, etc.).
   </p>
 </blockquote>
 
-Another big factor for me is the idea that money
-does not equal wealth. Money is closely related to wealth, for sure,
-but it is not the same thing as wealth. I think of wealth
-as anything that increases my ability to survive or thrive in life.
-Examples:
-
-* Knowing first aid increases my chances of
-  survival in case of emergency. Having a million in the bank
-  won't mean shit if I'm on a nature hike 10 miles from
-  civilization and I just cut my leg badly and don't know how
-  to create a tourniquet.
-* Meditation increases my ability to handle pain (in all its forms)
-  and enjoy life. If I've got 10 million
-  in the bank but I explode in anger when someone cuts me off on the freeway
-  ("anger is like drinking poison and expecting the other person to die") I'm not
-  wealthy in my book.
-
-Money is often a very useful tool for acquiring wealth
-but it is not itself wealth. The most common trap of course
-(as hinted at in that Billy Joel song) is using up all your time
-and energy to acquire money without ever converting that money
-into wealth. I'm at a point in my life
-where it seems most worthwhile to focus on converting some
-of my money into wealth.
+Another big factor for me is the idea that money does not equal wealth. Money
+is closely related to wealth, for sure, but it is not always the same thing
+as wealth. I think of wealth as anything that increases my ability to survive
+or thrive in life. Money is often a very useful tool for acquiring wealth
+but it is not itself wealth. A common trap is using up all
+your time and energy to acquire money without ever converting that money
+into wealth. That's what the Billy Joel song is hinting at. O'Leary overworks
+himself to get that Cadillac, and he gets some kind of injury in the process,
+and now he can't even enjoy the thing he worked so hard to get.
 
 Another money-related motivator is that I'm probably too focused on
 money generally. This sabbatical is a bit of a psychological
@@ -235,18 +212,6 @@ around my money fears.
 * Health insurance. It's a mess in the United States, and I was
   worried that I would have to pay [out the wazoo][wazoo] just to get
   barebones coverage.
-
-<aside>
-  (Aside) As luck would have it, global healthcare plans seem reasonably
-  priced. My partner and I got covered under Aetna's MHP Exclusive
-  plan (their most comprehensive package) for under $300 a month total
-  (not $300 per person). We opted for the highest deductible option
-  as a bet that we won't need to use the service and because we have the
-  savings to cover those deductibles if needed. The catch however is
-  that you can only spend up to 6 months in the US.
-  This is fine for me because I'm spending most of my sabbatical
-  outside of the US.
-</aside>
 
 [wazoo]: https://dictionary.cambridge.org/us/dictionary/english/out-up-the-wazoo
 
