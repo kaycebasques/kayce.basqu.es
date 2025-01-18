@@ -1,32 +1,27 @@
-name: website
+name: deploy
 on:
-  workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: ['main']
+  workflow_dispatch:
 permissions:
   contents: read
   pages: write
   id-token: write
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: checkout
-        uses: actions/checkout@v3
-      - name: pages
-        uses: actions/configure-pages@v3
-      - name: upload
-        uses: actions/upload-pages-artifact@v1
-        with:
-          path: ${{github.workspace}}
   deploy:
     environment:
       name: github-pages
       url: ${{steps.deployment.outputs.page_url}}
-    needs: build
     runs-on: ubuntu-latest
-    name: deploy
     steps:
+      - name: checkout
+        uses: actions/checkout@v4
+      - name: configure
+        uses: actions/configure-pages@v5
+      - name: upload
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'www'
       - name: deploy
-        uses: actions/deploy-pages@v1
+        id: deployment
+        uses: actions/deploy-pages@v4
