@@ -23,7 +23,7 @@ jobs:
           sudo apt install fish
       - name: build
         run: |
-          fish $${github.workspace}}/build.fish
+          fish ${{github.workspace}}/build.fish
       - name: upload
         uses: actions/upload-pages-artifact@v3
         with:
