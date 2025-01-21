@@ -18,6 +18,9 @@ jobs:
         uses: actions/checkout@v4
       - name: configure
         uses: actions/configure-pages@v5
+      - name: fish
+        run: |
+          sudo apt install fish
       - name: build
         run: |
           fish $${github.workspace}}/build.fish
