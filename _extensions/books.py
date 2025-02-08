@@ -10,7 +10,7 @@ class BooksDirective(SphinxDirective):
 
     def run(self) -> list[nodes.Node]:
         unordered_list = nodes.bullet_list()
-        response = requests.get('https://kaycebasques.github.io/books/data.json')
+        response = requests.get('https://kaycebasques.github.io/books/src/books.json')
         data = response.json()
         for book in data:
             if book['sessions'] is None:
