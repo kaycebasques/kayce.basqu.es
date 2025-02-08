@@ -11,3 +11,7 @@ Books
 Books I'm currently reading:
 
 .. books::
+
+.. raw:: html
+
+   <!-- Hello, Bazel! -->
