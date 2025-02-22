@@ -17,6 +17,7 @@ sphinx_docs_library(
         "_static/main.css",
         "_templates/layout.html",
         "index.rst",
+        "pullups/index.rst",
     ],
 )
 

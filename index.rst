@@ -12,6 +12,7 @@ Books I'm currently reading:
 
 .. books::
 
-.. raw:: html
+.. toctree::
+   :hidden:
 
-   <!-- Hello, Bazel! -->
+   pullups/index
