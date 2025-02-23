@@ -15,4 +15,4 @@ Books I'm currently reading:
 .. toctree::
    :hidden:
 
-   pullups/index
+   pull-ups/index
