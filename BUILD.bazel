@@ -16,8 +16,11 @@ sphinx_docs_library(
         "_static/green_square.png",
         "_static/main.css",
         "_templates/layout.html",
+        "books/index.rst",
         "index.rst",
         "pull-ups/index.rst",
+        "recipes/chocolate-chip-cookies.rst",
+        "recipes/index.rst",
     ],
 )
 
@@ -30,5 +33,8 @@ sphinx_docs(
     sphinx = ":sphinx",
     deps = [
         ":sources",
-    ]
+    ],
+    extra_opts = [
+        "--fail-on-warning",
+    ],
 )
