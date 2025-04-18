@@ -12,11 +12,10 @@ sphinx_build_binary(
 sphinx_docs_library(
     name = "sources",
     srcs = [
-        "_extensions/books.py",
         "_static/green_square.png",
         "_static/main.css",
         "_templates/layout.html",
-        "books/index.rst",
+        "dragon.rst",
         "index.rst",
         "pull-ups/index.rst",
         "recipes/chocolate-chip-cookies.rst",
